@@ -128,16 +128,17 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-exec_workdir() {
-  all_projects_dir="Desktop/dev/"
-  # TODO: change when chainging project
-  dir="realappeal-esra"
+# directory where all projects live
+PARENT_DIR="Desktop/dev/"
+# directory where the current project lives
+PROJECT_DIR="MY_PROJECT_DIRECTORY"
 
-  if [ -z "$dir" ]; then
+exec_workdir() {
+  if [ -z "$PROJECT_DIR" ]; then
     clear;
-    echo -e "\033[31mPlease specify the directory in which the project resides.\nCurrently I know of the path \"$all_projects_dir$dir\" where the project dir is not yet set.\033[0m"
+    echo -e "\033[31mPlease specify the directory in which the project resides.\nCurrently I know of the path \"$PARENT_DIR$PROJECT_DIR\" where the project dir is not yet set.\033[0m"
   else
-    cd "$all_projects_dir$dir"
+    cd "$PARENT_DIR$PROJECT_DIR"
     clear
   fi
 }
