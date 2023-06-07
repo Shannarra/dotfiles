@@ -20,9 +20,9 @@ And restart Emacs.
 Custom prelute text has been added when running `ghci`.
 
 ### BASH
-Several custom/utility commands have been added:
-`sfind`   => a wrapper around `grep` excluding most possible utility, log and vendor folders (`node_modules` included)
-`emkdir`  => shorthand for "enter make directory". Creates a directory and enters it in a single command.
-`unzip`   => unzips a tarball.
-`workdir` => changes directory to one specified by the user. To set it up just change the [`PROJECT_DIR=`](https://github.com/Shannarra/dotfiles/blob/master/.bashrc#L134) variable on line 134.
-`clear_port` => clears a given port, killing all processes occupying it. Especially useful for web development.
+Several custom/utility commands have been added:  
+`sfind`   => a wrapper around `grep` excluding most possible utility, log and vendor folders (`node_modules` included)  
+`emkdir`  => shorthand for "enter make directory". Creates a directory and enters it in a single command.  
+`unzip`   => unzips a tarball.  
+`workdir` => changes directory to one specified by the user. To set it up just change the [`PROJECT_DIR=`](https://github.com/Shannarra/dotfiles/blob/master/.bashrc#L134) variable on line 134.  
+`clear_port` => clears a given port, killing all processes occupying it. Especially useful for web development.  
