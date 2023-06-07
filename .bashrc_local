@@ -1,0 +1,109 @@
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+DEFAULT='\033[0m'
+PRINT_HINT=1
+
+if [ $PRINT_HINT ]; then
+    echo "[HINT] Type \"help\" to list the available custom command shorthands"
+fi
+
+err() {
+    echo -e "${RED}$1${DEFAULT}"
+}
+
+success() {
+    echo -e "${GREEN}$1${DEFAULT}"
+}
+
+get_container() {
+    containers=$(docker ps -a --format '{{.Names}}')
+
+    if [ -z "$containers" ]; then
+        err "Docker service not running. Start it with typing \"dup\"."
+        return 1
+    fi
+    
+    web=$(echo "$containers" | head -n1 | cut -d " " -f1)
+    db=$(echo "$containers" | tail -n1 | cut -d " " -f2)
+    
+    # Customize those "if" clauses pro re nata.
+    # WEB and DB are the names used in most dockerized applications. 
+    if [ "$1" = "web" ]; then
+        success "Starting $web container shell..."
+        docker exec -it $web $2
+    elif [ "$1" = "db" ]; then
+        success "Starting $db container shell..."
+        docker exec -it $db $2
+    else
+        err "No container alias name \"$1\" was found."
+    fi
+}
+
+wsh() {
+    get_container web sh
+}
+
+dsh() {
+    get_container db sh
+}
+
+dexec() { # example: dexec web "rails db:setup"
+    get_container $1 "$2" --rm
+}
+
+dup() {
+    docker compose up --build
+}
+
+ddown() {
+    docker compose down
+}
+
+alias rails="bin/rails"
+alias rspec="bin/rspec"
+alias dbreset="rails db:reset"
+alias rserve="rails s"
+alias rconsole="rails c"
+
+help() {
+    echo "
+    Custom Rails commands by Petar <Shannarra> Angelov (https://github.com/Shannarra/)
+
+    Commands in here are used with a custom .bashrc file, placed discretely in your project's root folder.
+    In order to use it properly you might need to add the following lines to your ~/.bashrc or ~/.zshrc file:
+\"\"\"
+PROMPT_COMMAND='if [[ \"$bashrc\" != \"$PWD\" && \"$PWD\" != \"$HOME\" && -e .bashrc ]]; then bashrc=\"$PWD\"; . .bashrc; fi'
+\"\"\"
+    The custom .bashrc file will run ONCE, when you enter the folder you've placed it at.
+    Use with caution, and try not to leave a \"rm -rf ~\" in here somewhere 😆
+ 
+    Repository: https://github.com/Shannarra/dotfiles
+
+    Commands:
+  [Docker]
+    wsh                         => sh into container using alias 'web'
+    dsh                         => sh into container using alias 'db'
+    dup                         => build and \"up\" all containers
+    ddown                       => \"down\" all containers
+    dexec <container> <command> => shorthand for \"docker exec\". Executes a one-off command and exits. 
+                                       Accepts multiple paramerers, as follows:
+                                       <container> is the container name alias, e.g. \"web\"
+                                       <command> can be any command to run within the container. Must be string.
+                                       Example: 
+                                           dexec web \"rails db:setup\"
+                                       Vanilla version of the same command: 
+                                           docker exec -it --rm project_name_web_1 rails db:reset
+
+  [Rails]
+    rails    => alias for bin/rails, if needed
+    rspec    => alias for bin/rspec, if needed
+    dbreset  => resets the local database for the project
+    rserve   => starts a Rails server
+    rconsole => starts a Rails console
+
+
+  Found a bug? Have any suggestions?
+  You can always open a PR at https://github.com/Shannarra/dotfiles/pulls
+";
+}
+

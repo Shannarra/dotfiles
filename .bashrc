@@ -143,6 +143,7 @@ exec_workdir() {
   fi
 }
 
+
 emkdir() {
   mkdir $1;
   cd $1;
@@ -150,7 +151,7 @@ emkdir() {
 
 clear_port() {
     lsof -ti tcp:$1 | xargs kill -9
-    
+
     if [ $? -eq 0 ]; then
         echo -e "\e[32mPort $1 cleared successfully.\e[0m"
     else
@@ -167,3 +168,5 @@ alias q='exit'
 #alias clear_port='lsof -ti tcp:3000 | xargs kill -9'
 alias unzip='tar -xf'
 alias git_pat='cat ~/git_PAT.txt  | tail -n 1'
+
+PROMPT_COMMAND='if [[ "$bashrc" != "$PWD" && "$PWD" != "$HOME" && -e .bashrc ]]; then bashrc="$PWD"; . .bashrc; fi'
