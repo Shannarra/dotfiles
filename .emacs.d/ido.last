@@ -1,0 +1,390 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/.github/" . "workflows/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/" . "articles/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/" . "helpers/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/" . "config/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/" . "factories/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/" . "migrate/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/" . "concerns/")
+ ("/home/petarangelov/Desktop/dev/rs/stac/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/" . "layouts/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/" . "environments/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/assets/" . "stylesheets/")
+ ("/home/petarangelov/Desktop/dev/rails/" . "rails7template/")
+ ("/home/petarangelov/Desktop/dev/rs/stac/src/" . "stac/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/" . "views/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/" . "config/")
+ ("/home/petarangelov/Desktop/dev/rs/testing/" . "src/")
+ ("/home/petarangelov/Desktop/dev/python/ELU_SE_W31/" . ".github/")
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/" . "src/")
+ ("/etc/" . "datadog-agent/")
+ ("/home/petarangelov/Desktop/dev/c/raylib_testing/" . "images/")
+ ("/usr/local/" . "bin/")
+ ("/usr/" . "local/")
+ ("/" . "home/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/assets/javascripts/" . "jquery.datatables/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/assets/" . "javascripts/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/" . "file_formats/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/real_time_eligibility_query/" . "errors/")
+ ("/home/petarangelov/Desktop/dev/ruby/hackerrank_problem_solving_solutions/" . "solutions/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/v2/" . "responses/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/v1/" . "errors/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/concerns/" . "api_responses/")
+ ("/home/petarangelov/Desktop/dev/python/" . "ELU_SE_W31/")
+ ("/home/petarangelov/Desktop/dev/ruby/viber_bot/" . "viber_bot/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/" . "i5_requests/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/script/" . "performance_tests/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/" . "api/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/api/" . "v1/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/datadog.samples/" . "ruby.d/")
+ ("/home/petarangelov/blog/app/assets/" . "stylesheets/")
+ ("/home/petarangelov/blog/app/views/" . "shared/")
+ ("/home/petarangelov/blog/app/" . "views/")
+ ("/home/petarangelov/blog/" . "config/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/test/" . "fixtures/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/tmp/" . "capybara/")
+ ("/home/petarangelov/Desktop/dev/ruby/stack/" . "examples/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/data/" . "uploads/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/fixtures/files/" . "i5/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/fixtures/" . "files/")
+ ("/home/petarangelov/Desktop/dev/ruby/lutria/" . "examples/")
+ ("/home/petarangelov/realappeal-stupidedi-fork/lib/stupidedi/versions/functional_groups/" . "002001/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/mcp_services/" . "real_time_eligibility_query/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/" . "initializers/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/" . "real_time_eligibility_query/")
+ ("/home/petarangelov/realappeal-stupidedi-fork/lib/" . "stupidedi/")
+ ("/home/petarangelov/realappeal-stupidedi-fork/" . "lib/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/" . "client_import/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/" . "api/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/" . "zzzero_run_ignored_specs/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/" . "use_cases/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/" . "v1/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" . "mcp_services/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/db/" . "migrate/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/" . "jobs/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/" . "lib/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_cli/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/client/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/server/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/" . "server/")
+ ("/home/petarangelov/Desktop/bevy-tetris/" . "src/")
+ ("/home/petarangelov/Desktop/Craft/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/tcp_client/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/" . "command_execution/")
+ ("/home/petarangelov/Desktop/dev/rs/multithreading/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/" . "redis_engine/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/edit-rs/" . "src/")
+ ("/home/petarangelov/Desktop/dev/c/curl/" . "src/")
+ ("/home/petarangelov/Desktop/dev/ruby/my_sqlite/" . "tests/")
+ ("/home/petarangelov/Desktop/dev/rs/reditor/" . "src/")
+ ("/home/petarangelov/Desktop/my_bsq/" . "maps/")
+ ("/home/petarangelov/Desktop/QWASAR_Projects/" . "my-sqlite/")
+ ("/home/petarangelov/Desktop/maze-solver/" . "src/")
+ ("/home/petarangelov/Desktop/dev/c/" . "birb/")
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/src/" . "syntax/")
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/" . "src/")
+ ("/home/petarangelov/Desktop/dev/ruby/ex-ev/" . "syntax/")
+ ("/home/petarangelov/.cargo/registry/src/github.com-1ecc6299db9ec823/" . "regex-syntax-0.6.26/")
+ ("/home/petarangelov/Desktop/dev/ruby/" . "json-rb/")
+ ("/home/petarangelov/Desktop/dev/rs/rust-test-app/src/" . "x_ev/")
+ ("/home/petarangelov/Desktop/dev/rs/rust-test-app/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/" . "testing/")
+ ("/home/petarangelov/.rustup/" . "downloads/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/activities/templates/" . "ProductPreferenceTemplate/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/activities/" . "templates/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/activity_config_versions/" . "v2/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/" . "nginx/")
+ ("/home/petarangelov/Desktop/dev/hs/" . "learning/")
+ ("/home/" . "petarangelov/")
+ ("/home/petarangelov/.emacs.d/" . "auto-save-list/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/" . "activities/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/" . "js/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/" . "app/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/admin/api/" . "v1/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/admin/" . "api/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/" . "admin/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/" . "controllers/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/" . "app/")
+ ("/home/petarangelov/" . "Desktop/")
+ ("/home/petarangelov/Desktop/dev/ableto/" . "rails/")
+ ("/home/petarangelov/Desktop/dev/" . "rails/")
+ ("/home/petarangelov/Desktop/" . "dev/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/petarangelov/Desktop/dev/rails/rails7template/config/"
+ "/home/petarangelov/Desktop/dev/rails/rails7template/"
+ "/home/petarangelov/Desktop/dev/rails/rails7template/bin/"
+ "/home/petarangelov/Desktop/dev/rails/rails7template/.github/workflows/"
+ "/home/petarangelov/Desktop/dev/rails/rails7template/app/helpers/"
+ "/home/petarangelov/Desktop/dev/rails/rails7template/db/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/factories/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/requests/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/spec/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/controllers/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/articles/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/views/articles/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/.github/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/comments/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/migrate/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/javascript/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/welcome/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/concerns/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/assets/stylesheets/"
+ "/home/petarangelov/Desktop/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/real_time_eligibility_query/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/config/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/db/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/concerns/"
+ "/home/petarangelov/Desktop/dev/rs/stac/src/stac/"
+ "/home/petarangelov/Desktop/dev/rs/stac/src/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/layouts/"
+ "/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/initializers/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/src/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/data_transfers/"
+ "/home/petarangelov/Desktop/dev/python/ELU_SE_W31/"
+ "/home/petarangelov/Desktop/dev/python/ELU_SE_W31/.github/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/jobs/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/config/initializers/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/spec/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/edi_claim_submission/"
+ "/home/petarangelov/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/validators/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/spec/zzzero_run_ignored_specs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "routes.rb"
+ "database.yml"
+ "startup.sh"
+ "Dockerfile"
+ "docker-entrypoint.sh"
+ "ruby.yml"
+ "Gemfile"
+ ".env"
+ ".env.example"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/config/" (25887 56717 748262 185000) "environments/" "importmap.rb" "../" "initializers/" "storage.yml" "./" "database.yml" "locales/" "routes.rb" "environment.rb" "boot.rb" "puma.rb" "cable.yml" "application.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/db/" (25887 56717 748262 185000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/" (25887 56731 156307 83000) "log/" "../" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "startup.sh" "Dockerfile")
+
+ ("/home/petarangelov/" (25886 51891 372072 236000) "schema.yml" ".viminfo" "help.txt" ".ghci" ".emacs.rc/" "../" ".vscode/" ".yarnrc.yml" ".mysql_history" ".sqlite_history" ".emacs.snippets/" ".bundle/" ".profile" ".bash_logout" "phantomjs-2.1.1-linux-x86_64.tar.bz2" ".yarnrc" "nano.save" ".wget-hsts" "token.txt" ".thunderbird/" ".nvm/" "raylib/" "shannarra" "is_ableto.pub" "rvo_recovery_codes.txt" ".ssh/" "git_MM_PAT.txt" "is_ableto" "Templates/" "id_ableto_rsa" "rvo_pat.txt" ".vmware/" ".cargo/" ".docker/" "Documents/" "./" "google-chrome-stable_current_amd64.deb" ".qws/" ".gemrc" ".docker-sync-global.yml" ".emacs.d/" ".lesshst" "Applications/" "test.rb.save" ".config/" ".ghc/" ".dotnet/" ".python_history" ".android/" ".yarn/" "shannarra.pub" "ruby-build/" ".putty/" "id_ableto_rsa.pub" "Desktop/" "subhook/" "Videos/" ".gem/" "dotfiles/" "RubymineProjects/" ".rbenv/" "noed/" "porth/" ".irb_history" "test.rb" ".bash_history" "passwords.txt" "id_shannarra.pub" "Downloads/" "blog/" "git_PAT.txt" "Pictures/" ".java/" ".bin/" ".cache/" "dotfiles.tar.gz" ".rustup/" "classes.json" ".unison/" "WebstormProjects/" "help.txt~" ".emacs~" "snap/" "kill_on_X.sh" "report.xml" "appimage-v94.0-1/" "id_shannarra" "Public/" ".emacs" ".bashrc" "realappeal-stupidedi-fork/" ".npm/" ".local/" ".ViberPC/" ".gitconfig" ".gnupg/" ".pki/" "null" ".mozilla/" ".bashrc.save.1" "phantomjs-1.9.8-linux-x86_64.tar.bz2" ".git-credentials" ".wine/" ".var/" ".bashrc~" ".stack/" ".gitignore" "#.bashrc#" ".node_repl_history" ".git-templates/" "nano.save.1" ".psql_history" ".emacs.local/" ".sudo_as_admin_successful" ".bashrc.save" "ddagent-install.log" "Music/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/helpers/" (25887 55573 825509 918000) "../" "application_helper.rb" "./" "welcome_helper.rb" "comments_helper.rb" "articles_helper.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/bin/" (25887 55573 825509 918000) "../" "rspec" "rubocop" "setup" "./" "docker-entrypoint.sh" "render-build.sh" "bundle" "rake" "rails" "importmap")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/.github/" (25887 55573 821509 958000) "../" "./" "dependabot.yml" "workflows/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/.github/workflows/" (25887 55573 821509 958000) "../" "./" "ruby.yml")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/" (25886 58740 267802 402000) "helpers/" "jobs/" "../" "channels/" "views/" "./" "javascript/" "images/" "mailers/" "assets/" "models/" "controllers/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/assets/" (25886 58822 496733 758000) "stylesheets/" "../" "./" "config/" "images/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/assets/config/" (25886 58876 841382 70000) "../" "./" "manifest.js")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/articles/" (25886 44098 501695 1000) "../" "show.json.jbuilder" "./" "_comments.html.erb" "_article.html.erb" "_form.html.erb" "edit.html.erb" "index.json.jbuilder" "_article.json.jbuilder" "new.html.erb" "show.html.erb" "_article_card.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/models/" (25886 37774 301373 456000) "../" "article.rb" "./" "application_record.rb" "concerns/" "comment.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/" (25583 32872 83687 922000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+
+ ("/home/petarangelov/Desktop/dev/rails/" (25886 42068 972861 838000) "../" "./" "ReCommendMe/" "rails7template/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/" (25886 41857 590102 822000) "log/" "lib/" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "storage/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "vendor/" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "Dockerfile")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/environments/" (25886 41742 933722 722000) "../" "./" "development.rb" "test.rb" "production.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/" (25886 41690 743517 500000) "environments/" "importmap.rb" "../" "initializers/" "storage.yml" "./" "database.yml" "locales/" "routes.rb" "environment.rb" "boot.rb" "puma.rb" "cable.yml" "application.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/layouts/" (25886 41611 191857 615000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/" (25886 41562 453414 995000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/requests/" (25886 41019 46512 859000) "../" "./" "articles_spec.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/" (25886 39992 555537 432000) "helpers/" "rails_helper.rb" "../" "views/" "./" "routing/" "spec_helper.rb" "models/" "factories/" "requests/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/factories/" (25886 39009 353707 300000) "../" "./" "articles.rb" "comments.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/concerns/" (25885 19667 267547 501000) "../" "./")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/javascript/" (25885 25232 574867 788000) "../" "./" "application.js" "controllers/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/" (25886 37774 301373 456000) "../" "article.rb" "./" "application_record.rb" "concerns/" "comment.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/migrate/" (25886 37636 521666 433000) "../" "20231004111935_create_articles.rb" "./" "20231004111942_create_comments.rb" "20231004111920_create_active_storage_tables.active_storage.rb" "20231004111918_create_action_text_tables.action_text.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/controllers/" (25886 37536 293934 71000) "../" "welcome_controller.rb" "application_controller.rb" "./" "comments_controller.rb" "concerns/" "articles_controller.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/views/articles/" (25886 36019 691051 509000) "../" "index.html.erb_spec.rb" "./" "edit.html.erb_spec.rb" "show.html.erb_spec.rb" "new.html.erb_spec.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/views/" (25583 32872 95684 954000) "../" "./" "articles/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/.github/workflows/" (25886 35496 884982 440000) "../" "./" "ruby.yml")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/.github/" (25583 32872 75689 900000) "../" "./" "dependabot.yml" "workflows/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/comments/" (25885 32434 518416 775000) "../" "./" "_comment.html.erb" "_new.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/articles/" (25885 28277 840992 363000) "../" "show.json.jbuilder" "./" "_comments.html.erb" "_article.html.erb" "_form.html.erb" "edit.html.erb" "index.json.jbuilder" "_article.json.jbuilder" "new.html.erb" "show.html.erb" "_article_card.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/welcome/" (25885 19588 906088 837000) "../" "./" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/job_results/" (25884 5492 624019 690000) "../" "_headers.html.erb" "./" "_row.html.erb" "show.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/data_transfer_results/" (25884 5492 620019 444000) "../" "_headers.html.erb" "./" "show.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/shared/" (25884 5492 660021 903000) "_show_customizations.html.erb" "../" "_index_table.html.erb" "_request_schedule.html.erb" "./" "_customizations_form.html.erb" "_ajax_index_table.html.erb" "_key_value_form.html.erb" "_flash.html.erb" "_request_status_mailer.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/background_jobs/" (25884 5493 80047 725000) "../" "./" "job.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/" (25884 5493 316062 240000) "lib/" "support/" "helpers/" "jobs/" "rails_helper.rb" "../" "zzzero_run_ignored_specs/" "./" "factories.rb" "data_table/" "mailers/" "_features/" "fixtures/" "use_active_record.rb" "spec_helper.rb" "models/" "searches/" "controllers/" "requests/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/v1/errors/" (25884 5493 36045 19000) "duplicate_request_error.rb" "program_does_not_allow_enrollment_error.rb" "achievement_not_available_error.rb" "../" "ens_unavailable_error.rb" "may_be_secondary_insurance_error.rb" "insurance_information_not_found_error.rb" "./" "not_eligible_error.rb" "invalid_template_id.rb" "member_may_have_medicare_error.rb" "unauthorized_error.rb" "duplicate_achievement_for_member_error.rb" "member_does_not_generate_claims_error.rb" "server_error.rb" "duplicate_achievemen_date_for_member_error.rb" "program_not_available_error.rb" "member_not_found_error.rb" "member_already_has_rally_id_error.rb" "client_does_not_offer_programs_error.rb" "client_not_found_error.rb" "secondary_insurance_query_missing_member_reference_error.rb" "client_does_not_allow_reenrollment_error.rb" "missing_required_value_error.rb" "unprocessable_error.rb" "invalid_format_error.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/datadog.samples/" (25884 5492 716025 346000) "../" "ruby.d/" "./" "datadog.yml.example" "README.md")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/api/" (25884 5492 540014 526000) "../" "./" "v1_controller.rb" "v2_controller.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/zzzero_run_ignored_specs/" (25884 5493 316062 240000) "../" "./" "run_feature_tests_spec.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/validators/" (25884 5492 604018 460000) "../" "./" "client_validator.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/edi_claim_submission/" (25884 5493 144051 662000) "generate_edi_for_claims.rb" "../" "claims_edi_config.rb" "./")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/initializers/" (25884 5492 788029 772000) "session_store.rb" "assets.rb" "../" "backtrace_silencers.rb" "cookies_serializer.rb" "validates_timeliness.rb" "inflections.rb" "errbit.rb" "./" "delayed_job_config.rb" "date_formats.rb" "filter_parameter_logging.rb" "lograge.rb" "devise_async.rb" "aasm_state.rb" "paperclip.rb" "datadog.rb" "wrap_parameters.rb" "mime_types.rb" "symbol.rb" "devise.rb" "fix_semaphore_tests.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/" (25884 5492 556015 509000) "users/" "employers_controller.rb" "policies_controller.rb" "fulfillment_skus_controller.rb" "api/" "../" "system_statuses_controller.rb" "branding_groups_controller.rb" "claims_controller.rb" "ens_override_records_controller.rb" "eligibility_records_controller.rb" "client_customization_serializer.rb" "i5_requests_controller.rb" "client_insurance_carriers_controller.rb" "achievements_controller.rb" "client_import_requests_controller.rb" "api_requests_controller.rb" "client_customization_attachments_controller.rb" "system_values_controller.rb" "dashboard_controller.rb" "eligibility_tools_controller.rb" "downloads_controller.rb" "application_controller.rb" "./" "i5_files_controller.rb" "members_controller.rb" "data_transfer_results_controller.rb" "data_transfer_result_files_controller.rb" "cpt_rates_controller.rb" "clients_controller.rb" "client_import_request_schedules_controller.rb" "answer_center_controller.rb" "comorbidities_controller.rb" "ra_enrollment_errors_controller.rb" "eligibility_api_results_controller.rb" "member_searches_controller.rb" "api_monitoring_controller.rb" "job_results_controller.rb" "zillion_subdomain_insurer_options_controller.rb" "insurance_carriers_controller.rb" "programs_controller.rb" "sftp_users_controller.rb" "achievement_types_controller.rb" "concerns/" "i5_request_schedules_controller.rb" "rate_templates_controller.rb" "i5_eligibility_sources_controller.rb" "zillion_subdomains_controller.rb" "sponsors_controller.rb" "users_controller.rb" "api_tokens_controller.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/jobs/" (25884 5492 560015 755000) "post_sales_export_job.rb" "../" "crosswalk_job.rb" "client_import_approve_load_job.rb" "./" "clear_i5_row_job.rb" "i5_approve_load_job.rb" "client_export_job.rb" "clear_client_import_row_job.rb" "i5_preprocess_job.rb" "client_import_preprocess_job.rb" "i5_cleanup_job.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/data_transfers/" (25884 5493 136051 170000) "zir_med.rb" "../" "base.rb" "crosswalk_export.rb" "./" "outbound_sftp.rb" "client_limited_import.rb" "client_export.rb" "client_import.rb" "outbound_s3.rb" "post_sales_client_export.rb")
+
+ ("/home/petarangelov/Desktop/dev/rs/stac/src/stac/" (25883 65419 747130 475000) "compiler.rs" "../" "./" "mod.rs" "types.rs")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/assets/stylesheets/" (25885 13503 947133 140000) "../" "application.scss" "./" "actiontext.css")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/" (25884 5492 600018 214000) "../" "remove_tertiary_candidates.rb" "approval.rb" "file_help.rb" "attaches_file.rb" "./" "aetna_fixes_fields.rb" "marks_invalids.rb" "loads_file.rb" "remove_old_actives.rb" "ccw_fixes_fields.rb" "file_formats/" "preprocessing_report.rb" "preprocess.rb" "file_formats.rb" "remove_old_updates.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/file_formats/" (25884 5492 600018 214000) "../" "centurylink_optum_fixed.rb" "centurylink_uhc.rb" "./" "medicare_advantage_ca.rb" "default_i5.rb" "centurylink_optum.rb" "ep3000.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/real_time_eligibility_query/" (25884 5493 184054 122000) "eligibility_response.rb" "../" "reject_reason_code.rb" "./" "eligibility_inquiry.rb" "errors/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/" (25884 5493 184054 122000) "mcp_services.rb" "../" "real_time_eligibility_query/" "./" "real_time_eligibility_query_service.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" (25884 5493 188054 368000) "eligibility_api_summary.rb" "background_jobs/" "test_rail_api_client.rb" "api/" "client_updater.rb" "../" "create_claims_from_achievements.rb" "check_insurance_status.rb" "data_transfers/" "create_achievement_from_achieve_project.rb" "determine_achieve_template_id.rb" "send_claims_to_zir_med.rb" "./" "s3/" "fetch_sftp_files.rb" "kafka_config.rb" "background_jobs.rb" "s3.rb" "helper/" "eligibility_flow.rb" "fixtures.rb" "reprocess_i5_achievements.rb" "fixtures/" "data_transfers.rb" "get_and_process_achievements.rb" "test_rail_api_client/" "test_rail.rb" "external/" "assets/" "send_achievement_results_to_achieve_project.rb" "imports.rb" "edi_claim_submission/" "tasks/" "reprocess_extended_rate_periods.rb" "json_parse_error_handler.rb" "check_eligibility.rb" "utf8_sanitizer.rb" "mcp_services/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/" (25884 5492 820031 739000) "okta_saml.yml.example" "environments/" "team_emails.yml" "kafka_config.yml.sample" "../" "logstash-forwarder.conf" "database.yml.example" "deploy.rb" "database_for_ci.yml" "initializers/" "mcp_services.yml.example" "unicorn.conf.example.rb" "sftp_fetch_servers.yml.example" "nginx/" "./" "brakeman.ignore" "manage-sftp-users.sh" "init.d.samples/" "test_rail_api.yml.example" "database.yml" "locales/" "mcp_services.yml" "s3.yml.example" "schedule.rb" "logrotate/" "okta_saml.yml" "secrets.yml" "monit_samples/" "claims_edi_config.yml.example" "errbit_elk/" "azure_activedirectory.yml" "routes.rb" "environment.rb" "boot.rb" "data_transfer_credentials.yml.example" "deploy/" "skylight.yml" "kafka_config.yml" "cucumber.yml" "kong_config.yml.example" "application.rb" "azure_activedirectory.yml.example" "datadog.samples/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/db/" (25884 5492 860034 199000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/" (25884 5493 316062 240000) "log/" "lib/" "../" "spec/" ".bundle/" "test/" "nano.save" ".capistrano/" "tmp/" "docker-compose.yml" ".rubocop.yml" ".rspec" "vitals.yaml" "public/" ".idea/" "./" "package.json" "repoman.yaml" "data/" "config/" "Gemfile.lock" "db/" "coverage/" ".ruby-version" ".simplecov" "config.ru" ".circleci/" "Capfile" "app/" "Gemfile" "vendor/" "entrypoint.sh" "install_phantomjs.sh" "README.md" "Rakefile" ".git/" ".bashrc" "bin/" "features/" "package-lock.json" ".gitignore" ".ruby-gemset" ".rspec-repositories" "Dockerfile" "script/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/" (25884 5492 604018 460000) "client_import_row.rb" "i5_eligibility_source.rb" "program_comorbidity.rb" "job_result.rb" "../" "fulfillment_rule_type.rb" "program_rate.rb" "api_token.rb" "zillion_subdomain.rb" "branding_group.rb" "program.rb" "policy.rb" "eligibility_status_program.rb" "eligibility_api_result.rb" "healthfleet_api_request.rb" "client_insurance_carrier_claim.rb" "default_fulfillment_rule.rb" "rally_point_in_time_eligibility.rb" "eligibility_tool.rb" "data_transfer_result_file.rb" "sponsor.rb" "i5_request.rb" "client_import_request.rb" "./" "insurance_carrier.rb" "achievement_type.rb" "comorbidity_rate_period_program.rb" "user.rb" "ens_response.rb" "employer.rb" "client.rb" "client_import_request_schedule.rb" "fulfillment_sku.rb" "claim.rb" "rate_period.rb" "i5_request_scheduler.rb" "achievement_comorbidity.rb" "healthfleet_authentication.rb" "eligibility_restriction.rb" "i5_request_schedule.rb" "application_record.rb" "fulfillment_rule.rb" "client_insurance_carrier.rb" "primacy_period.rb" "eligibility_record.rb" "client_import_request_scheduler.rb" "person.rb" "comorbidity.rb" "pvrc.rb" "concerns/" "default_customizations.rb" "i5_row.rb" "cpt_rate.rb" "zillion_subdomain_insurer_option.rb" "public_attached_file.rb" "client_limited_import_row.rb" "achievement.rb" "data_transfer_result.rb" "client_import/" "system_value.rb" "rate_period_program.rb" "i5/" "eligibility_status.rb" "rate_template.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/concerns/" (25884 5492 596017 968000) "../" "client_finder.rb" "scheduler.rb" "api_responses.rb" "address.rb" "schedulable.rb" "post_sales_info.rb" "eligibility_type.rb" "i5_request_state_machine.rb" "funding_designation.rb" "relationship_code.rb" "./" "client_api_sync_change_detector.rb" "client_achieve_template_id_change_detector.rb" "client_import_request_state_machine.rb" "primacy_type.rb" "time_zone.rb" "qualification_criteria.rb" "i5.rb" "client_import.rb" "program_rate_period_history.rb" "customizable.rb" "api_responses/" "contact_person.rb" "phone_number.rb" "api_records.rb" "null_rate.rb" "branding_group_values.rb")
+
+ ("/home/petarangelov/Desktop/dev/rs/stac/src/" (25883 64785 578823 569000) "../" "stac/" "main.rs" "./" "lib.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/stac/" (25882 37850 124554 267000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/" (25800 61494 552218 24000) "js/" "cpp/" "../" "output.txt" "ruby/" "errbit/" "./" "python/" "qwasar_solutions/" "dotfiles/" "rails-devise-template/" "svelte/" "test.rb" "aoc/" "test.html" "asm/" "el/" "realappeal-esra/" "c/" "classes.txt" "elastic_suite/" "rs/" "rails/" "hs/" "aoc21/" "ableto/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/config/initializers/" (25882 43358 577330 953000) "assets.rb" "../" "backtrace_silencers.rb" "inflections.rb" "./" "content_security_policy.rb" "filter_parameter_logging.rb" "wrap_parameters.rb" "mime_types.rb" "permissions_policy.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/assets/" (25583 32872 79688 911000) "stylesheets/" "../" "./" "config/" "images/")
+
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/" (25882 34944 229719 459000) "../" "spec/" ".bundle/" ".rspec" "./" "Gemfile.lock" "Gemfile" "vendor/" "src/" "main.rb" "bin/")
+
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/src/" (25882 36342 474027 573000) "../" "./" "utils.rb" "parser.rb")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/views/" (25583 32872 83687 922000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+
+ ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/" (25583 32872 79688 911000) "helpers/" "jobs/" "../" "channels/" "views/" "./" "javascript/" "mailers/" "assets/" "models/" "controllers/")
+
+ ("/home/petarangelov/Desktop/dev/rs/testing/src/" (25526 52336 683786 408000) "../" "main.rs" "./")
+
+ ("/home/petarangelov/Desktop/dev/rs/testing/" (25526 52317 583607 38000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/" (25589 61213 328199 167000) "my_rust_mastermind/" "../" "tcp_client/" "testing/" "./" "rust-test-app/" "reditor/" "my_redis_cli/" "edit-rs/" "my_redis_server/" "ex-ev/" "my_ping_server/" "multithreading/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/api/v1/" (25867 1738 310033 360000) "create_policy_request_spec.rb" "api_error_spec.rb" "../" "./" "finder_spec.rb" "eligibility_request_spec.rb" "create_member_and_policy_request_spec.rb" "sync_insurers_list_spec.rb" "errors/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/concerns/" (25867 1738 130035 474000) "../" "./" "redirectable.rb" ".keep")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/client_customization_attachments/" (25867 1738 162035 98000) "../" "_headers.html.erb" "./" "_form.html.erb" "edit.html.erb" "new.html.erb" "show.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/views/client_insurance_carriers/" (25867 1738 162035 98000) "../" "_headers.html.erb" "./" "_row.html.erb" "show.html.erb" "index.html.erb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/data_tables/" (25867 1738 134035 427000) "client_customization_attachments_data_table.rb" "../" "client_import_requests_data_table.rb" "data_transfer_results_data_table.rb" "sponsors_data_table.rb" "members_data_table.rb" "./" "employer_clients_data_table.rb" "ac_clients_data_table.rb" "cpt_rates_data_table.rb" "eligibility_api_summary_data_table.rb" "achievements_data_table.rb" "data_table_common.rb" "i5_requests_data_table.rb" "api_requests_data_table.rb" "eligibility_records_data_table.rb" "employers_data_table.rb" "clients_data_table.rb")
+
+ ("/home/petarangelov/Desktop/" (25868 3029 481542 876000) "week26-Petar_Angelov.docx" "bin.rb" "rails_update/" "uml.png" "zxc.jpg" "../" "Screenshot from 2023-08-31 13-01-26.png" ".qasar.sh.swn" "N/" "aintnoway.webp" "QWASAR_Projects/" "week16.txt" "large-file-testRA620.csv" "logo.svg" "testing/" "week28-Petar_Angelov.docx" "enr.png" "wget-log.1" "./" "Client_Import_esra_modern1(1).csv" "Story Mapping.pdf" "week21-Petar_Angelov.docx" "killme.png" "unnamed.png" "err.png" "microservices.png" "wget-log" "uat_dump.sql" "assignment.txt" "week27-Petar_Angelov.docx" "week29-Petar_Angelov.dotx" "my-malloc/" "testing.csv" "LP.png" "week23-Petar_Angelov.docx" "metric.png" "week20-Petar_Angelov.docx" "maze-solver/" "ult" "week19-Petar_Angelov.docx" "MMUPA029A310520230309.jpg" "AOC.rb" "errors.png" "test.rb" "db_test.yml" "AAAAHHH.mp3" "test.html" "week22-Petar_Angelov.pdf" "week22-Petar_Angelov.docx" "asd.png" "movies.db" "dev/" "qwasar-sql/" "week3assignment.txt" "classes.txt" "AlgoExpert_Certificate.pdf" "week29-Petar_Angelov.docx" "porth-master/" "petar!angelov@mentormate!com!17dc2d48-0c3c-4a9c-9ce3-b71f615cbc13.png" "daily_tips/" "week24-Petar_Angelov.docx" ".qasar.sh.swp" "Screenshot from 2023-08-29 12-26-25.png" "kafka-testapp/" "veli.MOV" ".23.11.2021.txt.swp" "I5Coaching_Casey.csv" ".qasar.sh.swo" "grades.png" "week18-Petar_Angelov.docx" "ex-ev/" "BC/" "week16-Petar-Angelov.docx" "week25-Petar_Angelov.docx" "Untitled.png")
+
+ ("/home/petarangelov/Desktop/dev/python/ELU_SE_W31/" (25865 34323 734006 976000) "shopping_cart.py" "../" "./" ".github/" "fixes.md" "__pycache__/" "README.md" ".git/" "shopping_cart_tests.py")
+
+ ("/home/petarangelov/Desktop/dev/python/" (25865 30583 724405 407000) "course/" "../" "ELU_SE_W31/" "chatbot/" "./")
+
+ ("/home/petarangelov/Desktop/dev/python/ELU_SE_W31/.github/" (25865 32419 169035 469000) "../" "ci.yml" "./")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/" (25860 9871 743755 573000) "background_jobs/" "api/" "../" "data_transfers/" "eligibility_flow_spec.rb" "get_and_process_achievements_spec.rb" "./" "send_claims_to_zirmed_spec.rb" "determine_achieve_template_id_spec.rb" "check_eligibility_spec.rb" "create_achievement_from_achieve_project_spec.rb" "create_claims_from_achievements_spec.rb" "external/" "check_insurance_status_spec.rb" "eligibility_api_summary_spec.rb" "tasks/" "mcp_services/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/.circleci/" (25860 9871 43737 107000) "../" "./" "config.yml")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/client_import/" (25858 61686 851500 330000) "../" "writes_limited_error_log.rb" "approval.rb" "writes_import_file.rb" "loads_limited_file.rb" "file_help.rb" "attaches_file.rb" "./" "creates_log_directory.rb" "marks_invalids.rb" "reports_name_changes.rb" "loads_file.rb" "writes_error_log.rb" "preprocessing_report.rb" "preprocess.rb")
+
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/spec/" (25856 39342 965468 963000) "parsers_spec.rb" "../" "./" "spec_helper.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/environments/" (25856 18492 592799 701000) "../" "uat.rb" "./" "development.rb" "test.rb" "staging.rb" "dev.rb" "production.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/" (25856 18492 672800 129000) "../" "v1/" "./" "v2/" "hasher.rb" "v2.rb" "v1.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/step_definitions/" (25856 18492 656800 44000) "api_steps.rb" "login_steps.rb" "zillion_subdomain_steps.rb" "job_steps.rb" "i5_steps.rb" "create_policy.rb" "../" "create_member_and_policy.rb" "member_steps.rb" "achievement_steps.rb" "i5_eligibility_source_steps.rb" "client_insurance_carrier_steps.rb" "omniauth_steps.rb" "eligibility_steps.rb" "get_member_achieve_template_id.rb" "./" "eligibility_ui_steps.rb" "omniauth_activedirectory_steps.rb" "client_steps.rb" "generate_claims_for_members_steps.rb" "authentication_steps.rb" "insurance_carrier_steps.rb" "api_token_steps.rb" "base_steps.rb" "comorbidity_steps.rb" "crosswalk_steps.rb" "achievement_types_steps.rb" "customization_steps.rb" "sponsor_steps.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/use_cases/" (25856 18492 664800 87000) "post_sales_client.feature" "sync_client_list2.feature" "add_edit_elibility_record_in_ui.feature" "sync_client.feature" "create_achievement.feature" "create_insurance_carrier.feature" "../" "login.feature" "i5_loading.feature" "create_policy.feature" "create_client.feature" "set_rally_id.feature" "./" "sync_client_v2.feature" "client_insurance_carrier.feature" "api_token_security.feature" "crosswalk.feature" "generate_claims_for_member.feature" "create_i5_eligibility_source.feature" "eligibility_dont_save_member.feature" "create_member_and_policy.feature" "get_member_achieve_template_id.feature" "sync_client_list.feature" "coaching_eligibility.feature" "sync_insurers_list.feature" "achieve_project_achievements.feature" "client_import.feature" "sync_subdomain_and_ui_rules_list.feature" "omniauth_activedirectory.feature" "sync_insurers_list2.feature" "get_rally_id_or_big_5.feature" "create_comorbidity.feature" "client_insurer_info.feature" "achievement_types.feature" "answer_center_client_lookup.feature" "eligibility.feature" "omniauth.feature" "sync_subdomain_and_ui_rules_list_v2.feature")
+
+ ("/home/petarangelov/.emacs.rc/" (25422 45291 341897 531000) "../" "rc.el" "./" "org-mode-rc.el" "autocommit-rc.el" "misc-rc.el")
+
+ ("/home/petarangelov/.emacs.local/" (25422 45291 337897 482000) ".gitkeep" "../" "simpc-mode.el" "jai-mode.el" "noq-mode.el" "./" "basm-mode.el" "nothings-mode.el" "porth-mode.el")
+
+ ("/home/petarangelov/Desktop/dev/ruby/" (25850 61838 986558 256000) "messenger_bot/" "../" "main.rb~" "stupidity/" "json-rb/" "lutria/" "sqlite/" "my_sqlite/" "hackerrank_problem_solving_solutions/" "testing/" "./" "viber_bot/" "arr.txt" "asm-converter/" "qwasar-sql/" "main.rb" "nutria/" "ruby_goto/" "ruby-goto/" "stack/" "ex-ev/")
+
+ ("/etc/datadog-agent/" (25845 47730 635165 39000) "checks.d/" "datadog.yaml.example" "../" "compliance.d/" "security-agent.yaml.example" "./" "runtime-security.d/" "datadog.yaml" "selinux/" "install_info" "system-probe.yaml.example" "datadog.yaml~" "auth_token" "conf.d/")
+
+ ("/home/petarangelov/Desktop/dev/c/birb/" (25841 62291 302367 963000) "../" "./" "run.sh" "birb.c")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/helper/" (25820 42761 127611 781000) "../" "constant.rb" "./" "index.rb" "pvrc.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/external/" (25820 42761 119611 741000) "../" "mpe_eligibility_query_service.rb" "./")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/s3/" (25820 42761 127611 781000) "../" "./" "connection.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/tasks/" (25820 42761 131611 801000) "../" "./" "i5_eligibility.rake" "data_update.rake" "real_time_eligibility.rake" "cucumber.rake" ".keep" "run_feature_tests.rake")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

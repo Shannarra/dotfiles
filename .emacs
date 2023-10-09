@@ -13,6 +13,7 @@
    ((eq system-type 'gnu/linux) "Iosevka-20")))
 
 (add-to-list 'default-frame-alist `(font . ,(rc/get-default-font)))
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
 
 (tool-bar-mode 0)
 (menu-bar-mode 0)
@@ -40,7 +41,8 @@
 (global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
 (global-set-key (kbd "C-z")         'undo)
 (global-set-key (kbd "M-g M-f")     'goto-line)
-
+(global-set-key (kbd "C-c C-d")     (print "# rubocop:disable "))
+(global-set-key (kbd "C-c C-e")     (print "# rubocop:enable "))
 
 (setq-default tab-width 2)
 (setq initial-scratch-message "
@@ -355,7 +357,7 @@ compilation-error-regexp-alist-alist
  '(org-refile-use-outline-path (quote file))
  '(package-selected-packages
    (quote
-    (rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash)))
+    (filetree rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash)))
  '(safe-local-variable-values
    (quote
     ((eval progn

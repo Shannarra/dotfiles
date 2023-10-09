@@ -129,7 +129,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # directory where all projects live
-PARENT_DIR="Desktop/dev/"
+PARENT_DIR="MY_PARENT_DIRECTORY"
 # directory where the current project lives
 PROJECT_DIR="MY_PROJECT_DIRECTORY"
 
@@ -163,10 +163,11 @@ clear_port() {
 alias workdir=exec_workdir
 
 # Utility commands
-alias sfind='grep -rn $1 --exclude-dir="spec" --exclude-dir="node_modules" --exclude-dir=".git" --exclude-dir="vendor" --exclude-dir="log"'
+alias sfind='grep -rn $1 --exclude-dir="spec" --exclude-dir="node_modules" --exclude-dir=".git" --exclude-dir="vendor" --exclude-dir="log" --exclude-dir="coverage"'
 alias q='exit'
 #alias clear_port='lsof -ti tcp:3000 | xargs kill -9'
 alias unzip='tar -xf'
 alias git_pat='cat ~/git_PAT.txt  | tail -n 1'
+alias pfind='ps -aux | grep $1'
 
 PROMPT_COMMAND='if [[ "$bashrc" != "$PWD" && "$PWD" != "$HOME" && -e .bashrc ]]; then bashrc="$PWD"; . .bashrc; fi'

@@ -1,0 +1,335 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/" . "concerns/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/" . "tasks/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/" . "lib/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/" . "step_definitions/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/" . "v2/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" . "tasks/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/db/" . "migrate/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/" . "models/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/" . "spec/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_cli/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/client/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/server/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/" . "server/")
+ ("/home/petarangelov/Desktop/bevy-tetris/" . "src/")
+ ("/home/petarangelov/Desktop/Craft/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/tcp_client/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/" . "command_execution/")
+ ("/home/petarangelov/Desktop/dev/rs/multithreading/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/" . "redis_engine/")
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/edit-rs/" . "src/")
+ ("/home/petarangelov/Desktop/dev/c/curl/" . "src/")
+ ("/home/petarangelov/Desktop/dev/ruby/my_sqlite/" . "tests/")
+ ("/home/petarangelov/Desktop/dev/rs/reditor/" . "src/")
+ ("/home/petarangelov/Desktop/my_bsq/" . "maps/")
+ ("/home/petarangelov/Desktop/QWASAR_Projects/" . "my-sqlite/")
+ ("/home/petarangelov/Desktop/maze-solver/" . "src/")
+ ("/home/petarangelov/Desktop/dev/c/" . "my_curl/")
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/src/" . "syntax/")
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/" . "src/")
+ ("/home/petarangelov/Desktop/dev/ruby/ex-ev/" . "syntax/")
+ ("/home/petarangelov/.cargo/registry/src/github.com-1ecc6299db9ec823/" . "regex-syntax-0.6.26/")
+ ("/home/petarangelov/Desktop/dev/ruby/" . "ex-ev/")
+ ("/home/petarangelov/Desktop/dev/rs/rust-test-app/src/" . "x_ev/")
+ ("/home/petarangelov/Desktop/dev/rs/rust-test-app/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rs/" . "my_ping_server/")
+ ("/home/petarangelov/.rustup/" . "downloads/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/activities/templates/" . "ProductPreferenceTemplate/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/activities/" . "templates/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/activity_config_versions/" . "v2/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/" . "nginx/")
+ ("/home/petarangelov/Desktop/dev/hs/" . "learning/")
+ ("/home/" . "petarangelov/")
+ ("/home/petarangelov/.emacs.d/" . "auto-save-list/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/js/" . "activities/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/app/" . "js/")
+ ("/home/petarangelov/Desktop/dev/ableto/web/" . "app/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/admin/api/" . "v1/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/admin/" . "api/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/" . "admin/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/" . "controllers/")
+ ("/home/petarangelov/Desktop/dev/ableto/rails/" . "app/")
+ ("/home/petarangelov/" . "Desktop/")
+ ("/home/petarangelov/Desktop/dev/ableto/" . "rails/")
+ ("/home/petarangelov/Desktop/dev/" . "realappeal-esra/")
+ ("/home/petarangelov/Desktop/" . "dev/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/petarangelov/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/spec/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/config/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/concerns/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/tasks/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/tasks/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/background_jobs/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/features/step_definitions/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/db/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/v2/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/db/migrate/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/helpers/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/"
+ "/home/petarangelov/Desktop/dev/c/"
+ "/home/petarangelov/Desktop/dev/ruby/ex-ev/"
+ "/home/petarangelov/Desktop/dev/ruby/ex-ev/syntax/"
+ "/home/petarangelov/Desktop/dev/ruby/"
+ "/home/petarangelov/Desktop/dev/rs/my_ping_server/server/src/"
+ "/home/petarangelov/Desktop/dev/rs/my_ping_server/client/src/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_cli/src/"
+ "/home/petarangelov/Desktop/bevy-tetris/src/"
+ "/home/petarangelov/Desktop/Craft/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_server/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_server/src/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/command_execution/"
+ "/home/petarangelov/Desktop/dev/rs/tcp_client/src/"
+ "/home/petarangelov/Desktop/dev/rs/multithreading/src/"
+ "/home/petarangelov/Desktop/dev/rs/multithreading/"
+ "/home/petarangelov/Desktop/dev/rs/my_redis_server/src/test/"
+ "/home/petarangelov/Desktop/dev/ruby/qwasar-sql/"
+ "/home/petarangelov/Desktop/dev/rs/"
+ "/home/petarangelov/Desktop/dev/rs/edit-rs/src/"
+ "/home/petarangelov/Desktop/dev/c/my_curl/source/"
+ "/home/petarangelov/Desktop/dev/c/curl/src/"
+ "/home/petarangelov/Desktop/dev/ruby/my_sqlite/"
+ "/home/petarangelov/Desktop/dev/ruby/my_sqlite/tests/"
+ "/home/petarangelov/Desktop/dev/rs/reditor/src/"
+ "/home/petarangelov/Desktop/dev/rs/reditor/"
+ "/home/petarangelov/Desktop/dev/c/editor/"
+ "/home/petarangelov/Desktop/dev/js/react-redux-tests/src/"
+ "/home/petarangelov/Desktop/dev/c/my_bc_impl/"
+ "/home/petarangelov/Desktop/Matrix_Operations (copy)/"
+ "/home/petarangelov/Desktop/dev/el/learning/"
+ "/home/petarangelov/Desktop/dev/c/my_bsq/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bashrc.save.1"
+ ".bashrc"
+ "rails_helper.rb"
+ "database.yml"
+ "i5_request_state_machine.rb"
+ "preprocess.rb"
+ "loads_file.rb"
+ "i5_eligibility.rake"
+ "i5_eligibility_rake_spec.rb"
+ "Gemfile"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/petarangelov/" (25614 57393 156663 123000) "schema.yml" ".viminfo" "help.txt" ".emacs.rc/" "../" ".vscode/" ".yarnrc.yml" ".mysql_history" ".sqlite_history" ".emacs.snippets/" ".bundle/" ".profile" ".bash_logout" ".yarnrc" "nano.save" ".wget-hsts" "token.txt" ".thunderbird/" ".nvm/" "phantomjs-2.1.1-linux-x86_64/" "shannarra" "is_ableto.pub" "rvo_recovery_codes.txt" ".ssh/" "git_MM_PAT.txt" "is_ableto" "Templates/" "id_ableto_rsa" "rvo_pat.txt" ".cargo/" ".docker/" "Documents/" "./" "google-chrome-stable_current_amd64.deb" ".gemrc" ".docker-sync-global.yml" ".emacs.d/" "Applications/" "test.rb.save" ".config/" ".ghc/" ".dotnet/" ".python_history" ".android/" ".yarn/" "shannarra.pub" "ruby-build/" ".putty/" "id_ableto_rsa.pub" "Desktop/" "subhook/" "Videos/" ".gem/" "dotfiles/" "RubymineProjects/" ".rbenv/" "noed/" "porth/" ".irb_history" "test.rb" ".bash_history" "id_shannarra.pub" "Downloads/" "git_PAT.txt" "Pictures/" ".java/" ".bin/" ".cache/" "dotfiles.tar.gz" ".rustup/" "classes.json" ".unison/" "WebstormProjects/" "help.txt~" ".emacs~" "snap/" "kill_on_X.sh" "report.xml" "appimage-v94.0-1/" "id_shannarra" "Public/" ".emacs" ".bashrc" ".npm/" ".local/" ".gitconfig" ".gnupg/" ".pki/" "null" ".mozilla/" ".bashrc.save.1" ".git-credentials" ".wine/" ".var/" ".bashrc~" ".stack/" ".node_repl_history" ".git-templates/" "nano.save.1" ".psql_history" ".emacs.local/" ".sudo_as_admin_successful" ".bashrc.save" "Music/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/" (25614 57131 60693 654000) "lib/" "support/" "helpers/" "jobs/" "rails_helper.rb" "../" "./" "factories.rb" "data_table/" "mailers/" "fixtures/" "use_active_record.rb" "spec_helper.rb" "models/" "features/" "searches/" "controllers/" "requests/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/config/" (25609 56453 481979 898000) "okta_saml.yml.example" "environments/" "team_emails.yml" "kafka_config.yml.sample" "../" "logstash-forwarder.conf" "deploy.rb" "initializers/" "mcp_services.yml.example" "unicorn.conf.example.rb" "sftp_fetch_servers.yml.example" "nginx/" "./" "brakeman.ignore" "manage-sftp-users.sh" "init.d.samples/" "test_rail_api.yml.example" "database.yml" "locales/" "mcp_services.yml" "s3.yml.example" "schedule.rb" "logrotate/" "okta_saml.yml" "kong_config.yml" "secrets.yml" "monit_samples/" "claims_edi_config.yml.example" "errbit_elk/" "azure_activedirectory.yml" "routes.rb" "environment.rb" "boot.rb" "data_transfer_credentials.yml.example" "deploy/" "skylight.yml" "cucumber.yml" "kong_config.yml.example" "application.rb" "azure_activedirectory.yml.example" "datadog.samples/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/concerns/" (25608 25847 705377 84000) "../" "client_finder.rb" "scheduler.rb" "api_responses.rb" "address.rb" "schedulable.rb" "post_sales_info.rb" "eligibility_type.rb" "i5_request_state_machine.rb" "funding_designation.rb" "relationship_code.rb" "./" "client_api_sync_change_detector.rb" "client_achieve_template_id_change_detector.rb" "client_import_request_state_machine.rb" "primacy_type.rb" "time_zone.rb" "qualification_criteria.rb" "i5.rb" "client_import.rb" "program_rate_period_history.rb" "customizable.rb" "api_responses/" "contact_person.rb" "phone_number.rb" "api_records.rb" "null_rate.rb" "branding_group_values.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/" (25609 55433 609286 637000) "../" "remove_tertiary_candidates.rb" "approval.rb" "file_help.rb" "attaches_file.rb" "./" "aetna_fixes_fields.rb" "marks_invalids.rb" "loads_file.rb" "remove_old_actives.rb" "ccw_fixes_fields.rb" "file_formats/" "preprocessing_report.rb" "preprocess.rb" "file_formats.rb" "remove_old_updates.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/tasks/" (25609 55251 243110 770000) "../" "./" "i5_eligibility.rake" "data_update.rake" "real_time_eligibility.rake" "cucumber.rake" ".keep")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/" (25609 49751 903479 886000) "log/" "lib/" "../" "spec/" "test/" ".capistrano/" "tmp/" ".rspec" "vitals.yaml" "public/" "./" "repoman.yaml" "config/" "Gemfile.lock" "db/" "coverage/" ".ruby-version" ".simplecov" "config.ru" "Capfile" "app/" "Gemfile" "vendor/" "Rakefile" ".rake_tasks~" ".git/" "bin/" "features/" ".gitignore" ".ruby-gemset" ".rspec-repositories" "README.rdoc" "script/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/tasks/" (25609 48358 712129 870000) "real_time_eligibility_rake_spec.rb" "../" "./" "i5_eligibility_rake_spec.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/spec/lib/" (25609 47232 404326 295000) "background_jobs/" "api/" "../" "data_transfers/" "eligibility_flow_spec.rb" "get_and_process_achievements_spec.rb" "./" "send_claims_to_zirmed_spec.rb" "determine_achieve_template_id_spec.rb" "check_eligibility_spec.rb" "create_achievement_from_achieve_project_spec.rb" "create_claims_from_achievements_spec.rb" "external/" "check_insurance_status_spec.rb" "eligibility_api_summary_spec.rb" "tasks/" "mcp_services/")
+
+ ("/home/petarangelov/Desktop/" (25608 48295 113685 961000) "bin.rb" "jesus.png" "../" "Calculating_a_Curve/" ".qasar.sh.swn" "N/" "QWASAR_Projects/" "testing/" "./" "tsoni_tasks/" "my-malloc/" "maze-solver/" "grep/" "f.png" "AOC.rb" "AAAAHHH.mp3" "unnamed.jpg" "asd.png" "movies.db" "dev/" "qwasar-sql/" "16_Games/" "AlgoExpert_Certificate.pdf" "porth-master/" "daily_tips/" ".qasar.sh.swp" "gn.jpg" "veli.MOV" ".23.11.2021.txt.swp" "тестове/" ".qasar.sh.swo" "ex-ev/" "dfsgasdf" "TinyDungeon/" "BC/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" (25608 50373 225568 526000) "eligibility_api_summary.rb" "background_jobs/" "test_rail_api_client.rb" "api/" "client_updater.rb" "../" "create_claims_from_achievements.rb" "check_insurance_status.rb" "data_transfers/" "create_achievement_from_achieve_project.rb" "determine_achieve_template_id.rb" "send_claims_to_zir_med.rb" "./" "s3/" "fetch_sftp_files.rb" "kafka_config.rb" "background_jobs.rb" "s3.rb" "helper/" "eligibility_flow.rb" "fixtures.rb" "reprocess_i5_achievements.rb" "fixtures/" "data_transfers.rb" "get_and_process_achievements.rb" "test_rail_api_client/" "test_rail.rb" "external/" "assets/" "send_achievement_results_to_achieve_project.rb" "imports.rb" "edi_claim_submission/" "tasks/" "reprocess_extended_rate_periods.rb" "json_parse_error_handler.rb" "check_eligibility.rb" "utf8_sanitizer.rb" "mcp_services/")
+
+ ("/home/petarangelov/Desktop/dev/c/" (25598 9803 61470 112000) "my_curl/" "bc_tests" "main.cpp" "apue.h" "makefile.save" "bc_tests.c" "../" ".vscode/" "test" "makefile" "nano.save" "ex_ev/" "libtar_listhash.h" "#main.cpp#" "my_malloc/" "my_bc/" "map100x100" "lstat.c" ".idea/" "./" "map10x10" "curl/" "CMakeFiles/" "my_zsh/" "seg.c" "tar-impl/" "main.c~" "delete_me/" "fmt/" "map150x150" "expr/" "main" "test.c~" "seg" "main.cpp~" ".git/" "my_bc.c" "main.c" "ls/" "editor/" "my_zsh.c" "test.c" "main.o" "blockchain/" "#makefile#" "my_bc_impl/" "my_curl.c" "nano.save.1" "my_bsq/" "a.out" "cmake-build-debug/" "myBC/" "libtar.h" "smart_input/" "lstat")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/background_jobs/" (25608 25847 761377 792000) "../" "./" "job.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/assets/" (25608 25847 761377 792000) "../" "./" ".keep")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/step_definitions/" (25608 42719 580281 772000) "api_steps.rb" "login_steps.rb" "zillion_subdomain_steps.rb" "job_steps.rb" "i5_steps.rb" "create_policy.rb" "../" "create_member_and_policy.rb" "member_steps.rb" "achievement_steps.rb" "i5_eligibility_source_steps.rb" "client_insurance_carrier_steps.rb" "omniauth_steps.rb" "eligibility_steps.rb" "get_member_achieve_template_id.rb" "./" "eligibility_ui_steps.rb" "omniauth_activedirectory_steps.rb" "client_steps.rb" "generate_claims_for_members_steps.rb" "authentication_steps.rb" "insurance_carrier_steps.rb" "api_token_steps.rb" "base_steps.rb" "comorbidity_steps.rb" "crosswalk_steps.rb" "achievement_types_steps.rb" "customization_steps.rb" "sponsor_steps.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/features/" (25608 25847 753377 691000) "use_cases/" "support/" "../" "./" "step_definitions/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/v2/" (25608 29814 632342 224000) "sync_subdomain_and_ui_rules_list.rb" "../" "responses.rb" "records.rb" "./" "sync_insurers_list.rb" "responses/" "coaching_eligibility_request.rb" "sync_client_list.rb" "sync_client.rb" "records/" "finder.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/" (25608 25847 761377 792000) "../" "v1/" "./" "v2/" "hasher.rb" "v2.rb" "v1.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/db/migrate/" (25608 25847 753377 691000) "20210703101000_add_eligible_pvrc_list_to_client_limited_import_rows.rb" "20180516193511_add_file_fields_to_client_import_request.rb" "20170921204715_index_clients_on_sync_and_segment.rb" "20170515165003_add_t2_program.rb" "20180618174921_add_indexes_to_client_import_temp_tables.rb" "20150326202250_add_attachment_card_image_to_insurance_carriers.rb" "20180719155643_add_file_type_to_client_import_request_schedules.rb" "20160225193749_update_source_in_eligibility_records.rb" "20150309181806_add_timestamps_and_email_flag_to_i5_request_schedules.rb" "20150317205442_ra71_updates.rb" "20180424001014_add_template_id_to_rate_periods.rb" "20170215172426_populate_branding_groups.rb" "20150322223557_create_healthfleet_authentications.rb" "20210702101003_create_table_pvrcs.rb" "20160106172348_add_file_pattern_to_i5_requests.rb" "20180917164656_change_rmhp_branding_group.rb" "20180611191505_add_file_type_to_client_import_requests.rb" "20150406220044_add_ens_reject_reason_code_to_eligibility_statuses.rb" "20141028160054_create_i5_eligibility_sources.rb" "20150323153614_add_error_tracking_to_achievements.rb" "20141224041231_change_achievement_types_to_achievements.rb" "20181002210213_add_approved_to_send_claims_to_client_insurance_carriers.rb" "20150826162014_add_retain_to_eligibility_records.rb" "20150323173028_add_checked_for_date_to_eligibility_status.rb" "20141203182707_rename_records.rb" "20141211212437_add_details_to_i5_source_and_request.rb" "20150415175450_create_achievement_api_gaps.rb" "20151216183305_change_weight_intevals_to_client.rb" "20150101004505_drop_disqualifications_rate_periods_table.rb" "20141030143502_create_data_transfer_results.rb" "20180831200140_update_branding_group_options.rb" "20150601214424_add_authorization_token_salt_to_api_tokens.rb" "20150402201448_default_generate_caretracker_claims_to_true.rb" "20161214183135_expand_reporting_code_fields.rb" "20181113161440_create_client_insurance_carrier_claims.rb" "20180709200917_add_user_reference_to_client_import_requests.rb" "20170508202130_add_fulfillment_skus.rb" "20150226211839_add_subdirectory_to_i5_eligibility_sources.rb" "20150928191250_fix_api_body_size.rb" "20170914190347_add_omniauth_to_users.rb" "20151002160627_add_na_insurer_name.rb" "20180724170908_add_max_percent_error_to_client_import_requests.rb" "20141016140404_create_people.rb" "20180724190445_change_max_percent_change_to_max_percent_error.rb" "20170808170733_add_claim_filing_code_to_insurance_carriers.rb" "20170919201202_add_auditing_to_users.rb" "20150902175155_add_submitted_member_identifier.rb" "20150219191434_remove_plan_name_and_plan_identifier_from_insurance_carriers.rb" "20170909184103_add_uuid_to_employer.rb" "20210728065153_remove_first_checked_at_and_last_checked_at_from_rally_point_in_time_eligibilities.rb" "20181210180435_add_individual_id_index.rb" "20150914201611_add_employer_id_to_clients.rb" "20141224023212_create_program_comorbidities.rb" "20181119214038_update_program_claim_type.rb" "20141129221433_create_disqualification_records_rate_period_records.rb" "20150322214859_create_healthfleet_requests.rb" "20150921173439_create_default_zillion_subdomain.rb" "20180717150415_add_program_type_to_programs.rb" "20190128181610_add_send_policy_to_ens_field_to_carrier.rb" "20150121233259_add_cpt_code_to_cpt_rates.rb" "20190818165103_add_pos_code_to_client.rb" "20150219231012_add_paperclip_attachment_to_i5_request.rb" "20150216220222_add_use_program_defaults_to_rate_period_program.rb" "20150820175427_add_reject_reason_to_ens_response.rb" "20211227191917_add_mpe_migration_hint_to_client_limited_import_rows.rb" "20160302000254_drop_disqualifications.rb" "20150212163955_add_program_default_options.rb" "20141028182206_create_program_rates.rb" "20190129015120_add_rally_partner_to_zillion_subdomain_insurer_option.rb" "20180523231519_add_header_row_to_client_import_rows.rb" "20171023160801_remove_fulfillment_code_from_client.rb" "20180807205035_add_rax_fields_to_clients.rb" "20150504164136_more_indexes_on_eligibility_records.rb" "20150103075022_add_contact_country_to_clients.rb" "20161014143016_add_enrollment_fields_to_client.rb" "20150513043037_add_active_to_users.rb" "20170215171942_add_branding_group_to_clients.rb" "20141224023302_create_achievement_comorbidities.rb" "20170317164407_updates_to_api_tokens_and_requests.rb" "20180709163110_install_audited.rb" "20150107051134_add_gender_and_middle_initial.rb" "20171011163032_add_for_rally_id_apis_to_api_tokens.rb" "20150325183507_add_indexes_to_achievements.rb" "20160111175513_add_last_name_index.rb" "20160816161324_add_file_format_to_eligibility_source.rb" "20141118182739_rename_ar_classes_for_clarity.rb" "20190610202115_add_engage_enrollment_flag_to_clients.rb" "20160819164855_add_submitted_policy_number_to_policies.rb" "20151216172429_add_ignore_weight_for_intervals_to_rate_period_program.rb" "20170516160533_add_fulfillment_rules_to_rate_periods_this_is_going_to_be_slow_part_2.rb" "20170601183103_add_npi_overrides_to_carrier.rb" "20170404003144_add_onboarding_program_to_subdomain_config.rb" "20180910180931_add_branding_group.rb" "20141028172602_create_clients.rb" "20141230020407_rename_id_fields_to_identifier.rb" "20160212213605_add_atachment_card_image_to_zillion_subdomains.rb" "20191115232306_add_original_effective_date_to_client.rb" "20180107182902_add_program_year_to_program_rate.rb" "20180322164337_add_processing_error_to_i5_requests.rb" "20160120175333_create_eligibility_api_results.rb" "20141016160943_create_primacy_periods.rb" "20141021152638_create_sponsors.rb" "20171020182156_add_allow_reenrollment_to_clients.rb" "20180107180937_add_program_year_to_achievement.rb" "20141028182509_create_cpt_rates.rb" "20150527222051_add_ens_unparseable_edi_body_to_eligibility_statues.rb" "20151009154625_client_has_many_insurance_carriers.rb" "20180523161056_add_achieve_template_identifier_to_achievements.rb" "20141211211031_add_i5_eligibility_source_id_to_i5_tables.rb" "20180716204643_add_client_import_request_schedule_id_to_client_import_request.rb" "20141117181710_create_disqualification_records.rb" "20150518161144_change_healthfleet_authentications_app_signature_token_to_text.rb" "20141215210235_add_status_log_text_to_i5_request.rb" "20150424211738_add_password_changed_at_to_users.rb" "20150709152905_forget_all_users.rb" "20170413161801_add_achievement_change_fields.rb" "20150506155102_add_quantity_to_claims.rb" "20141030143201_create_job_results.rb" "20150402175848_add_policy_holder_fields_to_policies.rb" "20141028161846_add_sponsor_phone_type_and_eligibility_source_id_and_eligibility_type.rb" "20141028211759_create_delayed_jobs.rb" "20150307150800_add_i5_request_schedule_id_to_i5_request.rb" "20151008163338_add_achievement_indexes.rb" "20150408193502_add_dob_and_policy_holder_middle_initial_to_policies.rb" "20180716210421_change_datatype_to_integer_for_i5_request_schedule_id.rb" "20141114210734_change_healthfleet_code_to_achievement_code.rb" "20141208215929_create_api_tokens.rb" "20141028180930_create_program_rate_periods.rb" "20150504140130_add_response_code_to_healthfleet_api_requests.rb" "20181210144137_add_rally_partner_to_insurance_carrier.rb" "20170213165506_add_rally_client_ids_to_subdomains.rb" "20180829215757_update_columns_for_request_schedules.rb" "20150930203704_update_subdomain.rb" "20150914164924_add_response_body_to_api_requests.rb" "20170616012756_final_fulfillment_rule_type_naming.rb" "20180717141819_add_rally_eligibility_source_to_carriers_and_i5_eligibility_source.rb" "20150324202444_add_max_percent_changes_to_i5_request_tables.rb" "20170503201435_add_post_sales_attributes_to_clients.rb" "20141204152533_create_i5_requests.rb" "20180423195348_add_channel_to_client.rb" "20150821163452_add_eligibility_info_to_eligibility_status.rb" "20191124231235_add_reprocess_claims_since_date_to_client.rb" "20141207221920_add_external_source_code_to_eligibility_records.rb" "20181106201802_add_intro_session_flag_on_achievement_type.rb" "20141028155248_add_core_fields_to_insurance_carriers.rb" "20150324175903_add_healthfleet_fields_to_program.rb" "20191221161703_add_hold_claims_override_to_insurance_carriers.rb" "20150731200258_add_additional_insurance_name_to_policy.rb" "20141117181708_create_comorbidity_records.rb" "20180206151429_move_allow_enrollment_to_client_level.rb" "20150618212311_rename_ens_unparseable_edi_body_to_ens_ineligible_edi_body_on_eligibility_statuses.rb" "20180917200524_update_client_branding_groups_for_rmhp.rb" "20150917150627_add_employer_fields_for_api.rb" "20141130171804_add_symbol_to_program_record.rb" "20161104015312_add_employers.rb" "20150918171758_add_page_title_to_employers.rb" "20150616201105_rename_units_to_quantity_on_cpt_rates.rb" "20150630200009_create_eligibility_restrictions.rb" "20151002170852_tweak_eligibility_record_indexes.rb" "20160307161652_allow_longer_urls_for_api_object.rb" "20190228192720_remove_eligibility_type_from_policy.rb" "20180605175010_change_processing_error_to_text.rb" "20150404185159_create_system_values.rb" "20150310192619_remove_mynetico_member_id.rb" "20150831213350_add_additional_attributes_to_policy.rb" "20190415152639_add_send_claims_to_policies.rb" "20170909160838_shorten_external_source_code_to_30.rb" "20150914195310_create_employers.rb" "20170909171259_add_client_indices_for_eid_and_broker_id.rb" "20181106204602_rename_cs2_session_test_claim_id.rb" "20160303181106_add_decline_fields_to_claim.rb" "20180820215303_update_program_type_options.rb" "20150116214008_add_template_stuff_to_rate_periods.rb" "20170921220531_add_denormalized_padded_policy_to_client.rb" "20150716164114_add_icd10_diagnosis_codes.rb" "20160112161722_update_program_defaults.rb" "20200603095153_add_allow_re_enrollment_to_client_limited_import_rows.rb" "20190507180203_add_generate_claims_to_person.rb" "20150413162252_add_incoming_fields_to_healthfleet_api_request.rb" "20160226174536_add_devise_to_api_tokens.rb" "20141205213220_create_eligibility_records.rb" "20160301231636_drop_disqualification_rate_periods.rb" "20150413161331_rename_healthfleet_outgoing_requests.rb" "20150227195009_add_last_updated_by_to_rate_periods.rb" "20150424165114_create_old_passwords.rb" "20150107215821_move_person_id_to_policy.rb" "20141204192727_add_attached_files_to_i5_requests.rb" "20150924171234_add_invalidated_flag_to_eligibility_status.rb" "20150915175035_create_employer_insurers.rb" "20150501145245_create_eligibility_tool.rb" "20150101004325_create_disqualification_rate_periods.rb" "20150224040447_rename_achievement_to_achievement_type.rb" "20180906161502_add_sponsor_name_to_client_limited_import_rows.rb" "20150506210402_add_role_to_users.rb" "20150821163643_add_ens_response_indexes.rb" "20170811161542_add_edi_request_body.rb" "20150612171855_add_send_error_occurred_at_to_claims.rb" "20180917182523_add_multiple_e360_users_to_clients.rb" "20141205195916_devise_create_users.rb" "20150128032208_rename_source_id.rb" "20170508194900_add_fulfillment_rules_to_clients.rb" "20160225190310_add_new_i5_eligibility_source.rb" "20180601150254_add_data_transfer_result_to_client_import_requests.rb" "20150202190230_add_program_to_cpt_rate.rb" "20160301151529_remove_authorization_key_index.rb" "20150320182317_add_bill_to_carrier_reference_to_insurance_carrier.rb" "20150821153031_add_relations_to_ens_response.rb" "20150430225457_add_person_id_index_to_policies.rb" "20150218194918_remove_insurance_company_identifier_from_insurance_carriers.rb" "20160216181205_add_error_confirmed_to_achievements.rb" "20150420160844_add_billing_details_to_clients_and_sponsors.rb" "20141028154850_add_insurance_carrier_to_sponsor.rb" "20150323014341_add_fields_to_achievement.rb" "20150224035314_add_start_end_dates_to_eligibility_status.rb" "20150330202903_remove_card_images_table.rb" "20190408163035_adds_zirmed_on_or_after_date_to_clients.rb" "20160817163642_add_uhc_regions_and_markets_to_clients.rb" "20150402183806_add_public_attached_files.rb" "20170606180656_use_real_fulfillment_rules_and_skus.rb" "20150819161715_add_policy_id_to_eligibility_tools.rb" "20210602101010_create_table_rally_point_in_time_eligibilities.rb" "20150202171158_add_contact_address_to_sponsor.rb" "20160218174757_add_attachment_card_image_to_insurer_options.rb" "20180321210948_add_policy_mappings.rb" "20170909194800_add_client_sync_updated_at.rb" "20190507180425_remove_send_claims_from_policies.rb" "20180611191904_create_client_limited_import_row.rb" "20150617152315_remove_unused_from_i5_rows_and_eligibility_records.rb" "20180712162529_create_client_import_request_schedules.rb" "20141218232258_create_card_images.rb" "20160323213354_add_unique_session_id_to_users.rb" "20141231220501_create_comorbidity_rate_period_programs.rb" "20161028181024_update_qualification_criteria_code.rb" "20211217071357_add_mpe_migration_hint_to_clients.rb" "20151020170351_update_consent_form_fields.rb" "20180821145421_add_rally_coaching_flag_to_eligibility_result.rb" "20190517191834_add_enrollment_closed_to_subdomains.rb" "20181031145843_update_approved_to_send_claims_to_true.rb" "20141129222922_update_program_rate_records_association_for_client_program_offering.rb" "20141016164308_create_insurance_carriers.rb" "20150406160624_override_url_for_attachments.rb" "20150921164142_rename_employer.rb" "20171011161801_add_rally_id_to_person.rb" "20141028182550_create_achievement_types.rb" "20181018211952_set_default_for_multiple_e360_users.rb" "20150930162159_add_consent_form_fields_to_client.rb" "20150224043649_create_claims.rb" "20160112173953_remove_use_program_defaults_field.rb" "20150831190059_modify_eligibility_records_indexes.rb" "20160107170706_update_client_defaults.rb" "20141224030531_add_missing_indexes.rb" "20141016162133_create_eligibility_statuses.rb" "20180622171731_add_eligible_for_post_sales_to_client_limited_import_rows.rb" "20150224043327_create_achievements.rb" "20150422144216_change_max_bmi_to_float.rb" "20151217153455_add_fulfillment_code_to_client.rb" "20150709162109_create_ens_response.rb" "20141016160716_create_policies.rb" "20161214211007_add_client_subscriber_fields.rb" "20160913162308_add_inbound_file_path_to_i5_requests.rb" "20150420181300_create_data_transfer_result_files.rb" "20150310175147_add_hf_member_id_to_person.rb" "20181011184854_add_test_claims_to_client_insurance_carriers.rb" "20150406011748_add_system_value_for_default_customizations.rb" "20180820165521_add_name_change_percentage.rb" "20160329213548_add_healthfleet_member_id.rb" "20170814164755_add_broker_and_entity_id_fields_to_client.rb" "20181212003453_change_default_for_approved_to_send_claims.rb" "20180827163751_remove_api_gaps.rb" "20141216002147_set_invalid_0_by_default.rb" "20150603204856_change_eligibility_status_to_text.rb" "20150404163003_add_store_to_sponsors_and_clients.rb" "20190318220355_add_rally_client_id_to_clients.rb" "20180723153154_add_persist_file_to_client_import_request_schedules.rb" "20170911161816_default_sync_updated_at_to_updated_at.rb" "20141129222625_change_program_rate_period_association_to_proper_name.rb" "20141230033628_add_mynetico_client_identifier_to_clients.rb" "20141203185927_rename_foreign_keys.rb" "20150107183332_adjust_policy_fields.rb" "20170508210914_add_fulfillment_rules_to_all_clients_this_is_going_to_be_slow.rb" "20190819182427_add_rally_client_id_to_limited_client_import.rb" "20150630194855_add_plan_code_to_policies.rb" "20150228022318_create_i5_request_schedules.rb" "20141028181217_create_client_program_offerings.rb" "20141028181059_create_programs.rb" "20141230040936_add_scale_type_to_rate_periods.rb" "20141205212731_create_i5_rows.rb" "20180503215119_create_client_import_rows.rb" "20150403165605_add_cpt_rate_to_claims.rb" "20180503201946_create_client_import_requests.rb" "20151007145149_add_override_policy_id_to_eligibility_records.rb" "../" "./")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/db/" (25608 29617 454106 771000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/" (25608 25847 709377 134000) "client_import_row.rb" "i5_eligibility_source.rb" "program_comorbidity.rb" "job_result.rb" "../" "fulfillment_rule_type.rb" "program_rate.rb" "api_token.rb" "zillion_subdomain.rb" "branding_group.rb" "program.rb" "policy.rb" "eligibility_status_program.rb" "eligibility_api_result.rb" "healthfleet_api_request.rb" "client_insurance_carrier_claim.rb" "default_fulfillment_rule.rb" "rally_point_in_time_eligibility.rb" "eligibility_tool.rb" "data_transfer_result_file.rb" "sponsor.rb" "i5_request.rb" "client_import_request.rb" "./" "insurance_carrier.rb" "achievement_type.rb" "comorbidity_rate_period_program.rb" "user.rb" "ens_response.rb" "employer.rb" "client.rb" "client_import_request_schedule.rb" "fulfillment_sku.rb" "claim.rb" "rate_period.rb" "i5_request_scheduler.rb" "achievement_comorbidity.rb" "healthfleet_authentication.rb" "eligibility_restriction.rb" "i5_request_schedule.rb" "fulfillment_rule.rb" "client_insurance_carrier.rb" "primacy_period.rb" "eligibility_record.rb" "client_import_request_scheduler.rb" "person.rb" "comorbidity.rb" "pvrc.rb" "concerns/" "default_customizations.rb" "i5_row.rb" "cpt_rate.rb" "zillion_subdomain_insurer_option.rb" "public_attached_file.rb" "client_limited_import_row.rb" "achievement.rb" "data_transfer_result.rb" "client_import/" "system_value.rb" "rate_period_program.rb" "i5/" "eligibility_status.rb" "rate_template.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/helpers/" (25608 29510 223011 61000) "api/" "../" "application_helper.rb" "./" "devise_helper.rb" "eligibility_tool_helper.rb" "clients_helper.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/controllers/" (25608 25847 697376 982000) "users/" "employers_controller.rb" "policies_controller.rb" "fulfillment_skus_controller.rb" "api/" "../" "system_statuses_controller.rb" "branding_groups_controller.rb" "claims_controller.rb" "ens_override_records_controller.rb" "eligibility_records_controller.rb" "client_customization_serializer.rb" "i5_requests_controller.rb" "client_insurance_carriers_controller.rb" "achievements_controller.rb" "client_import_requests_controller.rb" "api_requests_controller.rb" "client_customization_attachments_controller.rb" "system_values_controller.rb" "dashboard_controller.rb" "eligibility_tools_controller.rb" "downloads_controller.rb" "application_controller.rb" "./" "i5_files_controller.rb" "members_controller.rb" "data_transfer_results_controller.rb" "data_transfer_result_files_controller.rb" "cpt_rates_controller.rb" "clients_controller.rb" "client_import_request_schedules_controller.rb" "answer_center_controller.rb" "comorbidities_controller.rb" "ra_enrollment_errors_controller.rb" "eligibility_api_results_controller.rb" "member_searches_controller.rb" "api_monitoring_controller.rb" "job_results_controller.rb" "zillion_subdomain_insurer_options_controller.rb" "insurance_carriers_controller.rb" "programs_controller.rb" "sftp_users_controller.rb" "achievement_types_controller.rb" "concerns/" "i5_request_schedules_controller.rb" "rate_templates_controller.rb" "i5_eligibility_sources_controller.rb" "zillion_subdomains_controller.rb" "sponsors_controller.rb" "users_controller.rb" "api_tokens_controller.rb")
+
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/" (25608 25847 709377 134000) "helpers/" "jobs/" "../" "views/" "validators/" "./" "data_tables/" "mailers/" "presenters/" "assets/" "models/" "searches/" "controllers/")
+
+ ("/home/petarangelov/Desktop/dev/" (25608 25759 820260 512000) "js/" "cpp/" "../" "ruby/" "./" "python/" "qwasar_solutions/" "rails-devise-template/" "aoc/" "asm/" "el/" "realappeal-esra/" "c/" "elastic_suite/" "rs/" "rails/" "hs/" "aoc21/" "ableto/")
+
+ ("/home/petarangelov/.cargo/" (25583 26326 889643 336000) ".crates.toml" "../" "env" "./" "registry/" "git/" "bin/" ".package-cache" ".crates2.json")
+
+ ("/home/petarangelov/.cargo/registry/" (25582 4859 323470 739000) "cache/" "../" "./" "src/" "index/" "CACHEDIR.TAG")
+
+ ("/home/" (24969 6073 895138 61000) "petarangelov/" "../" "./" "mmadmin/")
+
+ ("/home/petarangelov/Applications/" (24983 41009 163894 673000) "../" "./")
+
+ ("/home/petarangelov/Desktop/dev/rs/rust-test-app/src/" (25583 26308 813437 19000) "../" "my_tokio/" "main.rs" "./" "x_ev/" "lib.rs")
+
+ ("/home/petarangelov/Desktop/dev/ruby/ex-ev/" (25583 31570 292668 581000) "../" "spec/" ".rubocop.yml" ".rspec" "./" "Gemfile.lock" "utils.rb" "evaluation.rb" "Gemfile" "vendor/" "README.md" "main.rb" ".git/" "syntax.rb" "syntax/")
+
+ ("/home/petarangelov/Desktop/Calculating_a_Curve/" (25582 14720 69730 108000) "../" ".vscode/" "./")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/" (25574 9912 772887 388000) "../" "main.rs" "./" "lib.rs" "redis_engine/")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/" (25574 20601 490341 207000) "../" "dump.my_rdb" "./" "Cargo.lock" "target/" "README.md" "src/" ".git/" "Cargo.toml" ".gitignore" "debug_dump.my_rdb")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/server/src/" (25591 25626 766471 277000) "../" "main.rs" "./" "lib.rs" "server.rs" "util.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/client/src/" (25591 25545 880205 60000) "client.rs" "../" "main.rs" "./" "lib.rs" "util.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_cli/src/" (25591 20293 527159 639000) "client.rs" "../" "main.rs" "./" "lib.rs" "util.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_cli/" (25570 16210 583652 738000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/" (25589 61213 328199 167000) "my_rust_mastermind/" "../" "tcp_client/" "testing/" "./" "rust-test-app/" "reditor/" "my_redis_cli/" "edit-rs/" "my_redis_server/" "ex-ev/" "my_ping_server/" "multithreading/")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/client/" (25589 61875 119510 746000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/server/" (25589 61438 65963 420000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_ping_server/" (25589 61310 832947 776000) "server/" "../" "client/" "./")
+
+ ("/home/petarangelov/Desktop/bevy-tetris/src/" (25582 17240 976259 661000) "../" "main.rs" "./" "bricks.rs" "consts.rs")
+
+ ("/home/petarangelov/Desktop/bevy-tetris/" (25582 16123 716291 411000) "../" ".vscode/" "docs/" ".devcontainer/" "./" "Cargo.lock" ".github/" "target/" "LICENSE" "README.md" "src/" ".git/" "assets/" "Cargo.toml" ".gitignore" ".metals/")
+
+ ("/home/petarangelov/Desktop/Craft/src/" (25582 14982 942449 712000) "matrix.h" "map.c" "ring.h" "cube.c" "../" "auth.h" "map.h" "auth.c" "matrix.c" "db.c" "util.h" "client.c" "./" "client.h" "util.c" "item.h" "world.c" "ring.c" "sign.c" "item.c" "world.h" "main.c" "cube.h" "sign.h" "config.h" "db.h")
+
+ ("/home/petarangelov/Desktop/Craft/" (25582 15313 20314 890000) "cmake_install.cmake" "../" "world.py" "auth.db" "textures/" "builder.py" "./" "craft.db" "CMakeFiles/" "deps/" "LICENSE.md" "Makefile" "shaders/" "server.py" "README.md" "src/" "craft.db-journal" ".git/" ".gitignore" "CMakeLists.txt" "CMakeCache.txt" "craft")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/command_execution/" (25570 11256 212333 665000) "kvp_command.rs" "../" "list_command.rs" "./" "one_off_command.rs" "mod.rs" "hash_command.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/multithreading/src/" (25565 2205 428121 777000) "../" "main.rs" "./")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/redis_engine/" (25570 9862 14865 733000) "../" "./" "mod.rs" "command_execution/" "util.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/tcp_client/src/" (25569 11785 809872 771000) "../" "main.rs" "./")
+
+ ("/home/petarangelov/Desktop/dev/rs/tcp_client/" (25565 1909 520684 448000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/multithreading/" (25564 62153 189945 34000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/rs/my_redis_server/src/test/" (25562 34292 426115 208000) "../" "./" "lib.rs" "list_tests.rs" "tests.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/edit-rs/src/" (25550 42507 390772 619000) "../" "main.rs" "./")
+
+ ("/home/petarangelov/.stack/" (25338 5141 444057 984000) "snapshots/" "../" "config.yaml" "global-project/" "./" "pantry/" "programs/" "stack.sqlite3" "templates/" "setup-exe-src/" "setup-exe-cache/" "stack.sqlite3.pantry-write-lock")
+
+ ("/home/petarangelov/Desktop/dev/ruby/" (25535 61251 473541 252000) "../" "main.rb~" "sqlite/" "my_sqlite/" "testing/" "./" "asm-converter/" "qwasar-sql/" "main.rb" "ex-ev/")
+
+ ("/home/petarangelov/Desktop/dev/c/my_bc_impl/" (25541 28796 115096 452000) "../" "makefile" "infix.c" "my_bc" "testing_file.c" "./" "tree.h" "stack.h" "main.c")
+
+ ("/home/petarangelov/Desktop/dev/rs/reditor/src/" (25526 52978 650053 501000) "../" "main.rs" "./")
+
+ ("/home/petarangelov/Desktop/dev/ruby/my_sqlite/" (25535 62206 354366 381000) "../" "./" "db.csv" ".git/" "my_sqlite_request.rb" "my_sqlite_cli.rb")
+
+ ("/home/petarangelov/Desktop/dev/c/curl/src/" (25536 1462 597956 404000) "my_curl.h" "http_exchange.h" "../" "htparse.h" "headers.c" "./" "buffered_response_printer.h" "socket.c" "http_exchange.c" "htparse.c" "main.c" "buffered_response_printer.c" "socket.h" "my_curl.c" "headers.h")
+
+ ("/home/petarangelov/Desktop/dev/rs/edit-rs/" (25542 49792 235800 983000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/c/my_curl/" (25542 31529 887146 957000) "source/" "my_curl" "../" "makefile" "./" "README.md")
+
+ ("/home/petarangelov/Desktop/dev/c/my_curl/source/" (25542 31556 992041 333000) "my_curl.h" "http_exchange.h" "../" "htparse.h" "./" "buffered_response_printer.h" "socket.c" "http_exchange.c" "htparse.c" "main.c" "buffered_response_printer.c" "socket.h" "my_curl.c")
+
+ ("/home/petarangelov/Desktop/dev/c/curl/" (25535 63022 664697 855000) "my_curl" "../" "./" "Makefile" "README.md" "src/" ".git/" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/ruby/my_sqlite/tests/" (25535 58131 282984 492000) "../" "readline.rb" "./" "tb_join.csv" "db.csv" "test.rb" "tb.csv")
+
+ ("/home/petarangelov/Desktop/dev/rs/reditor/" (25525 32314 388742 133000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/c/editor/" (25524 14072 525268 655000) "../" "makefile" "./" "main" "main.c")
+
+ ("/home/petarangelov/Desktop/dev/js/react-redux-tests/src/" (25524 2464 887986 154000) "reportWebVitals.ts" "../" "App.css" "App.test.tsx" "logo.svg" "./" "index.css" "App.tsx" "setupTests.ts" "index.tsx" "react-app-env.d.ts")
+
+ ("/home/petarangelov/Desktop/dev/js/react-redux-tests/" (25524 2464 163977 517000) "../" "public/" "./" "package.json" "tsconfig.json" "README.md" "src/" "node_modules/" ".git/" "package-lock.json" ".gitignore")
+
+ ("/home/petarangelov/Desktop/Matrix_Operations (copy)/" (25491 20299 728521 961000) "matrix.h" "main.cpp" "../" ".vscode/" "./" "main" "matrix")
+
+ ("/home/petarangelov/Desktop/dev/el/learning/" (25489 62451 988362 618000) "../" "./" "primitive.el")
+
+ ("/home/petarangelov/Desktop/dev/c/my_bsq/" (25489 56912 181866 59000) "../" "map100x100" "./" "map10x10" "Makefile" "map150x150" "help.h" "main.c" "functions.h")
+
+ ("/home/petarangelov/Desktop/dev/el/" (25489 61657 496941 570000) "../" "./")
+
+ ("/home/petarangelov/Desktop/dev/elastic_suite/" (25348 55856 972955 264000) "../" "./")
+
+ ("/home/petarangelov/Desktop/QWASAR_Projects/my-sqlite/" (25489 51887 8257 986000) "../" "./" "nba_players.csv" "README.md" "my_sqlite_request.rb" "my_sqlite_cli.rb")
+
+ ("/home/petarangelov/Desktop/dev/c/my_malloc/" (25488 39034 228710 494000) "../" "my_malloc.c" "my_malloc.h" "./" "my-malloc" "main.c")
+
+ ("/home/petarangelov/Desktop/dev/ruby/qwasar-sql/" (25488 33140 510310 945000) "../" "my_redis_class.rb" "./" "nba_player_data.csv" "nba_players.csv" "README.md" ".git/" "my_sqlite_request.rb" "my_sqlite_cli.rb" "my_select_query.rb" "test-data/")
+
+ ("/home/petarangelov/Desktop/QWASAR_Projects/" (25476 52272 770303 188000) "my-sqlite/" "my-redis-class/" "../" ".gitattributes" "my-select-query/" "my-css-is-easy-ii/" "my_bc/" "./" "my_blockchain/" ".git/" "my_readline/" "my_bsq/" "my-users-app/")
+
+ ("/home/petarangelov/Desktop/tsoni_tasks/" (25480 49050 212076 886000) "../" "mastermind.txt" "./" "ngram.txt" "how-to.txt")
+
+ ("/home/petarangelov/Desktop/dev/ruby/testing/" (25482 2178 84229 356000) "a_star.rb" "../" "./")
+
+ ("/home/petarangelov/Desktop/ex-ev/" (25461 6047 910114 41000) "../" "spec/" "./" "Gemfile.lock" "utils.rb" "evaluation.rb" "Gemfile" "vendor/" "README.md" "main.rb" ".git/" "syntax.rb" "syntax/")
+
+ ("/home/petarangelov/Desktop/my_bsq/maps/" (25485 57526 735289 575000) "../" "./" "map_1" "map_2")
+
+ ("/home/petarangelov/Desktop/my_bsq/" (25485 57380 286159 530000) "lib/" "map.pl" "../" "./" "srcs/" "Makefile" "maps/" ".git/" "include/" "bsq")
+
+ ("/home/petarangelov/Desktop/maze-solver/" (25476 50149 237304 955000) "../" "./" "maze0.txt" "Makefile" "maze_generator.rb" "my_mouse" "README.md" "maze.txt" "src/" ".git/" "empty.txt" ".gitignore" "maze1.txt")
+
+ ("/home/petarangelov/Desktop/maze-solver/src/" (25476 49773 171891 356000) "path_search_algo.o" "maze_coords.h" "ordered_coords_list.h" "../" "maze_solver.o" "char_map.h" "maze.c" "maze_solver.c" "./" "char_map.o" "maze_coords.o" "maze.o" "maze.h" "maze_coords.c" "maze_matrix.o" "maze_parser.o" "maze_matrix.c" "path_search_algo.c" "maze_parser.h" "ordered_coords_list.o" "maze_solver.h" "char_map.c" "main.c" "maze_matrix.h" "main.o" "my_libc/" "maze_parser.c" "path_search_algo.h" "maze_internals.h" "ordered_coords_list.c")
+
+ ("/home/petarangelov/Desktop/dev/c/tar-impl/" (25112 54932 90964 576000) "../" "makefile" "exec" "file.tar" "tar.o" "./" "main.c" "libtar.a" "tar.h" "tar.c")
+
+ ("/home/petarangelov/Desktop/dev/c/blockchain/" (25256 37902 535190 299000) "../" "makefile" "./" "main" "main.c")
+
+ ("/home/petarangelov/Desktop/dev/c/smart_input/" (25467 37114 138762 784000) "../" "./" "smart_input.h" "main.c" "a.out")
+
+ ("/home/petarangelov/Desktop/dev/ruby/ex-ev/syntax/" (25460 65094 145100 77000) "../" "./" "token.rb" "lexer.rb" "parser.rb")
+
+ ("/home/petarangelov/Desktop/dev/ruby/ex-ev/spec/" (25460 63892 315858 77000) "numbers_spec.rb" "../" "./" "spec_helper.rb")
+
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/src/syntax/" (25460 51877 906492 914000) "../" "./" "mod.rs")
+
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/src/" (25460 51426 545161 225000) "../" "main.rs" "./" "lib.rs" "syntax/")
+
+ ("/home/petarangelov/Desktop/dev/rs/ex-ev/" (25460 50411 735497 649000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/lib/" (25351 22402 36018 784000) "integration/" "../" "activity_resolver/" "blocklist.rb" "./" "twilio_client.rb" "caching_o_auth2_client.rb" "response_cache.rb" "user_activity_mailer_sections.rb" "user_activity_mailer_sections/" "activity_resolver.rb" "avatar_constants.rb" "e164_phone_validator.rb" "ableto/" "report.rb")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/lib/activity_resolver/" (25351 22402 36018 784000) "../" "predicates/" "context/" "./" "models/" "context.rb")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/app/lib/activity_resolver/predicates/" (25351 22402 36018 784000) "../" "common.rb" "./")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/" (25454 11545 777712 605000) "coaches.yml" "environments/" "../" "initializers/" "credentials.yml.enc" "campaigns.yml" "nginx/" "storage.yml" "newrelic.yml" "./" "sidekiq.yml" "database.yml" "activity_templates/" "locales/" "demo_campaigns.yml" "secrets.yml" "autoprefixer.yml" "message_templates/" "routes.rb" "environment.rb" "boot.rb" "spring.rb" "programs/" "activity_config_versions/" "api_routes.rb" "puma.rb" "credentials/" "pdf_tools.yml" "cucumber.yml" "master.key" "cable.yml" "application.rb" "plans.yml")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/locales/" (25441 4063 14801 794000) "counselor_email.en.yml" "counselor_email.es.yml" "es.yml" "landing/" "api/" "campaigns.es.yml" "../" "introducing_joyable_email.en.yml" "auto_chat/" "welcome_messages.en.yml" "welcome_messages.es.yml" "./" "notifications/" "concierge_messages/" "introducing_joyable_email.es.yml" "call_reminder.en.yml" "call_reminder.es.yml" "api_errors.en.yml" "activity_configs/" "browser/" "email/" "api_errors.es.yml" "weekly_reminder.en.yml" "activity_meta/" "test.en.yml" "surveys/" "weekly_reminder.es.yml" "mobile/" "test.es.yml" "text_messages/" "campaigns.en.yml" "devise.es.yml" "devise.en.yml" "demo/" "quizzes/" "en.yml" "provider_match.es.yml" "provider_match.en.yml")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/locales/browser/" (25453 14253 68043 409000) "edit_fear_dialog.en.yml" "admin_tool.en.yml" "verify_login.en.yml" "create_account/" "profile_screen/" "update_payment_dialog.es.yml" "../" "support.es.yml" "subvendors.es.yml" "activations/" "general.en.yml" "depression_upgrade_dialog.es.yml" "two_factor_setup_dialog.en.yml" "activity_results.en.yml" "explore/" "profile/" "account.en.yml" "provider_tools/" "log_in/" "program_coming_soon_dialog.en.yml" "twilio_video_session.en.yml" "dashboard.es.yml" "notification_settings.es.yml" "marketing.en.yml" "./" "account_deletion_request.en.yml" "notification_settings.en.yml" "contentful_items/" "interim_program.yml" "login_dialog.es.yml" "login.en.yml" "session_menu.en.yml" "call_scheduling.en.yml" "dashboard/" "switch_program_dialog.es.yml" "common/" "two_factor_setup_dialog.es.yml" "support.en.yml" "subvendors.en.yml" "pre_program.en.yml" "coach_notice.es.yml" "switch_program_dialog.en.yml" "update_payment_dialog.en.yml" "templates/" "edit_fear_dialog.es.yml" "cookies.es.yml" "program_coming_soon_dialog.es.yml" "activities/" "account.es.yml" "login_dialog.en.yml" "reschedule_request.en.yml" "general.es.yml" "coach_notice.en.yml" "call_scheduling.es.yml" "habits/" "marketing.es.yml" "depression_upgrade_dialog.en.yml" "cookies.en.yml" "dashboard.en.yml" "pre_program/")
+
+ ("/home/petarangelov/Desktop/dev/ableto/rails/config/locales/browser/common/" (25351 22402 100016 147000) "es.yml" "../" "./" "en.yml")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
