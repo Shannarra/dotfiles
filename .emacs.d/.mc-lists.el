@@ -10,6 +10,7 @@
         markdown-outdent-or-delete
         paredit-forward-delete
         paredit-forward-slurp-sexp
+        ruby-end-space
         sh-assignment
         smex
         ))
