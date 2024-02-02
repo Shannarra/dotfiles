@@ -72,23 +72,31 @@ M-g M-f <line-number>
 C-c C-d      # rubocop:disable
 C-c C-e      # rubocop:enable
 C-c C-b      binding.pry
+C-c C-r C-t 'compile-rb-tags
 
  -- Lisp
  C-c) C-j eval-print-last-sexp
 
  You can write some Emacs Lisp right here:
-\""
-)
+\"
 
-;; Tree sidebar view
-(require 'neotree)
+
+      ;; Tree sidebar view
+      (require 'neotree)")
 ;; https://github.com/jaypei/emacs-neotree/blob/dev/README.md#keybindings
 (global-set-key (kbd "C-c C-t") 'neotree-toggle)
 
+(defun compile-rb-tags ()
+  "compile etags for the current project"
+  (interactive)
+  (compile "find . -name \"*.rb\" -exec etags --append {} \\;"))
+
+(global-set-key (kbd "C-c C-r C-t") 'compile-rb-tags)
+
 ;; Ruby hooks
-(add-hook 'ruby-mode-hook 'eglot-ensure)
+;(add-hook 'ruby-mode-hook 'eglot-ensure)
 ;(add-hook 'ruby-mode-hook 'ruby-electric-mode)
-(add-hook 'ruby-ts-mode-hook 'eglot-ensure)
+;(add-hook 'ruby-ts-mode-hook 'eglot-ensure)
 
 (add-to-list 'auto-mode-alist
              '("\\.\\(?:cap\\|gemspec\\|irbrc\\|gemrc\\|rake\\|rb\\|ru\\|thor\\)\\'" . ruby-mode))
@@ -379,7 +387,7 @@ compilation-error-regexp-alist-alist
    '(org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m))
  '(org-refile-use-outline-path 'file)
  '(package-selected-packages
-   '(inf-ruby enh-ruby-mode json-mode lsp-ui ruby-end lsp-mode helm-rubygems-local helm-rubygems-org filetree rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash))
+   '(jsonrpc inf-ruby enh-ruby-mode json-mode lsp-ui ruby-end lsp-mode helm-rubygems-local helm-rubygems-org filetree rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash))
  '(safe-local-variable-values
    '((eval progn
            (auto-revert-mode 1)
