@@ -6,6 +6,8 @@
 (load "~/.emacs.rc/org-mode-rc.el")
 (load "~/.emacs.rc/autocommit-rc.el")
 
+(require 'package)
+
 ;;; Appearance
 (defun rc/get-default-font ()
   (cond
@@ -14,6 +16,7 @@
 
 (add-to-list 'default-frame-alist `(font . ,(rc/get-default-font)))
 (add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/") t)
 
 (tool-bar-mode 0)
 (menu-bar-mode 0)
@@ -21,8 +24,13 @@
 (column-number-mode 1)
 (show-paren-mode 1)
 
-;; (rc/require-theme 'gruber-darker)
-;; (rc/require-theme 'zenburn)
+(setq custom-theme-directory "~/.emacs.d/themes/")
+(load-theme 'spacemacs-dark t)
+
+;(rc/require 'spacemacs-theme)
+;(load-theme 'spacemacs-theme t)
+; (rc/require-theme 'gruber-darker)
+; (rc/require-theme 'zenburn)
 ;; (load-theme 'adwaita t)
 
 ;; (eval-after-load 'zenburn
@@ -72,28 +80,38 @@ M-g M-f <line-number>
 C-c C-d      # rubocop:disable
 C-c C-e      # rubocop:enable
 C-c C-b      binding.pry
+C-c C-r C-t 'compile-rb-tags
 
  -- Lisp
  C-c) C-j eval-print-last-sexp
 
  You can write some Emacs Lisp right here:
-\""
-)
+\"
+")
 
 ;; Tree sidebar view
 (require 'neotree)
 ;; https://github.com/jaypei/emacs-neotree/blob/dev/README.md#keybindings
 (global-set-key (kbd "C-c C-t") 'neotree-toggle)
 
+(defun compile-rb-tags ()
+  "compile etags for the current project"
+  (interactive)
+  (compile "find . -type d -name vendor -prune -o -name '*.rb' -exec etags --append {} \\;"))
+
+(global-set-key (kbd "C-c C-r C-t") 'compile-rb-tags)
+
 ;; Ruby hooks
-(add-hook 'ruby-mode-hook 'eglot-ensure)
+;(add-hook 'ruby-mode-hook 'eglot-ensure)
 ;(add-hook 'ruby-mode-hook 'ruby-electric-mode)
-(add-hook 'ruby-ts-mode-hook 'eglot-ensure)
+;(add-hook 'ruby-ts-mode-hook 'eglot-ensure)
 
 (add-to-list 'auto-mode-alist
              '("\\.\\(?:cap\\|gemspec\\|irbrc\\|gemrc\\|rake\\|rb\\|ru\\|thor\\)\\'" . ruby-mode))
 (add-to-list 'auto-mode-alist
              '("\\(?:Brewfile\\|Capfile\\|Gemfile\\(?:\\.[a-zA-Z0-9._-]+\\)?\\|[rR]akefile\\)\\'" . ruby-mode))
+
+;;(load-theme 'modus-operandi)
 
 ;;; c-mode
 (setq-default c-basic-offset 4
@@ -370,6 +388,8 @@ compilation-error-regexp-alist-alist
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(custom-safe-themes
+   '("21e3d55141186651571241c2ba3c665979d1e886f53b2e52411e9e96659132d4" default))
  '(display-line-numbers-type 'relative)
  '(org-agenda-dim-blocked-tasks nil)
  '(org-agenda-exporter-settings '((org-agenda-tag-filter-preset (list "+personal"))))
@@ -379,12 +399,13 @@ compilation-error-regexp-alist-alist
    '(org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m))
  '(org-refile-use-outline-path 'file)
  '(package-selected-packages
-   '(inf-ruby enh-ruby-mode json-mode lsp-ui ruby-end lsp-mode helm-rubygems-local helm-rubygems-org filetree rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash))
+   '(modus-themes jsonrpc inf-ruby enh-ruby-mode json-mode lsp-ui ruby-end lsp-mode helm-rubygems-local helm-rubygems-org filetree rainbow-mode proof-general elpy hindent ag qml-mode racket-mode php-mode go-mode kotlin-mode nginx-mode toml-mode love-minor-mode dockerfile-mode nix-mode purescript-mode markdown-mode jinja2-mode nim-mode csharp-mode rust-mode cmake-mode clojure-mode graphviz-dot-mode lua-mode tuareg glsl-mode yaml-mode d-mode scala-mode move-text nasm-mode editorconfig tide company powershell js2-mode yasnippet helm-ls-git helm-git-grep helm-cmd-t helm multiple-cursors magit haskell-mode paredit ido-completing-read+ smex gruber-darker-theme org-cliplink dash-functional dash))
  '(safe-local-variable-values
    '((eval progn
            (auto-revert-mode 1)
            (rc/autopull-changes)
            (add-hook 'after-save-hook 'rc/autocommit-changes nil 'make-it-local))))
+ '(spacemacs-theme-comment-italic t)
  '(whitespace-style
    '(face tabs spaces trailing space-before-tab newline indentation empty space-after-tab space-mark tab-mark)))
 (custom-set-faces

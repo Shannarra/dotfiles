@@ -2,6 +2,41 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/petarangelov/.emacs.snippets/" . "fundamental-mode/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/tmp/" . "sockets/")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/app/" . "templates/")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/" . "app/")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/" . "assessment/")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/" . "serializers/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/controllers/" . "actions/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/views/" . "layouts/")
+ ("/home/petarangelov/Desktop/dev/solvace-source-master/app/" . "middleware/")
+ ("/home/petarangelov/Desktop/dev/solvace-source-master/" . "config/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/" . "middleware/")
+ ("/home/petarangelov/Desktop/solvace-source-master/config/" . "initializers/")
+ ("/home/petarangelov/Desktop/solvace-source-master/" . "config/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/" . "subjects/")
+ ("/home/petarangelov/.emacs.d/elpa/" . "eglot-1.15/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/assets/stylesheets/" . "active_admin/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/.github/" . "workflows/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/" . "requests/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/controllers/" . "user/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/javascript/" . "controllers/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/users/" . "registrations/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/db/" . "migrate/")
+ ("/home/petarangelov/Desktop/dev/rails/manageR/" . "bin/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/assets/" . "images/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/" . "subjects/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/config/" . "initializers/")
+ ("/home/petarangelov/Desktop/dev/ruby/sqllite-rb/" . "src/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/config/" . "environments/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/db/" . "migrate/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/" . "controllers/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/" . "app/")
+ ("/home/petarangelov/Desktop/dev/final_project/" . "manageR/")
+ ("/home/petarangelov/Desktop/dev/rails/testapp/app/views/" . "layouts/")
+ ("/home/petarangelov/Desktop/dev/rails/testapp/app/" . "models/")
+ ("/home/petarangelov/Desktop/dev/rails/testapp/" . "app/")
  ("/home/petarangelov/.config/" . "tmux/")
  ("/home/petarangelov/Desktop/dev/ruby/ProjectEuler/" . "20-30/")
  ("/home/petarangelov/Desktop/dev/rs/interprs/" . "src/")
@@ -23,9 +58,9 @@
  ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/" . "config/")
  ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/" . "models/")
  ("/home/petarangelov/Desktop/dev/rails/rails7template/.github/" . "workflows/")
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/" . "layouts/")
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/" . "controllers/")
- ("/home/petarangelov/Desktop/dev/rails/rails7template/" . "app/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/" . "articles/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/app/" . "views/")
+ ("/home/petarangelov/Desktop/dev/rails/rails7template/" . "config/")
  ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/spec/" . "factories/")
  ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/db/" . "migrate/")
  ("/home/petarangelov/Desktop/dev/rails/rails7-on-docker/app/models/" . "concerns/")
@@ -84,7 +119,7 @@
  ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/api/" . "v1/")
  ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" . "mcp_services/")
  ("/home/petarangelov/Desktop/dev/realappeal-esra/db/" . "migrate/")
- ("/home/petarangelov/Desktop/dev/realappeal-esra/app/" . "jobs/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/" . "models/")
  ("/home/petarangelov/Desktop/dev/realappeal-esra/" . "lib/")
  ("/home/petarangelov/Desktop/dev/rs/my_redis_cli/" . "src/")
  ("/home/petarangelov/Desktop/dev/rs/my_ping_server/client/" . "src/")
@@ -109,7 +144,7 @@
  ("/home/petarangelov/Desktop/dev/rs/ex-ev/" . "src/")
  ("/home/petarangelov/Desktop/dev/ruby/ex-ev/" . "syntax/")
  ("/home/petarangelov/.cargo/registry/src/github.com-1ecc6299db9ec823/" . "regex-syntax-0.6.26/")
- ("/home/petarangelov/Desktop/dev/ruby/" . "iterprb/")
+ ("/home/petarangelov/Desktop/dev/ruby/" . "xml_tests/")
  ("/home/petarangelov/Desktop/dev/rs/rust-test-app/src/" . "x_ev/")
  ("/home/petarangelov/Desktop/dev/rs/rust-test-app/" . "src/")
  ("/home/petarangelov/Desktop/dev/rs/" . "interprs/")
@@ -120,7 +155,7 @@
  ("/home/petarangelov/Desktop/dev/ableto/rails/config/" . "nginx/")
  ("/home/petarangelov/Desktop/dev/hs/" . "learning/")
  ("/home/" . "petarangelov/")
- ("/home/petarangelov/.emacs.d/" . "elpa/")
+ ("/home/petarangelov/.emacs.d/" . "themes/")
  ("/home/petarangelov/Desktop/dev/ableto/web/app/js/" . "activities/")
  ("/home/petarangelov/Desktop/dev/ableto/web/app/" . "js/")
  ("/home/petarangelov/Desktop/dev/ableto/web/" . "app/")
@@ -129,281 +164,281 @@
  ("/home/petarangelov/Desktop/dev/ableto/rails/app/controllers/" . "admin/")
  ("/home/petarangelov/Desktop/dev/ableto/rails/app/" . "controllers/")
  ("/home/petarangelov/Desktop/dev/ableto/rails/" . "app/")
- ("/home/petarangelov/" . ".config/")
+ ("/home/petarangelov/" . "Desktop/")
  ("/home/petarangelov/Desktop/dev/ableto/" . ".idea/")
- ("/home/petarangelov/Desktop/dev/" . "mentornet-fe/")
+ ("/home/petarangelov/Desktop/dev/" . "final_project/")
  ("/home/petarangelov/Desktop/" . "dev/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
  "/home/petarangelov/"
- "/home/petarangelov/Desktop/dev/ruby/ProjectEuler/20-30/"
- "/home/petarangelov/Desktop/dev/ruby/lutria/"
- "/home/petarangelov/Desktop/dev/ruby/iterprb/"
- "/home/petarangelov/Desktop/dev/rs/interprs/src/"
- "/home/petarangelov/Desktop/dev/ruby/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/controllers/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/requests/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/subjects/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/routing/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/partials/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/i_classes/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/controllers/concerns/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/models/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/models/concerns/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/layouts/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/institutions/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/config/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/db/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/helpers/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/i_classes/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/institutions/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/policies/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/users/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/admin/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/tmp/sockets/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/app/views/users/registrations/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/src/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/spec/"
+ "/home/petarangelov/Desktop/dev/ruby/json-rb/"
+ "/home/petarangelov/Desktop/solvace-source-master/config/"
+ "/home/petarangelov/Desktop/solvace-source-master/"
  "/home/petarangelov/Desktop/"
- "/home/petarangelov/Desktop/dev/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/app/controllers/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/"
- "/home/petarangelov/Desktop/dev/ruby/asm-converter/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/app/helpers/"
- "/home/petarangelov/Desktop/dev/ruby/testing/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/leaderboard/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/members/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/hooks/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/pages/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/kudos/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/interfaces/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/services/api/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/services/helpers/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/constants/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/home/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/store/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/benefits/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/communities/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/common/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/"
- "/home/petarangelov/Desktop/dev/mentornet-fe/src/components/community/"
- "/home/petarangelov/Desktop/School-Management-System/app/uploaders/"
- "/home/petarangelov/Desktop/School-Management-System/config/"
- "/home/petarangelov/Desktop/School-Management-System/"
- "/home/petarangelov/Desktop/School-Management-System/app/views/students/"
- "/home/petarangelov/Desktop/School-Management-System/db/"
- "/home/petarangelov/Desktop/dev/rails/ReCommendMe/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/app/views/layouts/"
- "/home/petarangelov/Desktop/dev/rails/deviseTesting3/app/views/articles/"
- "/home/petarangelov/Desktop/dev/rails/deviseTests/app/views/layouts/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/views/layouts/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/config/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/config/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/config/initializers/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/models/"
- "/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/db/migrate/"
- "/home/petarangelov/Desktop/dev/c/memcached-1.4.15/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/spec/views/articles/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/app/views/articles/"
- "/home/petarangelov/Desktop/dev/rails/rails7template/app/models/"
+ "/home/petarangelov/Desktop/dev/ruby/xml_tests/"
+ "/home/petarangelov/Desktop/solvace-source-master/db/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/"
+ "/home/petarangelov/Desktop/solvace-source-master/config/environments/"
+ "/home/petarangelov/Desktop/solvace-source-master/app/middleware/"
+ "/home/petarangelov/Desktop/solvace-source-master/app/controllers/"
+ "/home/petarangelov/Desktop/solvace-source-master/config/initializers/"
+ "/home/petarangelov/Desktop/solvace-source-master/lib/tasks/"
+ "/home/petarangelov/Desktop/solvace-source-master/frontend/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/client_import/"
+ "/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/"
+ "/home/petarangelov/Desktop/solvace-source-master/app/views/layouts/"
+ "/home/petarangelov/Desktop/solvace-source-master/app/models/"
+ "/home/petarangelov/Desktop/dev/solvace-source-master/config/"
+ "/home/petarangelov/Desktop/dev/solvace-source-master/bin/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/policies/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/models/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/factories/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/db/migrate/"
+ "/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/users/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".tmux.color.conf"
- ".tmux.conf"
- "024 - Lexicographic permutations.rb"
- "026 - Reciprocal cycles.rb"
  ".emacs"
- "constants.rb"
- "main.rb"
- "main.rs"
- "AOC.rb"
- "bin.rb"
+ "application_controller.rb"
+ "subjects_spec.rb"
+ "i_classes_spec.rb"
+ "subjects_controller.rb"
+ "edit.html.erb"
+ "_form.html.erb"
+ "subjects_routing_spec.rb"
+ "README.md"
+ "_nav.html.erb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/petarangelov/" (25956 46931 652875 747000) "schema.yml" ".viminfo" "help.txt" "go/" ".ghci" ".emacs.rc/" "../" ".vscode/" ".yarnrc.yml" ".irbrc" ".mysql_history" ".sqlite_history" ".git_PAT.txt.swp" ".emacs.snippets/" ".bundle/" ".profile" ".bash_logout" "phantomjs-2.1.1-linux-x86_64.tar.bz2" ".yarnrc" "nano.save" ".wget-hsts" "token.txt" ".thunderbird/" ".nvm/" "#.tmux.conf#" "raylib/" "shannarra" "is_ableto.pub" "rvo_recovery_codes.txt" ".ssh/" "git_MM_PAT.txt" "is_ableto" "Templates/" ".zshrc" "id_ableto_rsa" "rvo_pat.txt" ".vmware/" ".cargo/" ".docker/" "Documents/" "dev.odt" "./" "google-chrome-stable_current_amd64.deb" ".tmux.color.conf" ".qws/" ".xsession-errors" ".gemrc" ".docker-sync-global.yml" ".emacs.d/" ".lesshst" "Applications/" "test.rb.save" ".config/" ".ghc/" ".dotnet/" ".python_history" ".android/" ".yarn/" "shannarra.pub" "ruby-build/" ".putty/" "id_ableto_rsa.pub" "Desktop/" ".ruby-version" "subhook/" "Videos/" ".gem/" "dotfiles/" "RubymineProjects/" ".rbenv/" "noed/" "porth/" ".irb_history" "test.rb" ".bash_history" "passwords.txt" "id_shannarra.pub" "Downloads/" ".zcompdump" "blog/" "git_PAT.txt" "Pictures/" ".doom.d/" ".java/" ".bin/" ".cache/" "dotfiles.tar.gz" ".rustup/" "classes.json" ".unison/" "WebstormProjects/" "help.txt~" "snap/" "kill_on_X.sh" ".fonts/" "report.xml" "appimage-v94.0-1/" "id_shannarra" "Public/" ".emacs" ".bashrc" "realappeal-stupidedi-fork/" ".npm/" ".local/" ".Xauthority" ".vim/" ".ViberPC/" ".gitconfig" ".gnupg/" ".pki/" "null" ".mozilla/" ".bashrc.save.1" "phantomjs-1.9.8-linux-x86_64.tar.bz2" ".git-credentials" ".wine/" ".var/" ".tmux.conf" ".bashrc~" ".stack/" ".gitignore" "#.bashrc#" ".pryrc" ".node_repl_history" ".ruby-lsp/" ".git-templates/" "nano.save.1" ".psql_history" ".emacs.local/" ".sudo_as_admin_successful" ".solargraph/" ".bashrc.save" "ddagent-install.log" "Music/")
+ ("/home/petarangelov/" (26085 62017 213564 34000) "schema.yml" ".viminfo" "help.txt" "go/" ".ghci" ".emacs.rc/" "../" ".vscode/" ".yarnrc.yml" ".irbrc" ".mysql_history" ".sqlite_history" ".git_PAT.txt.swp" ".emacs.snippets/" ".bundle/" ".profile" ".bash_logout" "phantomjs-2.1.1-linux-x86_64.tar.bz2" ".yarnrc" "nano.save" ".wget-hsts" "token.txt" ".thunderbird/" ".nvm/" "#.tmux.conf#" "raylib/" "shannarra" "is_ableto.pub" "rvo_recovery_codes.txt" ".ssh/" "git_MM_PAT.txt" "is_ableto" "Templates/" ".zshrc" "id_ableto_rsa" "rvo_pat.txt" ".vmware/" ".cargo/" "freetds-1.1.24.tar.gz" ".docker/" "Documents/" "dev.odt" "./" "google-chrome-stable_current_amd64.deb" ".tmux.color.conf" ".qws/" ".xsession-errors" ".gemrc" ".docker-sync-global.yml" ".emacs.d/" ".lesshst" "Applications/" "test.rb.save" ".config/" ".ghc/" ".dotnet/" ".python_history" ".android/" ".yarn/" "shannarra.pub" "ruby-build/" ".putty/" "id_ableto_rsa.pub" "Desktop/" ".ruby-version" "subhook/" "Videos/" ".gem/" "dotfiles/" "RubymineProjects/" ".rbenv/" "noed/" "porth/" ".irb_history" "test.rb" ".bash_history" "passwords.txt" "id_shannarra.pub" "Downloads/" ".zcompdump" "blog/" "git_PAT.txt" "Pictures/" ".java/" "setup_14.sh" ".bin/" ".cache/" "dotfiles.tar.gz" ".rustup/" "classes.json" ".unison/" "WebstormProjects/" "help.txt~" ".emacs~" "snap/" "kill_on_X.sh" ".fonts/" "report.xml" "appimage-v94.0-1/" "..tmux.conf.swp" "id_shannarra" "freetds-1.1.24/" "Public/" ".emacs" ".bashrc" "realappeal-stupidedi-fork/" ".npm/" ".local/" ".Xauthority" ".vim/" ".ViberPC/" ".gitconfig" ".gnupg/" ".pki/" "null" ".mozilla/" ".bashrc.save.1" "phantomjs-1.9.8-linux-x86_64.tar.bz2" ".git-credentials" ".wine/" ".var/" ".tmux.conf" ".bashrc~" ".stack/" ".selected_editor" ".gitignore" "#.bashrc#" ".pryrc" ".node_repl_history" ".ruby-lsp/" ".calc_history" ".git-templates/" "nano.save.1" ".psql_history" ".emacs.local/" ".sudo_as_admin_successful" ".solargraph/" ".bashrc.save" "ddagent-install.log" "Music/")
 
- ("/home/petarangelov/.config/tmux/" (25956 45494 44930 27000) "../" "./")
+ ("/home/petarangelov/.emacs.d/" (26085 61670 981183 249000) "rust-playground/" "eshell/" "#ido.last#" "elpa/" "../" "network-security.data" "session.102c37652ccdccd4516781991357556800000031670091" ".lsp-session-v1" "session.103021c116b3d4771716564167589108800000031700085" "session.107430b91f208b7211170911696062862000000054250091" "session.10a87c6e505e6cd213166211404294973000000030530096" "./" "session.1078d9f68d9e9be691164138163866089000000028160085" "session.1086ce4506a57dac6d170487790714700700000041040092" "smex-items" "session.10dc4d60c4b8d7cd8f168864243566350900000037140117" "session.10dc4d60c4b8d7cd8f168925607921997300000037140167" "session.102c37652ccdccd45167827258778584300000031670096" "session.105cf221034397a8f2167869659614314300000029520090" "session.10cc6147bb9b0f5f55167395176174084800000031140084" "lsp-mode-7.0.1/" "session.104e22094bc46d8dfb170611732935336100000044180087" "transient/" "themes/" ".mc-lists.el" "auto-save-list/" "session.107430b91f208b7211170809590497016900000054250084" "ido.last" "places" "eln-cache/" "session.109eb57af7c020c56d168537322024542900000035700108" "session.1046430e0041e7166a169641640195235400000039860246")
 
- ("/home/petarangelov/.config/" (25956 45494 48930 157000) "eog/" "enchant/" "htop/" "dconf/" "JetBrains/" "../" "totem/" "pulse/" "autostart/" "Microsoft Teams - Preview/" "cef_user_data/" "gnome-initial-setup-done" "Microsoft/" "filezilla/" "rygel.conf" "monitors.xml~" "evolution/" "monitors.xml" "yarn/" "./" "discord/" "yelp/" "user-dirs.dirs" "Rygel/" "gnome-session/" "gtk-3.0/" "remmina/" "transmission/" "gedit/" "Code/" "Slack/" "teams/" "configstore/" "libreoffice/" "tmux/" "guvcview2/" "freerdp/" "ibus/" "update-notifier/" "goa-1.0/" "user-dirs.locale" "emacs/" "nautilus/" "menus/" "neofetch/" "nemo/" "google-chrome/" "mimeapps.list")
+ ("/home/petarangelov/.emacs.d/themes/" (26085 61688 445386 407000) "../" "./" "spacemacs-theme.el")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/community/" (25952 31541 86638 816000) "../" "./" "CommunityMainContent.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/requests/" (26085 59549 819812 465000) "../" "users_spec.rb" "./" "i_classes_spec.rb" "subjects_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/common/" (25952 31540 978637 616000) "LoadingSkeleton.tsx" "../" "CommonNavLink.tsx" "PolymorphicButton.tsx" "ProfileSectionConfirmButtons.tsx" "BackButton.tsx" "NoResultsCard.tsx" "CommonModal.tsx" "AuthorizedRoute.tsx" "CommonImage.tsx" "./" "ProfileSectionEditButtons.tsx" "Section.tsx" "CommonBreadcrumb.tsx" "CommonLink.tsx" "LeaderboardCard.tsx" "CommonTabs.tsx" "AxiosInterceptors.tsx" "CommonMobileModal.tsx" "BackToTopButton.tsx" "FromToWithAvatars.tsx" "SearchBar.tsx" "FileDropModalWrapper.tsx" "CommonEditableTextArea.tsx" "CommonStatusTracker.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/controllers/" (26085 59496 94891 60000) "../" "registrations_controller.rb" "institutions_controller.rb" "subjects_controller.rb" "welcome_controller.rb" "application_controller.rb" "./" "i_classes_controller.rb" "users_controller.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/communities/" (25952 31541 74638 683000) "SideBarSectionCard.tsx" "../" "CommunitiesSidebarContent.tsx" "CommunitiesMainContent.tsx" "AutoUpdateImage.tsx" "CommunitiesFilters.tsx" "./" "EditCommunityModal.tsx" "CommunitiesListView.tsx" "AddCommunityModal.tsx" "CommunitiesCardView.tsx")
+ ("/home/petarangelov/.emacs.snippets/fundamental-mode/" (26085 59111 404383 760000) "mit" "../" "sb" "./")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/benefits/" (25952 31540 954637 349000) "BenefitRequestCard.tsx" "../" "BenefitsCommonSidebar.tsx" "BenefitsAllSection.tsx" "BenefitsAccordion.tsx" "BenefitsMainContent.tsx" "./" "BenefitCommonSection.tsx" "BenefitsHowDoesItWorkCard.tsx" "BenefitCardViewCard.tsx" "BenefitListViewCard.tsx" "BenefitsSidebarContent.tsx" "Benefits.md" "BenefitsDeductedCard.tsx")
+ ("/home/petarangelov/.emacs.snippets/" (25422 45291 357897 724000) "nxml-mode/" "css-mode/" "makefile-gmake-mode/" "html-mode/" "../" "js-mode/" "d-mode/" "markdown-mode/" "c++-mode/" "org-mode/" "typescript-mode/" "./" "c-like-syntax/" "snippet-mode/" "fundamental-mode/" "latex-mode/" "rust-mode/" "java-mode/" "perl-mode/" "scala-mode/" "fan-mode/" "porth-mode/" "emacs-lisp-mode/" "c-mode/" "nix-mode/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/store/" (25956 33647 110785 127000) "StoreSidebarContent.tsx" "../" "StoreItemOptions.tsx" "./" "StoreFilters.tsx" "EditStoreItemModal.tsx" "StoreItemOption.tsx" "StoreSidebarForm.tsx" "AddStoreItemModal.tsx" "SidebarSectionCard.tsx" "StoreCard.tsx" "StoreMainContent.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/" (26085 57592 121285 915000) "helpers/" "rails_helper.rb" "../" "./" "routing/" "spec_helper.rb" "models/" "factories/" "requests/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/home/" (25952 31541 102638 994000) "../" "./" "HomeSidebarContent.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/factories/" (26085 57618 853783 408000) "../" "i_classes.rb" "admin_users.rb" "./" "users.rb" "subjects.rb" "institutions.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/" (25952 31540 914636 905000) "local.mentornet.devsmm.com+2.pem" ".gitlab/" "../" ".vscode/" ".prettierrc.json" "tsconfig.node.json" ".gitlab-ci.yml" ".eslintrc.json" "public/" "./" "vite.config.ts" "package.json" "tsconfig.json" "nginx.conf" ".env" ".eslintignore" "local.mentornet.devsmm.com+2-key.pem" "README.md" "src/" "node_modules/" "vitest.config.ts" "mentormate-marigold-v1.1.0.tgz" ".git/" "deploy-marigold-theme.sh" "package-lock.json" ".gitignore" "index.html" ".husky/" "Dockerfile.cicd")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/subjects/" (26085 57479 831181 647000) "../" "index.html.erb_spec.rb" "./" "edit.html.erb_spec.rb" "show.html.erb_spec.rb" "new.html.erb_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/constants/" (25956 33647 114785 201000) "benefits.ts" "../" "communities.ts" "./" "kudos.ts" "common.ts" "store.ts" "reactions.ts" "filters.ts" "members.ts")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/" (26085 49740 726271 936000) "users/" "institutions/" "../" "./" "subjects/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/services/helpers/" (25952 40329 25087 483000) "benefits.ts" "../" "./" "auth.ts" "getImagePath.ts" "common.ts" "store.ts" "reactions.ts" "filters.ts" "member.tsx" "router.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/routing/" (26085 56783 809501 319000) "subjects_routing_spec.rb" "institutions_routing_spec.rb" "../" "./" "i_classes_routing_spec.rb" "users_routing_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/services/api/" (25952 31541 914648 17000) "benefits.ts" "../" "communities.ts" "tokens.ts" "./" "kudos.ts" "store.ts" "reactions.ts" "leaderboard.ts" "filters.ts" "image.ts" "transfers.ts" "members.ts" "hobbies.ts")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/partials/" (26085 55795 620085 255000) "../" "./" "_nav.html.erb" "_modal.html.erb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/interfaces/" (25956 33647 126785 423000) "benefits.ts" "../" "communities.ts" "tokens.ts" "./" "kudos.ts" "auth.ts" "common.ts" "store.ts" "reactions.ts" "leaderboard.ts" "filters.ts" "transfers.ts" "members.ts" "hobbies.ts")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/subjects/" (26085 54452 566883 781000) "../" "_subject.html.erb" "show.json.jbuilder" "./" "_form.html.erb" "edit.html.erb" "_subject.json.jbuilder" "index.json.jbuilder" "new.html.erb" "show.html.erb" "index.html.erb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/kudos/" (25952 31541 154639 572000) "../" "LatestKudos.tsx" "KudosReactions.tsx" "./" "KudosListMember.tsx" "WriteKudosButton.tsx" "KudosCard.tsx" "KudosListAll.tsx" "WriteKudosModal.tsx" "KudosRecipientsList.tsx" "KudosListProfile.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/i_classes/" (26085 54087 77118 516000) "../" "_i_class.html.erb" "./" "_form.html.erb" "edit.html.erb" "manage.html.erb" "show.html.erb" "index.html.erb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/pages/" (25956 33647 126785 423000) "ErrorBoundary.tsx" "Community.tsx" "../" "BenefitsAll.tsx" "Members.tsx" "BenefitsPast.tsx" "BenefitsActive.tsx" "Store.tsx" "Leaderboard.tsx" "Member.tsx" "./" "Communities.tsx" "BenefitsRequested.tsx" "Home.tsx" "Login.tsx" "StoreDetail.tsx" "Benefits.tsx" "admin/" "Benefit.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/models/" (26085 53788 832528 799000) "i_class.rb" "../" "institution.rb" "./" "user.rb" "subject.rb" "application_record.rb" "admin_user.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/hooks/" (25952 31541 666645 261000) "membersHooks.ts" "usePagination.ts" "hobbiesHooks.ts" "useMediaQueryHook.ts" "../" "usePageTitle.ts" "transfersHooks.ts" "benefitsHooks.ts" "useChangeViewButton.tsx" "./" "useCommonToast.tsx" "kudosHooks.ts" "useLogOut.ts" "useHover.ts" "useIntersectionObserver.ts" "useDebouncedInput.ts" "useReactionTypes.ts" "leaderboardHooks.ts" "useMemberId.ts" "communitiesHooks.ts" "tokensHooks.ts" "storeHooks.ts")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/controllers/concerns/" (26085 53508 688390 53000) "../" "./")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/members/" (25952 31541 350641 750000) "../" "./" "MembersMainContent.tsx" "NewMembersSection.tsx" "MembersFilters.tsx" "MemberCard.tsx" "NewMemberCard.tsx" "MembersSidebarContent.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/models/concerns/" (26085 53463 623747 305000) "../" "nested_resource.rb" "./")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/leaderboard/" (25952 31541 242640 550000) "../" "LeaderboardFilters.tsx" "./" "LeaderboardCard.tsx" "LeaderboardSidebarContent.tsx" "LeaderboardYourRanking.tsx" "LeaderboardMainContent.tsx" "LeaderboardTable.tsx" "LeaderboardTop3.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/helpers/" (26085 49740 746272 270000) "subjects_helper_spec.rb" "../" "./")
 
- ("/home/petarangelov/Desktop/" (25952 32181 132789 356000) "test.el" "rank.png" "week26-Petar_Angelov.docx" "bin.rb" "School-Management-System/" "rails_update/" "tokens.png" "zxc.jpg" "../" "ccards.png" ".qasar.sh.swn" "cat_sel.png" "N/" "aintnoway.webp" "QWASAR_Projects/" "kudos.png" "week16.txt" "large-file-testRA620.csv" "logo.svg" "testing/" "claudia.png" "week28-Petar_Angelov.docx" "wget-log.1" "./" "Client_Import_esra_modern1(1).csv" "Story Mapping.pdf" "ddwn.png" "week21-Petar_Angelov.docx" "tab.png" "edit.png" "test.rb.save" "wget-log" "rub.png" "uat_dump.sql" "assignment.txt" "ror_certificate.png" "week27-Petar_Angelov.docx" "week29-Petar_Angelov.dotx" "my-malloc/" "testing.csv" "week23-Petar_Angelov.docx" "cats.png" "ref only.png" "week20-Petar_Angelov.docx" "maze-solver/" "BrowserStackLocal" "cr.png" "week19-Petar_Angelov.docx" "no tokens.png" "MMUPA029A310520230309.jpg" "AOC.rb" "test.rb" "db_test.yml" "AAAAHHH.mp3" "test.html" "motivation.odt" "week22-Petar_Angelov.pdf" "week22-Petar_Angelov.docx" "asd.png" "badges.png" "movies.db" "dev/" "qwasar-sql/" "week3assignment.txt" "figma.png" "classes.txt" "AlgoExpert_Certificate.pdf" "week29-Petar_Angelov.docx" "porth-master/" "one_row.png" "lead.png" "2per_row.png" "daily_tips/" "week24-Petar_Angelov.docx" ".qasar.sh.swp" "kafka-testapp/" "tips.png" "veli.MOV" ".23.11.2021.txt.swp" "mem.png" "I5Coaching_Casey.csv" "cat_emp.png" ".qasar.sh.swo" "week18-Petar_Angelov.docx" "memb.png" "a.out" "ex-ev/" "log.png" "member.png" "grad.png" "BC/" "week16-Petar-Angelov.docx" "week25-Petar_Angelov.docx" "Untitled.png" "new.png")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/models/" (26085 49740 666270 935000) "subject_spec.rb" "institution_spec.rb" "../" "user_spec.rb" "i_class_spec.rb" "./" "admin_user_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/ruby/" (25948 40908 161368 8000) "../" "main.rb~" "stupidity/" "json-rb/" "lutria/" "my_sqlite/" "hackerrank_problem_solving_solutions/" "testing/" "./" "asm-converter/" "ProjectEuler/" "main.rb" "ruby_goto/" "ruby-goto/" "stack/" "ex-ev/" "iterprb/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/users/registrations/" (26085 46682 364080 946000) "../" "./" "edit.html.erb" "new.html.erb")
 
- ("/home/petarangelov/Desktop/dev/ruby/iterprb/" (25942 12182 345193 472000) "../" "./" "Gemfile" "main.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/tmp/sockets/" (26085 51438 144297 451000) "../" "./" "rails_live_reload.sock")
 
- ("/home/petarangelov/Desktop/dev/ruby/ProjectEuler/20-30/" (25949 57433 825824 513000) "026 - Reciprocal cycles.rb" "Reciprocal" "../" "024 - Lexicographic permutations.rb" "./" "022 - Name scores.rb" "025 - 1000-digit Fibonacci number.rb" "023 - Non-abundant sums.rb" "021 - Amicable numbers.rb" "question_assets/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/admin/" (26085 46682 316080 230000) "i_class.rb" "../" "institution.rb" "admin_users.rb" "./" "user.rb" "dashboard.rb")
 
- ("/home/petarangelov/Desktop/dev/ruby/ProjectEuler/" (25948 40908 953282 226000) "../" "20-30/" "./" "760 - Sum over Bitwise Operators.rb" "60-70/" "README.md" ".git/" "10-20/" "0-10/" "util.rb" ".gitignore")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/users/" (26085 46682 364080 946000) "unlocks/" "../" "mailer/" "sessions/" "registrations/" "./" "confirmations/" "my_profile.html.erb" "_form.html.erb" "edit.html.erb" "_new.html.erb" "shared/" "passwords/" "verify_code.html.erb" "manage.html.erb" "new.html.erb" "show.html.erb" "index.html.erb")
 
- ("/home/petarangelov/.emacs.d/" (25940 58457 73805 25000) "rust-playground/" "#ido.last#" "elpa/" "../" "session.102c37652ccdccd4516781991357556800000031670091" "session.103021c116b3d4771716564167589108800000031700085" "session.10a87c6e505e6cd213166211404294973000000030530096" "./" "session.1078d9f68d9e9be691164138163866089000000028160085" "smex-items" "session.10dc4d60c4b8d7cd8f168864243566350900000037140117" "session.10dc4d60c4b8d7cd8f168925607921997300000037140167" "session.102c37652ccdccd45167827258778584300000031670096" "session.105cf221034397a8f2167869659614314300000029520090" "session.10cc6147bb9b0f5f55167395176174084800000031140084" "lsp-mode-7.0.1/" "transient/" ".mc-lists.el" "auto-save-list/" "ido.last" "places" "eln-cache/" "session.109eb57af7c020c56d168537322024542900000035700108" "session.1046430e0041e7166a169641640195235400000039860246")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/policies/" (26085 46682 336080 528000) "../" "i_class_policy.rb" "application_policy.rb" "./" "user_policy.rb" "institution_policy.rb")
 
- ("/home/petarangelov/Desktop/dev/ruby/lutria/" (25681 8896 354793 60000) "../" "spec/" ".bundle/" ".rspec" "./" "run.sh" "Gemfile.lock" "token.rb" "constants.rb" "Gemfile" "vendor/" "main.rb" "bin/" "lexer.rb" "util.rb" "examples/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/institutions/" (26085 46682 380081 185000) "../" "index.html.erb_spec.rb" "./" "show.html.erb_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/rs/interprs/" (25940 51253 640598 617000) "../" "./" "Cargo.lock" "target/" "src/" ".git/" "Cargo.toml" ".gitignore")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/helpers/" (26085 49740 734272 70000) "../" "i_classes_helper.rb" "institutions_helper.rb" "application_helper.rb" "./" "welcome_helper.rb" "subjects_helper.rb" "users_helper.rb")
 
- ("/home/petarangelov/Desktop/dev/rs/interprs/src/" (25940 52123 318201 240000) "../" "main.rs" "./")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/config/" (26085 51193 183834 635000) "environments/" "importmap.rb" "../" "initializers/" "storage.yml" "./" "database.yml" "locales/" "routes.rb" "environment.rb" "boot.rb" "puma.rb" "cable.yml" "application.rb")
 
- ("/home/petarangelov/Desktop/dev/rs/" (25940 49983 165049 323000) "my_rust_mastermind/" "../" "stac/" "tcp_client/" "interprs/" "testing/" "./" "rust-test-app/" "reditor/" "my_redis_cli/" "edit-rs/" "my_redis_server/" "ex-ev/" "my_ping_server/" "multithreading/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/layouts/" (26085 52859 788301 728000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
 
- ("/home/petarangelov/Desktop/dev/ruby/asm-converter/" (25939 41334 997044 229000) "../" "#asm-converter.rb#" "testing/" "./" "asm-converter.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/institutions/" (26085 52797 51725 542000) "_institution.html.erb" "../" "./" "_class.html.erb" "manage.html.erb" "new.html.erb" "show.html.erb" "index.html.erb")
 
- ("/home/petarangelov/Desktop/dev/ruby/nutria/" (25738 61252 765521 204000) "test.nut" "../" "lutria/" ".idea/" "./" "Gemfile.lock" "Gemfile" "vendor/" "drop_test.nutr" "main.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/views/" (26085 49740 710271 669000) "i_classes/" "users/" "institutions/" "kaminari/" "../" "devise/" "./" "welcome/" "partials/" "subjects/" "active_storage/" "layouts/")
 
- ("/home/petarangelov/Desktop/dev/" (25939 38051 147102 660000) "final_project/" "js/" "cpp/" "../" "output.txt" "ruby/" "./" "python/" "qwasar_solutions/" "dotfiles/" "rails-devise-template/" "svelte/" "test.rb" "aoc/" "test.html" "asm/" "el/" "realappeal-esra/" "c/" "classes.txt" "mentornet-fe/" "rs/" "rails/" "hs/" "aoc21/" "ableto/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/db/" (26085 50864 365588 414000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
 
- ("/home/petarangelov/.emacs.d/elpa/" (25939 36849 392450 601000) "nasm-mode-20190410.342/" "ruby-extra-highlight-readme.txt" "git-commit-20220918.2032/" "dash-20230714.723/" "xref-1.6.3/" "php-mode-20221002.328/" "racket-mode-20231113.1445/" "compat-28.1.2.2.signed" "helm-cmd-t-20170125.1459/" "helm-20221018.451/" "purescript-mode-20220901.954/" "tide-20220514.614/" "nadvice-0.4/" "tide-20230620.1444/" "yasnippet-20230914.1400/" "hindent-20210201.148/" "lv-20200507.1518/" "compat-29.1.4.4/" "ruby-tools-20151209.1615/" "flycheck-nimsuggest-20171027.2208/" "helm-core-20221018.1234/" "project-0.10.0/" "ctable-20210128.629/" "smex-20151212.2209/" "project-0.10.0.signed" "jsonrpc-1.0.17.signed" "racket-mode-20220921.1525/" "sml-mode-6.12/" "compat-28.1.2.2/" "spinner-1.7.4/" "ht-20230703.558/" "filetree-20221108.236/" "rfc-mode-20230307.937/" "seq-2.24.signed" "flycheck-20220928.1355/" "nim-mode-20211102.917/" "eglot-1.15.signed" "commenter-20160219.1627/" "nadvice-0.3.signed" "flymake-1.3.7.signed" "yaml-mode-20220903.1821/" "deferred-20170901.1330/" "epc-20140610.534/" "helm-rubygems-local-20130712.111/" "concurrent-20161229.330/" "f-20230823.1159/" "rainbow-mode-1.0.6/" "external-completion-0.1.signed" "xref-1.6.3.signed" "graphviz-dot-mode-20220309.1336/" "move-text-20221006.1634/" "glsl-mode-20210808.1945/" "eldoc-1.14.0.signed" "rfc-mode-20231013.1353/" "nginx-mode-20170612.437/" "ruby-end-0.4.3.signed" "dash-functional-20210210.1449/" "transient-20220918.2101/" "magit-20221014.1745/" "clojure-mode-20220928.557/" "tuareg-20231009.2143/" "with-editor-20230917.958/" "caml-20220928.835/" "async-20231105.1713/" "pkg-info-20150517.1143/" "ag-20201031.2202/" "scala-mode-20221025.1502/" "yasnippet-20200604.246/" "qml-mode-20161016.31/" "proof-general-20220930.1309/" "d-mode-20220601.1949/" "lua-mode-20220801.503/" "dockerfile-mode-20220822.2021/" "typescript-mode-20220815.1954/" "memoize-20200103.2036/" "nadvice-0.4.signed" "purescript-mode-20230309.1301/" "scala-mode-20210414.1126/" "popup-20220927.1610/" "ruby-extra-highlight-20171106.1933/" "gnupg/" "cmake-mode-20220823.1201/" "flymake-1.3.7/" "sml-mode-6.12.signed" "yaml-mode-20231003.1142/" "async-20221014.2225/" "nadvice-0.3/" "jsonrpc-1.0.17/" "helm-rubygems-org-20140826.1156/" "typescript-mode-20230116.1533/" "rust-mode-20230805.1558/" "seq-2.23/" "epl-20180205.2049/" "toml-mode-20161107.1800/" "js2-mode-20230628.238/" "tuareg-20220929.1327/" "helm-git-grep-20170614.1411/" "seq-2.24/" "gruber-darker-theme-20220107.1815/" "eglot-1.15/" "markdown-mode-20220829.225/" "lsp-mode-7.0.1/" "kotlin-mode-20220527.1646/" "eldoc-1.14.0/" "rust-mode-20220626.1126/" "magit-section-20220929.1014/" "editorconfig-20230919.2101/" "csharp-mode-20221126.2005/" "gnu-elpa-1.1/" "org-cliplink-20201126.1020/" "transient-20231112.923/" "multiple-cursors-20220821.932/" "archives/" "with-editor-20220810.1159/" "go-mode-20220727.115/" "gnu-elpa-1.1.signed" "nix-mode-20220831.402/" "haskell-mode-20220529.1859/" "helm-ls-git-20221007.1113/" "company-20221007.2145/" "external-completion-0.1/" "rainbow-mode-1.0.6.signed" "ruby-electric-20200328.1528/" "pyvenv-20211014.707/" "spinner-1.7.4.signed" "autotest-readme.txt" "csharp-mode-20220819.1351/" "highlight-indentation-20210221.1418/" "ruby-end-0.4.3/" "s-20220902.1511/" "dash-20221013.836/" "jinja2-mode-20220117.807/" "ido-completing-read+-20210529.1318/" "elpy-20220922.2253/" "powershell-20220805.1712/" "compat-29.1.4.4.signed" "seq-2.23.signed" "company-20231110.52/" "paredit-20220709.916/" "../" "./")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/db/migrate/" (26085 49855 20180 117000) "../" "20240304075749_add_description_to_i_class.rb" "20240207105221_create_i_classes.rb" "20240203104809_add_institution_to_user.rb" "20240127093440_add_access_type_to_user.rb" "./" "20240201110458_devise_create_admin_users.rb" "20240124172247_devise_create_users.rb" "20240304124500_create_subjects.rb" "20240201110500_create_active_admin_comments.rb" "20240124172813_add_name_gender_phone_and_image_to_user.rb" "20240203112811_add_code_to_institution_and_user.rb" "20231004111920_create_active_storage_tables.active_storage.rb" "20231004111918_create_action_text_tables.action_text.rb" "20240203104729_create_institutions.rb" "20240207105546_add_i_class_to_user.rb")
 
- ("/home/petarangelov/Desktop/dev/ruby/testing/" (25939 27410 436207 62000) "a_star.rb" "hackerrank.rb" "../" "./" "Gemfile.lock" "Gemfile" "vendor/" "test.txt" "errors.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/" (26085 49711 665787 186000) "log/" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "TAGS" "startup.sh" "Dockerfile")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/helpers/" (25939 28105 897161 77000) "../" "application_helper.rb" "#application_helper.rb#" "./" "welcome_helper.rb" "comments_helper.rb" "articles_helper.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/i_classes/" (26085 43813 279072 349000) "../" "index.html.erb_spec.rb" "./" "edit.html.erb_spec.rb" "show.html.erb_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/controllers/" (25939 33475 64601 171000) "../" "welcome_controller.rb" "application_controller.rb" "./" "comments_controller.rb" "articles_controller.rb")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/spec/views/users/" (26050 10660 666629 199000) "../" "index.html.erb_spec.rb" "./")
 
- ("/home/petarangelov/.emacs.d/elpa/ruby-extra-highlight-20171106.1933/" (25939 19584 54645 276000) "../" "ruby-extra-highlight-autoloads.el" "./" "ruby-extra-highlight.elc" "ruby-extra-highlight-pkg.el" "ruby-extra-highlight.el")
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/" (26081 55399 353429 980000) "../" "spec/" ".rspec" "./" "Gemfile.lock" "Gemfile" "vendor/" "src/" "main.rb")
 
- ("/home/petarangelov/Desktop/dev/ableto/.idea/" (25426 32187 586705 665000) "modules.xml" "../" "workspace.xml" "vcs.xml" "./" "ableto.iml" "misc.xml" ".gitignore")
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/src/" (26081 55472 214350 458000) "../" "./" "token.rb" "constants.rb" "lexer.rb")
 
- ("/home/petarangelov/Desktop/dev/ableto/" (25467 27989 449716 182000) "../" ".idea/" "./")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/tmp/" (26044 48200 391111 921000) "cache/" "../" "miniprofiler/" "pids/" "./" "restart.txt" "development_secret.txt" "sockets/")
 
- ("/home/" (24969 6073 895138 61000) "petarangelov/" "../" "./" "mmadmin/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/" (26044 44879 686901 156000) "helpers/" "jobs/" "../" "channels/" "views/" "uploaders/" "./" "javascript/" "images/" "mailers/" "policies/" "admin/" "assets/" "models/" "controllers/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/" (25915 42817 931922 88000) "communities/" "home/" "../" "reactions/" "leaderboard/" "filters/" "member/" "kudos/" "./" "benefit/" "store/" "benefitsPast/" "members/" "benefits/" "benefitsActive/" "common/" "community/" "benefitsRequested/" "forms/" "layout/" "benefitsAll/")
+ ("/home/petarangelov/Desktop/dev/final_project/" (26043 30720 468498 231000) "Software Requirements Specification - Petar Angelov.docx" "../" "Software Design Specifications - Petar Angelov.docx" "w5/" "w8/" "./" "w6/" "manageR/" "Week 2 Individual Assignment - Framing a Problem - Petar Angelov.docx" "ProjectProposal-PetarAngelov.docx" "project proposal - second - Petar Angelov.docx" "w3/" "Design Brief- Petar Angelov.docx" "Design Brief- Petar Angelov.pdf" "w4/" "w7/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/member/" (25914 22696 476640 659000) "../" "MemberAboutSection.tsx" "MemberCommunitiesSection.tsx" "MemberDivider.tsx" "./" "MemberHobbiesSection.tsx" "MemberHeaderSection.tsx" "MemberTokensSectionModal.tsx" "MemberWorkType.tsx" "MemberSidebarContent.tsx" "MemberMainContent.tsx" "MemberEmailSection.tsx" "MemberTokensSection.tsx")
+ ("/home/petarangelov/Desktop/dev/ruby/" (26081 39142 952580 973000) "xml_tests/" "../" "main.rb~" "stupidity/" "json-rb/" "lutria/" "hackerrank_problem_solving_solutions/" "testing/" "./" "asm-converter/" "ProjectEuler/" "sqllite-rb/" "main.rb" "ruby_goto/" "aoc23/" "qbe_tests/" "ruby-goto/" "stack/" "ex-ev/" "brainrb/" "iterprb/")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/forms/" (25911 54194 584200 342000) "CustomSelect.tsx" "FileDropField.tsx" "../" "InfoPopover.tsx" "FileDropFormikField.tsx" "RadioFormikField.tsx" "./" "TextareaFormikField.tsx" "QuantitySelectorFormikField.tsx" "SelectFormikField.tsx" "FileDrop.md" "SwitchField.tsx" "FormField.tsx" "InputFormikField.tsx" "QuantitySelector.tsx" "FormikMobileModal.tsx" "FormikModal.tsx")
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/spec/" (26081 51536 689868 558000) "../" "./" "lexer/" "spec_helper.rb")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/" (25911 54194 592200 497000) "axios.d.ts" "../" "main.tsx" "test/" "context/" "hooks/" "./" "pages/" "components/" "images/" "theme/" "constants/" "index.css" "interfaces/" "icons/" "services/" "vite-env.d.ts")
+ ("/home/petarangelov/Desktop/dev/ruby/json-rb/spec/lexer/" (26081 51557 417991 816000) "string_spec.rb" "numbers_spec.rb" "../" "./")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/components/benefit/" (25910 19426 170028 218000) "BenefitEditModal.tsx" "../" "BenefitContent.tsx" "./" "BenefitInactiveSection.tsx" "BenefitRequestModal.tsx" "BenefitCancelRequestModal.tsx" "BenefitRequestedActiveSection.tsx" "BenefitDeactivateModal.tsx" "BenefitChangeCoverageModal.tsx" "BenefitChangeCoverageFullModal.tsx")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/assets/stylesheets/" (26044 44879 678901 2000) "../" "application.scss" "active_admin.scss" "./" "actiontext.css")
 
- ("/home/petarangelov/Desktop/dev/mentornet-fe/src/services/" (25902 43271 554898 269000) "api/" "helpers/" "../" "./")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/uploaders/" (26044 44879 686901 156000) "../" "./" "image_uploader.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/bin/" (25901 822 627186 577000) "../" "rspec" "rubocop" "setup" "./" "docker-entrypoint.sh" "render-build.sh" "bundle" "rake" "rails" "importmap")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/.git/hooks/" (26043 50971 342438 79000) "../" "./" "pre-commit")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/db/" (25901 822 627186 577000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/config/initializers/" (26044 50752 115424 637000) "active_admin.rb" "assets.rb" "../" "backtrace_silencers.rb" "inflections.rb" "./" "content_security_policy.rb" "filter_parameter_logging.rb" "wrap_parameters.rb" "mime_types.rb" "rails_live_reload.rb" "devise.rb" "permissions_policy.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/factories/" (25896 6852 403943 82000) "../" "./" "users.rb" "articles.rb")
+ ("/home/petarangelov/Desktop/" (26080 40436 608120 806000) "test.el" "week26-Petar_Angelov.docx" "converted/" "bin.rb" "outlook.png" "members.png" "School-Management-System/" "rails_update/" "tokens.png" "zxc.jpg" "../" ".qasar.sh.swn" "N/" "aintnoway.webp" "QWASAR_Projects/" "week16.txt" "large-file-testRA620.csv" "cover_d.png" "cover_s.png" "logo.svg" "nedev.png" "testing/" "week28-Petar_Angelov.docx" "wget-log.1" "./" "Client_Import_esra_modern1(1).csv" "Story Mapping.pdf" "week21-Petar_Angelov.docx" "test.rb.save" "uat_dump.sql" "assignment.txt" "week27-Petar_Angelov.docx" "week29-Petar_Angelov.dotx" "my-malloc/" "testing.csv" "week23-Petar_Angelov.docx" "week20-Petar_Angelov.docx" "maze-solver/" "BrowserStackLocal" "week19-Petar_Angelov.docx" "MMUPA029A310520230309.jpg" "disables.png" "AOC.rb" "test.rb" "db_test.yml" "AAAAHHH.mp3" "audit.txt" "test.html" "motivation.odt" "week22-Petar_Angelov.pdf" "motivation letter - Petar Angelov.txt" "week22-Petar_Angelov.docx" "asd.png" "tel.png" "movies.db" "dev/" "qwasar-sql/" "week3assignment.txt" "classes.txt" "AlgoExpert_Certificate.pdf" "week29-Petar_Angelov.docx" "porth-master/" "cover_changed.png" "daily_tips/" "week24-Petar_Angelov.docx" ".qasar.sh.swp" "kafka-testapp/" "veli.MOV" ".23.11.2021.txt.swp" "I5Coaching_Casey.csv" ".qasar.sh.swo" "cover_o.png" "week18-Petar_Angelov.docx" "a.out" "ex-ev/" "BC/" "week16-Petar-Angelov.docx" "solvace-source-master/" "week25-Petar_Angelov.docx")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/models/" (25896 6852 387942 773000) "../" "article_spec.rb" "user_spec.rb" "./")
+ ("/home/petarangelov/Desktop/solvace-source-master/" (26079 19896 35591 740000) "log/" "lib/" "../" "solvace_main" "spec/" "db_data/" "tmp/" "Passengerfile.json" "docker-compose.yml" "assistant/" "public/" "./" "export_utilities/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "vendor/" "Rakefile" "solvace_main_test" "bin/" "private_pub.ru" "nginx.conf.erb" "toolkit/" "TAGS" "Dockerfile" "frontend/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/models/" (25897 6723 116296 469000) "../" "article.rb" "./" "user.rb" "application_record.rb" "comment.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/config/" (26079 15901 215310 979000) "circle_dimensions.yml" "environments/" "../" "initializers/" "i18n-tasks.yml" "project_dimensions.yml" "private_pub_thin.yml" "newrelic.yml" "./" "brakeman.ignore" "instance_settings.yml" "sidekiq.yml" "database.yml" "locales/" "secrets.yml" "user_dimensions.yml" "routes.rb" "environment.rb" "boot.rb" "i18n-js.yml" "schedule.yml" "redis/" "TAGS" "sunspot.yml" "private_pub.yml" "application.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/views/articles/" (25894 36927 850267 484000) "../" "index.html.erb_spec.rb" "./" "edit.html.erb_spec.rb" "show.html.erb_spec.rb" "new.html.erb_spec.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/app/templates/components/" (26036 55304 0 0) "assessment-selection-modal.hbs" "select-question-section-modal.hbs" "../" "plant-edit-modal.hbs" "plants-assessments-index-thumbnail.hbs" "assessment-template-create-modal.hbs" "audit-answer.hbs" "assessment-template-edit-section.hbs" "create-assessment-modal.hbs" "plants-with-assessments-modal.hbs" "audit-area-list-item.hbs" "assessment-template-edit-level-answer.hbs" "select-tk-nuggets.hbs" "./" "assessment-template-list-item.hbs" "audit-section.hbs" "assessment-complete-modal.hbs" "audit-selection-modal.hbs" "back-button.hbs" "audit-area-modal.hbs" "sidebar-plant-item.hbs" "progression-chart-answer-table-cell.hbs" "dashboard-averages-table.hbs" "td-blue-radio-button.hbs" "assessment-edit-modal.hbs" "assessment-template-edit-question.hbs" "audit-question.hbs" "assessment-audits-table.hbs" "roadmap-edit-modal.hbs" "as-activity.hbs" "audit-suggestions.hbs" "sidebar-plant-list.hbs" "plants-index-thumbnail.hbs")
 
- ("/home/petarangelov/Desktop/dev/c/memcached-1.4.15/" (25896 21 517384 3000) "AUTHORS" "memcached_debug-daemon.o" "memcached-cache.o" "memcached_debug-util.gcno" "config.sub" "memcached_debug-assoc.gcno" "NEWS" "memcached_debug-stats.gcno" "../" "version.m4" "memcached_debug-util.o" "memcached-assoc.o" "memcached_dtrace.d" "memcached.h" "assoc.c" "memcached_debug-memcached.o" "stats.h" "trace.h" "sasl_defs.h" "memcached_debug-assoc.o" "util.h" "testapp.o" "./" "memcached-items.o" "memcached_debug-items.gcno" "memcached-hash.o" "install-sh" "memcached_debug-cache.gcno" "util.c" "configure.ac" "memcached_debug-thread.gcno" "items.c" "cache.c" "memcached_debug-hash.gcno" "thread.c" "timedrun.c" "Makefile.in" "daemon.c" "memcached-util.o" "memcached.c" "memcached-slabs.o" "Makefile" "util.o" "memcached_debug-memcached.gcno" "memcached_debug-slabs.o" "memcached-stats.o" "slabs.c" "protocol_binary.h" "slabs.h" "sizes.o" "assoc.h" "memcached" "config.h.in" "memcached_debug-hash.o" "memcached-debug" "memcached_debug-daemon.gcno" "memcached_debug-thread.o" "testapp" "stats.c" "sizes" "README.md" "config.guess" "timedrun" "cache.h" "Makefile.am" "memcached_debug-cache.o" "memcached-memcached.o" "config.log" "solaris_priv.c" "ChangeLog" "sizes.c" "memcached.spec" "items.h" "stamp-h1" "aclocal.m4" "memcached_debug-items.o" "cache.o" "memcached_debug-slabs.gcno" "hash.h" "missing" "configure" "COPYING" ".deps/" "depcomp" "sasl_defs.c" "testapp.c" "hash.c" "timedrun.o" "scripts/" "memcached-daemon.o" "m4/" "config.status" "config.h" "t/" "memcached-thread.o" "compile" "memcached_debug-stats.o" "doc/")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/app/templates/" (26036 55304 0 0) "dashboard.hbs" "assessment-template/" "../" "application.hbs" "latest-activity.hbs" "./" "benchmarks.hbs" "sidebar.hbs" "components/" "assessment/" "audit/" "assessments/" "assessment-templates/" "plants/" "audit-areas/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/config/" (25901 822 627186 577000) "environments/" "importmap.rb" "../" "initializers/" "storage.yml" "./" "database.yml" "locales/" "routes.rb" "environment.rb" "boot.rb" "puma.rb" "cable.yml" "application.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/app/" (26036 55304 0 0) "router.js" "../" "initializers/" "routes/" "./" "components/" "mixins/" "templates/" "models/" "controllers/" "app.js" "index.html" "services/" "styles/")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/controllers/" (25901 6936 890745 558000) "exams_controller.rb" "../" "classrooms_controller.rb" "courses_controller.rb" "dashboard_controller.rb" "application_controller.rb" "./" "teachers_controller.rb" "students_controller.rb" "grades_controller.rb" "attendances_controller.rb" "concerns/" "exam_categories_controller.rb" "parents_controller.rb" "users_controller.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/assessment/" (26063 25031 666022 687000) "yarn.lock" "../" "ember-cli-build.js" "tmp/" ".watchmanconfig" "public/" "./" "package.json" "config/" "app/" "vendor/" "node_modules/" ".ember-cli" "dist/" "jsconfig.json")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/uploaders/" (25901 6936 894745 592000) "../" "./" "teacher_uploader.rb" "image_uploader.rb" "student_uploader.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/integration/" (26069 57671 0 0) "../" "main_app/" "idp/" "home_spec.rb" "boards/" "consent_spec.rb" "password_resets_spec.rb" "./" "projects/" "assessment/" "toolkit/")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/models/" (25901 6936 894745 592000) "../" "exam_category.rb" "parent.rb" "./" "attendance.rb" "user.rb" "exam.rb" "teacher.rb" "student.rb" "classroom.rb" "application_record.rb" "concerns/" "course.rb" "grade.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/integration/assessment/" (26069 57671 0 0) "../" "as_assessments_spec.rb" "as_audits_spec.rb" "as_benchmarks_spec.rb" "./" "as_audit_templates_spec.rb" "as_activity_spec.rb" "as_dashboard_spec.rb" "as_plants_spec.rb" "as_audit_area_spec.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/" (25901 8254 528349 787000) "log/" "lib/" "../" "test/" "tmp/" "public/" "./" "package.json" "config/" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "_config.yml" "app/" "LICENSE" "Gemfile" "vendor/" "README.md" "Rakefile" ".git/" "bin/" ".gitignore")
+ ("/home/petarangelov/Desktop/dev/ruby/xml_tests/" (26077 50134 211167 73000) "hourly_rate_documents.rb" "../" "xmlDirectCosts.xml" "for_banking.xml" "for_other_than_banking.xml" "./" "#hourly_rate_documents.rb#" "Gemfile" "main.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/assets/" (25901 6936 878745 456000) "stylesheets/" "../" "javascripts/" "./" "config/" "images/")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/app/javascript/" (26043 30722 32515 514000) "../" "./" "application.js" "controllers/")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/partials/" (25901 8249 148318 7000) "../" "_topnav.html.haml" "./" "_sidebar.html.haml")
+ ("/home/petarangelov/Desktop/dev/final_project/manageR/config/environments/" (26043 30722 52515 743000) "../" "./" "development.rb" "test.rb" "production.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/layouts/" (25901 6936 910745 728000) "../" "mailer.text.haml" "mailer.html.haml" "./" "devise.html.haml" "application.html.haml")
+ ("/home/petarangelov/Desktop/solvace-source-master/config/environments/" (26071 5016 765823 47000) "../" "./" "development.rb" "test.rb" "production.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/dashboard/" (25901 6936 898745 626000) "../" "./" "index.html.haml")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/main_app/" (26063 25039 77996 992000) "yarn.lock" "../" "ember-cli-build.js" "tmp/" ".watchmanconfig" "public/" "./" "package.json" "config/" ".yarn_todo" "app/" "vendor/" "node_modules/" ".ember-cli" "jsconfig.json")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/students/" (25901 7939 350642 51000) "../" "show.json.jbuilder" "./" "index.json.jbuilder" "new.html.haml" "_form.html.haml" "edit.html.haml" "_student.json.jbuilder" "index.html.haml" "show.html.haml")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/main_app/app/models/" (26036 55304 0 0) "activity.js" "bd-kpi.js" "folder.js" "bd-meeting.js" "filter-rule.js" "webhook-event.js" "../" "bd-board.js" "bd-external-connection.js" "status-values.js" "announcement.js" "issue.js" "bd-board-category.js" "bd-agenda.js" "bd-kpi-value.js" "backup.js" "tk-nugget.js" "arbitrary-list-item.js" "data-source.js" "arbitrary-list-item-column.js" "./" "user.js" "currency.js" "statistic.js" "circle.js" "bd-log-meeting.js" "dimension.js" "bd-log.js" "arbitrary-list.js" "bd-external-query.js" "project.js" "data-source-parameter.js" "bd-filter-view.js" "token.js" "bd-meeting-group.js" "comment.js" "bd-board-item.js" "analysis.js" "action.js" "webhook-endpoint.js" "bd-board-item-bd-board-item-relationship.js" "settings.js" "tk-analysis.js" "bd-text-value.js" "message.js" "notification.js" "topic.js" "bd-text.js" "boards-enums.js")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/parents/" (25901 7895 882437 514000) "../" "show.json.jbuilder" "./" "index.json.jbuilder" "_parent.json.jbuilder" "new.html.haml" "_form.html.haml" "edit.html.haml" "index.html.haml" "show.html.haml")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/main_app/app/" (26036 55304 0 0) "helpers/" "router.js" "utils/" "../" "initializers/" "routes/" "resolver.js" "./" "components/" "mixins/" "templates/" "models/" "controllers/" "app.js" "index.html" "services/" "styles/")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/attendances/" (25901 6936 898745 626000) "../" "show.json.jbuilder" "./" "index.json.jbuilder" "new.html.haml" "_form.html.haml" "edit.html.haml" "_attendance.json.jbuilder" "index.html.haml" "show.html.haml")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/services/" (26036 55304 0 0) "as_plant/" "bd_board_category/" "../" "projects_view/" "assign_owners_service.rb" "bd_kpi/" "circle/" "user/" "as_audit_template/" "execute_dependent_data_sources_service.rb" "as_question/" "./" "application_service.rb" "bd_kpi_value/" "actions_view/" "bd_agenda/" "custom_field/" "arbitrary_list/" "scim/" "as_question_section/" "circles_view/" "as_audit_as_question_section_relationship/" "add_circle_moderators_as_owners_service.rb" "as_question_level_answer/" "as_audit/" "as_assessment/" "arbitrary_list_item/" "data_source/" "application_export_service.rb" "action/" "activity/" "bd_board/" "webhook/" "as_roadmap_phase/" "bd_meeting_group/" "smartsheet/" "project/" "smartsheet.rb" "data_sources/" "bd_board_item/" "data_source_parameter/" "tk_analysis/" "bd_meeting/")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/views/" (25901 6936 914745 762000) "users/" "../" "devise/" "attendances/" "exams/" "./" "teachers/" "exam_categories/" "partials/" "courses/" "dashboard/" "students/" "grades/" "classrooms/" "parents/" "layouts/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/services/projects_view/" (26036 55304 0 0) "../" "./" "generate_service.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/app/" (25901 6936 894745 592000) "helpers/" "jobs/" "../" "channels/" "views/" "uploaders/" "./" "mailers/" "assets/" "models/" "controllers/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/services/actions_view/" (26036 55304 0 0) "../" "./" "generate_service.rb")
 
- ("/home/petarangelov/Desktop/School-Management-System/config/" (25901 7502 429148 12000) "environments/" "../" "initializers/" "./" "database.yml" "locales/" "secrets.yml" "routes.rb" "environment.rb" "boot.rb" "spring.rb" "puma.rb" "cable.yml" "application.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/services/" (26069 57671 0 0) "as_plant/" "bd_board_category/" "../" "assign_owners_service_spec.rb" "bd_kpi/" "circle/" "user/" "as_audit_template/" "./" "bd_kpi_value/" "custom_field/" "arbitrary_list/" "as_audit_as_question_section_relationship/" "as_audit/" "as_assessment/" "arbitrary_list_item/" "data_source/" "action/" "activity/" "bd_board/" "as_roadmap_phase/" "bd_meeting_group/" "project/" "data_sources/" "add_circle_moderators_as_owners_service_spec.rb" "bd_board_item/" "data_source_parameter/" "tk_analysis/" "bd_meeting/")
 
- ("/home/petarangelov/Desktop/School-Management-System/db/" (25901 6936 926745 864000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/serializers/" (26069 57671 0 0) "as_plant_tree_serializer_spec.rb" "../" "user_serializer_spec.rb" "issue_serializer_spec.rb" "./" "scim/" "public_activity_serializer_spec.rb" "webhook/" "token_serializer_spec.rb" "action_serializer_spec.rb" "custom_field_serializer_spec.rb" "project_serializer_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/ReCommendMe/" (25901 4520 659754 615000) "log/" "yarn.lock" "lib/" "../" "spec/" ".gitattributes" "test/" "tmp/" ".rubocop.yml" ".rspec" "public/" ".idea/" "./" "package.json" "storage/" "config/" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "babel.config.js" "postcss.config.js" "app/" "Gemfile" "vendor/" "README.md" "Rakefile" "node_modules/" ".git/" "bin/" ".gitignore" ".browserslistrc")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/helpers/" (26069 57671 0 0) "../" "./" "toolkit_helper_spec.rb" "suggestion_helper_spec.rb" "assessments_download_helper_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/" (25901 3485 895104 545000) "../" "./" "ReCommendMe/" "rails7template/")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/abilities/" (26069 57671 0 0) "../" "token_ability_spec.rb" "tk_nugget_ability_spec.rb" "./" "ability_scim_spec.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/" (25901 832 111312 926000) "log/" "file.txt" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" "file.txte" ".gitignore" "file.txt.bak" "startup.sh" "Dockerfile")
+ ("/home/petarangelov/Desktop/solvace-source-master/spec/" (26069 57671 0 0) "lib/" "support/" "helpers/" "integration/" "rails_helper.rb" "../" "randomtexts/" "uploaders/" "middleware/" "abilities/" "./" "factories.rb" "config/" "mailers/" "serializers/" "workers/" "fixtures/" "spec_helper.rb" "presenters/" "models/" "services/" "queries/" "requests/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/layouts/" (25901 832 107312 870000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
+ ("/home/petarangelov/Desktop/solvace-source-master/vendor/bundle/" (26062 19487 248861 250000) "../" "ruby/" "./")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTesting3/app/views/articles/" (25897 9420 947614 455000) "../" "show.json.jbuilder" "./" "_comments.html.erb" "_article.html.erb" "_form.html.erb" "edit.html.erb" "index.json.jbuilder" "_article.json.jbuilder" "new.html.erb" "show.html.erb" "_article_card.html.erb" "index.html.erb")
+ ("/home/petarangelov/Desktop/solvace-source-master/vendor/bundle/ruby/" (26068 53247 105374 445000) "../" "./" "3.1.0/")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTesting3/app/views/" (25897 9420 951614 529000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+ ("/home/petarangelov/Desktop/solvace-source-master/vendor/bundle/ruby/3.1.0/" (26068 53171 550405 301000) "cache/" "../" "plugins/" "bundler/" "./" "extensions/" "build_info/" "gems/" "specifications/" "bin/" "doc/")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTesting3/app/views/layouts/" (25897 9836 63544 539000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
+ ("/home/petarangelov/Desktop/solvace-source-master/vendor/" (26062 19487 248861 250000) "../" "./" "bundle/")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTesting3/" (25897 9550 350041 34000) "log/" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "startup.sh" "Dockerfile")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/middleware/" (26036 55304 0 0) "../" "apartment_elevator.rb" "./" "health_check_bypass.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTests/app/views/layouts/" (25897 7124 710729 518000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
+ ("/home/petarangelov/Desktop/solvace-source-master/lib/" (26063 31258 23314 816000) "hash.rb" "resize_image.rb" "machine_translation.rb" "serialize_model.rb" "../" "enumerable.rb" "mysql_dumper.rb" "powerpoint/" "nested_error_serializer.rb" "./" "periodical_date.rb" "powerpoint.rb" "business_time.rb" "json_api/" "sidekiq/" "scim.rb" "canonical_time_zones.rb" "external_data_query/" "json_api.rb" "clone_map.rb" "formula_calculator.rb" "tasks/")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTests/app/views/" (25897 6952 31738 955000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+ ("/home/petarangelov/Desktop/solvace-source-master/lib/tasks/" (26063 31823 585204 516000) "../" "./" "generate_org.rake")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTests/app/" (25897 6952 27738 889000) "helpers/" "jobs/" "../" "channels/" "views/" "./" "javascript/" "mailers/" "assets/" "models/" "controllers/")
+ ("/home/petarangelov/Desktop/solvace-source-master/config/initializers/" (26036 55304 0 0) "session_store.rb" "serializer.rb" "assets.rb" "../" "toolkit.rb" "backtrace_silencers.rb" "cookies_serializer.rb" "wicked_pdf.rb" "rolify.rb" "inflections.rb" "awesome_nested_set.rb" "apipie.rb" "sentry.rb" "mailboxer.rb" "./" "new_framework_defaults.rb" "sidekiq.rb" "content_security_policy.rb" "i18n.rb" "omniauth_ldap.rb" "omniauth.rb" "application_controller_renderer.rb" "apartment.rb" "filter_parameter_logging.rb" "saml_idp.rb" "cached_settings_safe_get.rb" "lograge.rb" "non_digest_assets.rb" "mini_magick.rb" "google_api.rb" "redis.rb" "letter_avatar.rb" "annotate.rb" "exception_notification.rb" "enable_yjit.rb" "rack.rb" "wrap_parameters.rb" "mime_types.rb" "scim.rb" "apipie_monkeypatch.rb" "diff_sync.rb" "ruby_powerpoint.rb" "carrierwave.rb" "sunspot.rb" "oj.rb" "omniauth_saml.rb" "fog_google_https.rb" "asset_sync.rb" "bullet.rb" "calculation_formulas.rb" "permissions_policy.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/deviseTests/" (25897 7111 898498 690000) "log/" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "startup.sh" "Dockerfile")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/models/" (26036 55304 0 0) "actions_view.rb" "super_user.rb" "user_project_relationship.rb" "tk_analysis.rb" "as_plant_group_relationship.rb" "bd_kpi_value.rb" "as_audit_as_question_section_relationship.rb" "as_assessment.rb" "suggestion_evidence.rb" "data_source_parameters/" "notification.rb" "bd_meeting_group_topic_relationship.rb" "as_question_level_answer.rb" "bd_board_item_bd_meeting_relationship.rb" "organization.rb" "bd_board_item_analysis_relationship.rb" "solvace_calculator.rb" "project_topic_relationship.rb" "bd_external_connections/" "data_source_parameter.rb" "announcement.rb" "view_model.rb" "arbitrary_list_item_bd_meeting_version.rb" "tk_label.rb" "user_topic_relationship.rb" "saml_service_provider.rb" "issue_topic_relationship.rb" "custom_field_value.rb" "as_plant.rb" "tk_ability_custom_setting.rb" "bd_board_item.rb" "user_user_relationship.rb" "as_audit_template.rb" "tk_analysis_label_relationship.rb" "as_roadmap_phase_instance.rb" "bd_text_value.rb" "as_roadmap.rb" "bd_filter_view.rb" "tk_icon.rb" "form_step.rb" "backup.rb" "bas_equivalent.rb" "bd_log.rb" "role.rb" "circles_view.rb" "assistant_step.rb" "tk_folder.rb" "as_user_plant_relationship.rb" "tk_profile.rb" "users_role.rb" "tk_link.rb" "bd_user_meeting_group_relationship.rb" "arbitrary_list_item.rb" "custom_field.rb" "suggestion_driver.rb" "user.rb" "node.rb" "as_audit_as_team_relationship.rb" "tk_ability_user.rb" "tk_ability_language.rb" "tk_title_change.rb" "topic.rb" "tk_nugget.rb" "tk_category_data.rb" "tk_folder_shortcut.rb" "action.rb" "bd_meeting.rb" "token.rb" "bd_kpi.rb" "filter_rule.rb" "bd_kpi_label.rb" "bd_external_connection.rb" "user_notification_relationship.rb" "tk_nugget_label_relationship.rb" "user_tk_nugget_relationship.rb" "as_expected_answer.rb" "data_source.rb" "token_ability.rb" "bd_board_item_bd_board_item_relationship.rb" "bd_board_category.rb" "as_plant_group.rb" "tk_ability_profile.rb" "arbitrary_list_item_column.rb" "user_bd_meeting_group_filter_view_relationship.rb" "user_action_relationship.rb" "projects_view.rb" "connection.rb" "export.rb" "current.rb" "bd_meeting_group_folder_relationship.rb" "as_audit_area.rb" "bd_meeting_group_circle_relationship.rb" "as_question.rb" "suggestion_raw_driver.rb" "as_answer.rb" "exports/" "as_team.rb" "form_tab.rb" "tk_board_item.rb" "as_tk_link.rb" "bd_log_meeting.rb" "issue_user_relationship.rb" "analysis.rb" "tk_nugget_shortcut.rb" "framework.rb" "project.rb" "user_folder_relationship.rb" "application_record.rb" "arbitrary_list.rb" "webhook.rb" "bd_board_item_action_relationship.rb" "bd_external_query.rb" "tk_captured_page.rb" "as_question_section.rb" "action_bd_meeting_group_relationship.rb" "project_circle_relationship.rb" "issue_bd_meeting_group_relationship.rb" "user_custom_field_value_relationship.rb" "webhook/" "chat_message.rb" "seen_announcement.rb" "bd_board.rb" "ability.rb" "topic_category.rb" "bd_agenda.rb" "tk_nugget_profile_relationship.rb" "circle.rb" "as_audit_user_relationship.rb" "project_folder_relationship.rb" "concerns/" "as_question_section_grade.rb" "bd_meeting_group_mg_relationship.rb" "as_roadmap_phase.rb" "bd_text.rb" "tutorial.rb" "bd_meeting_group.rb" "comment.rb" "tk_category.rb" "suggestion_expert.rb" "status.rb" "issue.rb" "tk_ability_label.rb" "folder.rb" "bd_user_meeting_relationship.rb" "custom_field_value/" "bd_board_item_issue_relationship.rb" "user_circle_relationship.rb" "bd_board_item_bd_meeting_group_relationship.rb" "as_audit.rb" "../" "./")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/views/layouts/" (25896 2245 626977 940000) "application.html.erb" "../" "action_text/" "./" "mailer.text.erb" "mailer.html.erb")
+ ("/home/petarangelov/Desktop/solvace-source-master/frontend/" (26063 24324 884187 554000) "yarn.lock" "common-addon/" "../" "main_app/" "yarn_outdated.sh" "./" "package.json" "assessment/" "node_modules/" "toolkit/" "project/")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/" (25896 6552 53726 421000) "log/" "../" "spec/" ".gitattributes" "render.yaml" "tmp/" ".env.example" "production.Dockerfile" "docker-compose.yml" ".rubocop.yml" "public/" "./" "Procfile" ".github/" "config/" ".env" "Gemfile.lock" "db/" ".ruby-version" "config.ru" "app/" "Gemfile" "README.md" "Rakefile" "Procfile.dev" ".git/" "bin/" ".dockerignore" "renovate.json" "heroku.yml" ".gitignore" "startup.sh" "Dockerfile")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/client_import/" (25884 5492 564016 1000) "../" "writes_limited_error_log.rb" "approval.rb" "writes_import_file.rb" "loads_limited_file.rb" "file_help.rb" "attaches_file.rb" "./" "creates_log_directory.rb" "marks_invalids.rb" "reports_name_changes.rb" "loads_file.rb" "writes_error_log.rb" "preprocessing_report.rb" "preprocess.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/config/initializers/" (25896 5582 978175 218000) "assets.rb" "../" "backtrace_silencers.rb" "inflections.rb" "./" "content_security_policy.rb" "#devise.rb#" "filter_parameter_logging.rb" "wrap_parameters.rb" "mime_types.rb" "permissions_policy.rb")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/i5/" (25884 5492 600018 214000) "../" "remove_tertiary_candidates.rb" "approval.rb" "file_help.rb" "attaches_file.rb" "./" "aetna_fixes_fields.rb" "marks_invalids.rb" "loads_file.rb" "remove_old_actives.rb" "ccw_fixes_fields.rb" "file_formats/" "preprocessing_report.rb" "preprocess.rb" "file_formats.rb" "remove_old_updates.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/controllers/" (25896 809 979934 842000) "../" "welcome_controller.rb" "application_controller.rb" "./" "comments_controller.rb" "articles_controller.rb")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/app/models/" (25884 5492 604018 460000) "client_import_row.rb" "i5_eligibility_source.rb" "program_comorbidity.rb" "job_result.rb" "../" "fulfillment_rule_type.rb" "program_rate.rb" "api_token.rb" "zillion_subdomain.rb" "branding_group.rb" "program.rb" "policy.rb" "eligibility_status_program.rb" "eligibility_api_result.rb" "healthfleet_api_request.rb" "client_insurance_carrier_claim.rb" "default_fulfillment_rule.rb" "rally_point_in_time_eligibility.rb" "eligibility_tool.rb" "data_transfer_result_file.rb" "sponsor.rb" "i5_request.rb" "client_import_request.rb" "./" "insurance_carrier.rb" "achievement_type.rb" "comorbidity_rate_period_program.rb" "user.rb" "ens_response.rb" "employer.rb" "client.rb" "client_import_request_schedule.rb" "fulfillment_sku.rb" "claim.rb" "rate_period.rb" "i5_request_scheduler.rb" "achievement_comorbidity.rb" "healthfleet_authentication.rb" "eligibility_restriction.rb" "i5_request_schedule.rb" "application_record.rb" "fulfillment_rule.rb" "client_insurance_carrier.rb" "primacy_period.rb" "eligibility_record.rb" "client_import_request_scheduler.rb" "person.rb" "comorbidity.rb" "pvrc.rb" "concerns/" "default_customizations.rb" "i5_row.rb" "cpt_rate.rb" "zillion_subdomain_insurer_option.rb" "public_attached_file.rb" "client_limited_import_row.rb" "achievement.rb" "data_transfer_result.rb" "client_import/" "system_value.rb" "rate_period_program.rb" "i5/" "eligibility_status.rb" "rate_template.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/models/" (25896 1630 959719 194000) "../" "article.rb" "./" "user.rb" "application_record.rb" "comment.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/controllers/actions/" (26036 55304 0 0) "framework_nodes_controller.rb" "../" "bd_board_item_relationships_controller.rb" "activities_controller.rb" "./" "owning_board_items_controller.rb" "subactions_controller.rb" "analyses_controller.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/db/migrate/" (25896 1630 955719 178000) "../" "20231004111935_create_articles.rb" "20231012144446_devise_create_users.rb" "./" "20231004111942_create_comments.rb" "20231004111920_create_active_storage_tables.active_storage.rb" "20231004111918_create_action_text_tables.action_text.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/validators/" (26036 55304 0 0) "allowed_language_validator.rb" "../" "allowed_email_domain_validator.rb" "./" "allowed_polymorphic_validator.rb" "allowed_preferred_language_validator.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/db/" (25896 809 987934 782000) "../" "seeds.rb" "./" "schema.rb" "migrate/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/helpers/" (26036 55304 0 0) "text_conversion_helper.rb" "export_helper.rb" "../" "ember_url_helper.rb" "arbitrary_list_text_helper.rb" "assessments_download_helper.rb" "project_search_helper.rb" "item_update_positions_helper.rb" "action_sync_helper.rb" "workbook_helper.rb" "rights_helper.rb" "projects_helper.rb" "issue_helper.rb" "private_pub_helper.rb" "ember_path_helper.rb" "organizations_url_helper.rb" "./" "clone_helper.rb" "activity_helper.rb" "sessions_helper.rb" "toolkit_helper.rb" "suggestion_helper.rb" "dimensions_helper.rb" "microsoft_helper.rb" "plant_helper.rb" "action_helper.rb" "frameworks_helper.rb" "users_helper.rb" "google_helper.rb" "bd_board_item_download_helper.rb" "translations_helper.rb" "notifications_helper.rb" "votes_helper.rb" "export_json_helper.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/views/" (25896 809 983934 812000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+ ("/home/petarangelov/Desktop/solvace-source-master/bin/" (26036 55304 0 0) "../" "setup" "yarn" "./" "bundle" "rake" "rails" "update")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/app/" (25896 809 983934 812000) "helpers/" "jobs/" "../" "channels/" "views/" "./" "javascript/" "mailers/" "assets/" "models/" "controllers/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/real_time_eligibility_query/" (25884 5493 184054 122000) "eligibility_response.rb" "../" "reject_reason_code.rb" "./" "eligibility_inquiry.rb" "errors/")
 
- ("/home/petarangelov/Desktop/dev/rails/templateDeviceTesting/config/" (25896 809 987934 782000) "environments/" "importmap.rb" "../" "initializers/" "storage.yml" "./" "database.yml" "locales/" "routes.rb" "environment.rb" "boot.rb" "puma.rb" "cable.yml" "application.rb")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/mcp_services/" (25884 5493 184054 122000) "mcp_services.rb" "../" "real_time_eligibility_query/" "./" "real_time_eligibility_query_service.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/articles/" (25894 31907 133568 746000) "../" "show.json.jbuilder" "./" "_comments.html.erb" "_article.html.erb" "_form.html.erb" "edit.html.erb" "index.json.jbuilder" "_article.json.jbuilder" "new.html.erb" "show.html.erb" "_article_card.html.erb" "index.html.erb")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/lib/" (25884 5493 188054 368000) "eligibility_api_summary.rb" "background_jobs/" "test_rail_api_client.rb" "api/" "client_updater.rb" "../" "create_claims_from_achievements.rb" "check_insurance_status.rb" "data_transfers/" "create_achievement_from_achieve_project.rb" "determine_achieve_template_id.rb" "send_claims_to_zir_med.rb" "./" "s3/" "fetch_sftp_files.rb" "kafka_config.rb" "background_jobs.rb" "s3.rb" "helper/" "eligibility_flow.rb" "fixtures.rb" "reprocess_i5_achievements.rb" "fixtures/" "data_transfers.rb" "get_and_process_achievements.rb" "test_rail_api_client/" "test_rail.rb" "external/" "assets/" "send_achievement_results_to_achieve_project.rb" "imports.rb" "edi_claim_submission/" "tasks/" "reprocess_extended_rate_periods.rb" "json_parse_error_handler.rb" "check_eligibility.rb" "utf8_sanitizer.rb" "mcp_services/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/views/" (25887 57007 349336 365000) "comments/" "../" "./" "welcome/" "articles/" "active_storage/" "layouts/")
+ ("/home/petarangelov/Desktop/dev/realappeal-esra/" (25884 5493 316062 240000) "log/" "lib/" "../" "spec/" ".bundle/" "test/" "nano.save" ".capistrano/" "tmp/" "docker-compose.yml" ".rubocop.yml" ".rspec" "vitals.yaml" "public/" ".idea/" "./" "package.json" "repoman.yaml" "data/" "config/" "Gemfile.lock" "db/" "coverage/" ".ruby-version" ".simplecov" "config.ru" ".circleci/" "Capfile" "app/" "Gemfile" "vendor/" "entrypoint.sh" "install_phantomjs.sh" "README.md" "Rakefile" ".git/" ".bashrc" "bin/" "features/" "package-lock.json" ".gitignore" ".ruby-gemset" ".rspec-repositories" "Dockerfile" "script/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/views/" (25894 31129 516227 325000) "../" "./" "articles/")
+ ("/home/petarangelov/Desktop/dev/" (26062 11779 960128 897000) "final_project/" "js/" "cpp/" "../" "output.txt" "ruby/" "./" "python/" "qwasar_solutions/" "dotfiles/" "rails-devise-template/" "svelte/" "harec/" "haml2html.py" "test.rb" "aoc/" "test.html" "asm/" "el/" "realappeal-esra/" "c/" "classes.txt" "mentornet-fe/" "rs/" "rails/" "qbe/" "hs/" "aoc21/" "ableto/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/" (25894 31114 156337 339000) "rails_helper.rb" "../" "views/" "./" "spec_helper.rb" "models/" "factories/" "requests/")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/views/layouts/" (26063 19493 375456 497000) "application.html.erb" "_navbar.html.erb" "_header.html.erb" "_shim.html.erb" "../" "_settings.html.erb" "./" "_webfontloader.html.erb" "_localization.html.erb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/.git/" (25893 14231 923496 10000) "../" "ORIG_HEAD" "logs/" "refs/" "hooks/" "./" "HEAD" "config" "COMMIT_EDITMSG" "objects/" "packed-refs" "FETCH_HEAD" "index")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/views/" (26036 55304 0 0) "users/" "password_resets/" "actions/" "as_audit_templates/" "../" "topics/" "admin_settings/" "message_mailer/" "exception_notifier/" "password_renewals/" "as_assessments/" "bd_board_items/" "suggestions/" "./" "issues/" "single_page/" "tk_analyses/" "saml_idp/" "bd_meetings/" "projects/" "circles/" "bd_meeting_groups/" "statistics/" "as_charts/" "as_audits/" "organizations/" "shared/" "super_users/" "user_mailer/" "static_pages/" "as_plants/" "activities/" "tutorials/" "layouts/" "consents/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/.github/workflows/" (25893 11001 803700 376000) "../" "./" "ruby.yml")
+ ("/home/petarangelov/Desktop/solvace-source-master/app/controllers/" (26063 16484 373468 6000) "backups_controller.rb" "bd_logs/" "users/" "tk_icons_controller.rb" "actions/" "projects_controller.rb" "tk_board_items_controller.rb" "organizations_controller.rb" "as_roadmap_phase_instances_controller.rb" "exports_controller.rb" "as_question_sections_controller.rb" "bd_filter_views_controller.rb" "topics_controller.rb" "circles_controller.rb" "statistics_controller.rb" "as_assessments_controller.rb" "../" "bd_meetings_controller.rb" "as_roadmaps_controller.rb" "admins_controller.rb" "bd_board_item_bd_board_item_relationships_controller.rb" "password_renewals_controller.rb" "single_page_controller.rb" "assistant_controller.rb" "idp/" "bd_kpis/" "topics/" "custom_fields/" "bd_agendas_controller.rb" "as_assessments/" "bd_board_items/" "custom_fields_controller.rb" "form_tabs_controller.rb" "bd_external_queries_controller.rb" "suggestions_controller.rb" "as_plant_groups_controller.rb" "folders/" "as_tk_links_controller.rb" "bd_texts_controller.rb" "actions_controller.rb" "seen_announcements_controller.rb" "application_controller.rb" "as_answers/" "chat_messages_controller.rb" "issues_controller.rb" "./" "pubsub_controller.rb" "bd_text_values_controller.rb" "password_resets_controller.rb" "issues/" "notifications_controller.rb" "circles_dimensions_controller.rb" "as_audit_areas_controller.rb" "scim/" "as_questions_controller.rb" "as_question_level_answers_controller.rb" "bd_kpi_values_controller.rb" "comments_controller.rb" "folders_controller.rb" "tk_captured_pages_controller.rb" "as_plants_controller.rb" "announcements_controller.rb" "current_user_controller.rb" "arbitrary_lists/" "bd_meetings/" "bd_boards_controller.rb" "projects/" "bd_log_meetings_controller.rb" "current_user/" "consents_controller.rb" "circles/" "frameworks_controller.rb" "static_pages_controller.rb" "tutorials_controller.rb" "tk_analyses_controller.rb" "statuses_controller.rb" "bd_meeting_groups/" "bd_board_categories_controller.rb" "as_audits_controller.rb" "admin_settings_controller.rb" "as_audits/" "errors_controller.rb" "arbitrary_list_items_controller.rb" "as_audit_templates_controller.rb" "messages_controller.rb" "helpdesk_sessions_controller.rb" "tk_folders_controller.rb" "bd_texts/" "bd_external_connections_controller.rb" "tk_nuggets_controller.rb" "sessions_controller.rb" "filter_rules_controller.rb" "webhook/" "concerns/" "nodes_controller.rb" "super_users_controller.rb" "as_charts_controller.rb" "bd_board_items_controller.rb" "as_roadmap_phases_controller.rb" "as_plants/" "bd_meeting_groups_controller.rb" "arbitrary_lists_controller.rb" "data_sources/" "as_question_sections/" "translations_controller.rb" "analyses/" "bd_kpis_controller.rb" "analyses_controller.rb" "bd_logs_controller.rb" "users_controller.rb" "search_controller.rb")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/.git/hooks/" (25893 13841 444678 164000) "../" "./" "pre-commit")
+ ("/home/petarangelov/.emacs.d/elpa/eglot-1.15/" (26044 55419 942966 225000) "eglot.elc" "../" "eglot-pkg.el" "eglot-autoloads.el" "EGLOT-NEWS" "./" "docstyle.texi" "doclicense.texi" "eglot.texi" "eglot.el")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/spec/requests/" (25893 13262 100900 248000) "../" "./" "articles_spec.rb")
+ ("/home/petarangelov/Desktop/solvace-source-master/db/" (26036 55304 0 0) "../" "seeds.rb" "./" "schema.rb" "migrate/")
 
- ("/home/petarangelov/Desktop/dev/rails/rails7template/app/" (25887 57007 345336 349000) "helpers/" "jobs/" "../" "channels/" "views/" "./" "javascript/" "mailers/" "assets/" "models/" "controllers/")
+ ("/home/petarangelov/Desktop/dev/solvace-source-master/config/" (26054 5572 901360 855000) "circle_dimensions.yml" "environments/" "../" "initializers/" "i18n-tasks.yml" "project_dimensions.yml" "private_pub_thin.yml" "newrelic.yml" "./" "brakeman.ignore" "instance_settings.yml" "sidekiq.yml" "database.yml" "locales/" "secrets.yml" "user_dimensions.yml" "routes.rb" "environment.rb" "boot.rb" "i18n-js.yml" "schedule.yml" "redis/" "sunspot.yml" "private_pub.yml" "application.rb")
 )
 
 ;; ----- ido-unc-hosts-cache -----

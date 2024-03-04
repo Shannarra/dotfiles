@@ -3,6 +3,7 @@
 
 (setq mc/cmds-to-run-for-all
       '(
+        electric-newline-and-maybe-indent
         helm-ls-git-rebase-fixup
         indent-for-tab-command
         keyboard-escape-quit
@@ -11,8 +12,11 @@
         paredit-forward-delete
         paredit-forward-slurp-sexp
         ruby-end-space
+        save-buffers-kill-terminal
+        sgml-slash
         sh-assignment
         smex
+        yaml-electric-dash-and-dot
         ))
 
 (setq mc/cmds-to-run-once
@@ -22,4 +26,5 @@
         mouse-save-then-kill
         mouse-set-region
         toggle-input-method
+        yaml-electric-backspace
         ))
