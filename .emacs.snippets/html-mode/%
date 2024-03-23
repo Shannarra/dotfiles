@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: erb tag
+# key: %
+# --
+
+<% $1 %>

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: validate presence
+# key: valp
+# --
+
+validate :$1, presence: true

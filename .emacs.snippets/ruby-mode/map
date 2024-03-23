@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: map
+# key: map
+# --
+
+$1.map do |$0|
+  
+end

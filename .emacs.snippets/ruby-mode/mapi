@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mapi
+# key: mapi
+# --
+
+$1.map {|$0| }

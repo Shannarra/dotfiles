@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: eachi
+# key: eachi
+# --
+
+$1.each {|$0| }
