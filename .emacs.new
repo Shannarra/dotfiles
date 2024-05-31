@@ -1,0 +1,48 @@
+(require 'package)
+
+
+(add-to-list 'package-archives
+             '("gnu" . "https://elpa.gnu.org/packages/") t)
+(add-to-list 'package-archives
+             '("melpa" . "https://melpa.org/packages/") t)
+(add-to-list 'package-archives
+             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
+
+(package-initialize)
+
+
+(set-frame-font 
+ (cond
+  ((eq system-type 'windows-nt) "Iosevka 18")
+  ((eq system-type 'gnu/linux) "Iosevka 20"))
+ nil t)
+
+(tool-bar-mode 0)
+(menu-bar-mode 0)
+(scroll-bar-mode 0)
+(column-number-mode 1)
+(show-paren-mode 1)
+
+(setq display-line-numbers t)
+(setq display-line-numbers 'relative)
+(load-theme 'spacemacs-light t)
+
+(require 'eglot)
+
+(with-eval-after-load 'eglot
+ (add-to-list 'eglot-server-programs '((ruby-mode ruby-ts-mode) "ruby-lsp")))
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages
+   '(robe company yasnippet lsp-mode spacemacs-theme eglot dash)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
+
