@@ -1,6 +1,5 @@
 (require 'package)
 
-
 (add-to-list 'package-archives
              '("gnu" . "https://elpa.gnu.org/packages/") t)
 (add-to-list 'package-archives
@@ -9,7 +8,6 @@
              '("melpa-stable" . "https://stable.melpa.org/packages/") t)
 
 (package-initialize)
-
 
 (set-frame-font 
  (cond
@@ -22,23 +20,83 @@
 (scroll-bar-mode 0)
 (column-number-mode 1)
 (show-paren-mode 1)
+(global-display-line-numbers-mode t)
 
-(setq display-line-numbers t)
-(setq display-line-numbers 'relative)
-(load-theme 'spacemacs-light t)
+(load-theme 'spacemacs-dark t)
 
-(require 'eglot)
+;; Auto trigger lsp and lsp-ui for Ruby foles
+(add-to-list 'auto-mode-alist
+             '("\\(?:Brewfile\\|Capfile\\|Gemfile\\(?:\\.[a-zA-Z0-9._-]+\\)?\\|[rR]akefile\\)\\'" . ruby-mode))
+(add-hook 'ruby-mode-hook 'lsp)
+(add-hook 'ruby-mode-hook 'lsp-ui-mode)
 
-(with-eval-after-load 'eglot
- (add-to-list 'eglot-server-programs '((ruby-mode ruby-ts-mode) "ruby-lsp")))
+(require 'multiple-cursors)
+
+(global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
+(global-set-key (kbd "C->")         'mc/mark-next-like-this)
+(global-set-key (kbd "C-<")         'mc/mark-previous-like-this)
+(global-set-key (kbd "C-c C-<")     'mc/mark-all-like-this)
+(global-set-key (kbd "C-\"")        'mc/skip-to-next-like-this)
+(global-set-key (kbd "C-:")         'mc/skip-to-previous-like-this)
+
+(global-set-key (kbd "C-c C-c M-x") 'execute-extended-command)
+(global-set-key (kbd "C-z")         'undo)
+(global-set-key (kbd "M-g M-f")     'goto-line)
+(global-set-key (kbd "C-c C-d")     (print "# rubocop:disable "))
+(global-set-key (kbd "C-c C-e")     (print "# rubocop:enable "))
+(global-set-key (kbd "C-c C-b")     (print "binding.pry"))
+
+(setq-default tab-width 2)
+(setq initial-scratch-message "
+\" Happy coding!
+ -- Editing shortcuts:
+ C-S-c C-S-c 'mc/edit-lines
+ C->         'mc/mark-next-like-this
+ C-<         'mc/mark-previous-like-this
+ C-c C-<     'mc/mark-all-like-this
+ C-          'mc/skip-to-next-like-this
+ C-:         'mc/skip-to-previous-like-this
+ -- Magit
+ C-c m s     'magit-status
+ C-c m l     'magit-log
+
+-- Search
+M-x find-name-dired
+
+-- Tree
+C-c C-t      'neotree-toggle
+
+-- Go to line
+M-g M-f <line-number>
+
+-- Ruby stuff
+C-c C-d      # rubocop:disable
+C-c C-e      # rubocop:enable
+C-c C-b      binding.pry
+C-c C-r C-t 'compile-rb-tags
+
+ -- Lisp
+ C-c) C-j eval-print-last-sexp
+
+ You can write some Emacs Lisp right here:
+\"
+")
+
+;; Tree sidebar view
+(require 'neotree)
+;; https://github.com/jaypei/emacs-neotree/blob/dev/README.md#keybindings
+(global-set-key (kbd "C-c C-t") 'neotree-toggle)
+
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(display-line-numbers-type 'relative)
  '(package-selected-packages
-   '(robe company yasnippet lsp-mode spacemacs-theme eglot dash)))
+	 '(neotree mc-extras rust-mode lsp-ui ## robe company yasnippet lsp-mode spacemacs-theme eglot dash)))
+
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
