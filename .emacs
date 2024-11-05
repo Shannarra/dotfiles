@@ -27,6 +27,10 @@
 (load-theme 'spacemacs-dark t)
 (setq ring-bell-function 'ignore)
 
+(ido-mode 1)
+(setq inhibtit-startup-screen t)
+(setq make-backup-files nil)
+
 ;; Auto trigger lsp and lsp-ui for different files:
 
 ;; 1. Ruby
@@ -42,6 +46,8 @@
 ;; 3. Docker
 (add-to-list 'auto-mode-alist
              '("\\(?:Dockerfile\\)\\'" . dockerfile-mode))
+
+(load "~/.emacs.local/org-config.el")
 
 (use-package fzf
 	:defer t
@@ -77,6 +83,7 @@
 (global-set-key (kbd "M-n") 'move-text-down)
 
 (setq-default tab-width 2)
+(setq rust-format-on-save t)
 
 (setq initial-scratch-message "
 \" Happy coding!
@@ -128,15 +135,26 @@ C-c C-b      binding.pry
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(imp-default-user-filters '((markdown-mode) (html-mode) (web-mode)))
+ '(inhibit-startup-screen t)
+ '(org-agenda-files '("/home/shannarra/Desktop/impass.org"))
  '(package-selected-packages
-	 '(fzf dockerfile-mode docker-compose-mode rust-mode yaml ## yasnippet move-text lsp-haskell haskell-mode magit lsp-ui lsp-mode enh-ruby-mode eglot company-inf-ruby company flymake-ruby neotree multiple-cursors spacemacs-theme)))
+	 '(markdown-preview-mode impatient-mode yaml-mode fzf dockerfile-mode docker-compose-mode rust-mode yaml ## yasnippet move-text lsp-haskell haskell-mode magit lsp-ui lsp-mode enh-ruby-mode eglot company-inf-ruby company flymake-ruby neotree multiple-cursors spacemacs-theme)))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- )
+ '(org-document-title ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif" :height 1.6 :underline nil))))
+ '(org-level-1 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif" :height 1.5))))
+ '(org-level-2 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif" :height 1.3))))
+ '(org-level-3 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif" :height 1.2))))
+ '(org-level-4 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif" :height 1.1))))
+ '(org-level-5 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif"))))
+ '(org-level-6 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif"))))
+ '(org-level-7 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif"))))
+ '(org-level-8 ((t (:inherit default :weight bold :foreground "#b2b2b2" :family "Sans Serif")))))
 
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
