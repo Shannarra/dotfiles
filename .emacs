@@ -11,8 +11,8 @@
 
 (set-frame-font 
  (cond
-  ((eq system-type 'windows-nt) "Iosevka 18")
-  ((eq system-type 'gnu/linux) "Iosevka 20"))
+  ((eq system-type 'windows-nt) "Iosevka Nerd Font Mono 16")
+  ((eq system-type 'gnu/linux) "Iosevka Nerd Font Mono 16"))
  nil t)
 
 (tool-bar-mode 0)
@@ -49,20 +49,6 @@
 
 (load "~/.emacs.local/org-config.el")
 
-(use-package fzf
-	:defer t
-	:config
-	(setq
-	 fzf/args "-x --print-query --margin=1,0 --no-hscroll"
-	 fzf/executable "fzf"
-	 fzf/git-grep-args "-i --line-number %s"        
-	 fzf/grep-command "rg --no-heading -nH"        
-	 fzf/position-bottom t        
-	 fzf/window-height 15)  
-	:bind  (
-					("<f5>" . (lambda (&optional x) (interactive "P") 
-                        (if x (fzf-git) (fzf))))))
-
 (require 'multiple-cursors)
 
 (global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
@@ -81,6 +67,8 @@
 
 (global-set-key (kbd "M-p") 'move-text-up)
 (global-set-key (kbd "M-n") 'move-text-down)
+(global-set-key (kbd "<f5>") 'affe-find)
+(global-set-key (kbd "<f6>") 'affe-grep)
 
 (setq-default tab-width 2)
 (setq rust-format-on-save t)
@@ -108,7 +96,10 @@ C-c C-t      'neotree-toggle
 M-g M-f      <line-number>
 
 -- Find a file
-<f5>         <file-name-interactive>
+<f5>         <affe-find>
+
+-- Grep for any string
+<f6>         <affe-grep>
 
 -- Ruby stuff
 C-c C-d      # rubocop:disable
@@ -139,7 +130,13 @@ C-c C-b      binding.pry
  '(inhibit-startup-screen t)
  '(org-agenda-files '("/home/shannarra/Desktop/impass.org"))
  '(package-selected-packages
-	 '(markdown-preview-mode impatient-mode yaml-mode fzf dockerfile-mode docker-compose-mode rust-mode yaml ## yasnippet move-text lsp-haskell haskell-mode magit lsp-ui lsp-mode enh-ruby-mode eglot company-inf-ruby company flymake-ruby neotree multiple-cursors spacemacs-theme)))
+	 '(## affe autodisass-llvm-bitcode company company-inf-ruby
+				docker-compose-mode dockerfile-mode eglot enh-ruby-mode
+				flymake-ruby fzf haskell-mode impatient-mode js-doc
+				js-react-redux-yasnippets jtsx lsp-haskell lsp-mode lsp-ui
+				magit markdown-mode markdown-preview-mode move-text
+				multiple-cursors neotree rjsx-mode ruby-test-mode rust-mode
+				spacemacs-theme tide yaml yaml-mode yasnippet)))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
